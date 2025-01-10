@@ -83,6 +83,9 @@ nav:
       - Entrega 4:
         - Planejamento da verificação: verificacao/grupo6/entrega4/planej-verificacao-e4-gp6.md
         - Relatório de verificação: verificacao/grupo6/entrega4/relatorio-verificacao-e4-gp6.md
+  
+  - Pós Rastreabilidade:
+    - Backward-From:  pos-rastreabilidade/backward-from.md
 theme:
   logo: assets/header-logo-tesourodireto.png
   name: material
