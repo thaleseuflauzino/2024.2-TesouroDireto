@@ -235,7 +235,7 @@ Cada tipo de elo é projetado para garantir que os requisitos do sistema sejam c
 Tomando o Meta-modelo de Toranzo como base, este documento descreve 45 elos de rastreabilidade que possibilitam avaliar a coerência e a qualidade dos requisitos identificados para o projeto do aplicativo Tesouro Direto. Esses elos abrangem diversos níveis de abstração e dimensões dos requisitos, além de suas inter-relações. Dessa forma, torna-se viável verificar se os requisitos estão alinhados aos objetivos do projeto, se atendem às expectativas e necessidades dos stakeholders, e se apresentam consistência e completude.
 
 
-## Referência Bibliografia
+## Referências Bibliográficas
 
 > <a id="REF1">1.</a> Requirements Engineering Fundamentals. Disponível [aqui](../assets/pos-rastreabilidade/Requisitos%20-%20Aula%20026.pdf). Acesso em: 12 jan. 2025.
 
