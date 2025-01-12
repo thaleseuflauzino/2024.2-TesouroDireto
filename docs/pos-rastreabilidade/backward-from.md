@@ -131,63 +131,108 @@ Neste trecho, exploramos os vínculos associados aos requisitos listados nas tab
 
 <center>
 
-<font size="3"><p style="text-align: center"><b>Tabela 3:</b> Elos de rastreabilidade.</p></font>
+#### **Tabela 3:** Elos de rastreabilidade
 
 | ID      | Requisitos  | Tipo de elo     | Descrição do elo |
 |---------|-------------|-----------------|------------------------------------------------|
-| ELOB01  | BCF01       | Representação   |  |
-| ELOB02  | BCF02       | Representação   |                                    |
-| ELOB03  | BCF03       | Representação   |                     |
-| ELOB04  | BCF04       | Representação   |                       |
-| ELOB05  | BCF05       | Satisfação      |         |
-| ELOB06  | BCF06       | Satisfação      |         |
-| ELOB07  | BCF07       | Satisfação      |         |
-| ELOB08  | BCF08       | Satisfação      |                      |
-| ELOB09  | BCF09       | Satisfação      |                  |
-| ELOB10  | BCF10       | Satisfação      | O requisito RF10, que diz que o aplicativo deve permitir pagamentos de débitos por cartão, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                  |
-| ELOB11  | BCF11       | Satisfação      | O requisito RF11, que diz que o aplicativo deve permitir pagamentos de débitos por PIX, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                    |
-| ELOB12  | BCF12       | Satisfação      | O requisito RF12, que diz que o aplicativo deve permitir parcelamento de débitos, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                          |
-| ELOB13  | BCF13       | Satisfação      | O requisito RF13, que diz que o aplicativo deve consultar o histórico de pagamentos realizados, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.            |
-| ELOB14  | BCF14       | Satisfação      | O requisito RF14, que diz que o aplicativo deve consultar o extrato de pagamentos realizados, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.              |
-| ELOB15  | BCF15       | Satisfação      | O requisito RF15, que diz que o aplicativo deve consultar débitos de forma integrada, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                      |
-| ELOB16  | BCF16       | Satisfação      | O requisito RF16, que diz que o aplicativo deve permitir pagamentos de débitos por boleto, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                 |
-| ELOB17  | BCF17       | Satisfação      | O requisito RF17, que diz que o aplicativo deve permitir pagamentos de débitos por cartão, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                  |
-| ELOB18  | BCF18       | Satisfação      | O requisito RF18, que diz que o aplicativo deve permitir pagamentos de débitos por PIX, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                    |
-| ELOB19  | BCF19       | Satisfação      | O requisito RF19, que diz que o aplicativo deve permitir parcelamento de débitos, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                          |
-| ELOB20  | BCF20       | Satisfação      | O requisito RF20, que diz que o aplicativo deve consultar o histórico de pagamentos realizados, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.            |
-| ELOB21  | BCF21       | Satisfação      | O requisito RF21, que diz que o aplicativo deve consultar o extrato de pagamentos realizados, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.              |
-| ELOB22  | BCF22       | Satisfação      | O requisito RF22, que diz que o aplicativo deve consultar o saldo do programa Nota Legal, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                  |
-| ELOB23  | BCF23       | Satisfação      | O requisito RF23, que diz que o aplicativo deve consultar o extrato do programa Nota Legal, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                |
-| ELOB24  | BCF24       | Representação   | O requisito RF25, que diz que o aplicativo deve permitir pagamentos por saldo Nota Legal, tem como fonte a necessidade do usuário. O tipo de elo é representação, pois captura a forma dos requisitos.                                 |
-| ELOB25  | BCF25       | Satisfação      | O requisito RF26, que diz que o aplicativo deve permitir pagamentos por saldo Nota Legal, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                  |
-| ELOB26  | BCF26       | Satisfação      | O requisito RF30, que diz que o aplicativo deve permitir pagamentos por saldo Nota Legal, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                  |
-| ELOB27  | BCF27       | Recurso         | O requisito RNF24, que diz que o aplicativo deve ter uma interface amigável, tem como fonte a necessidade do usuário. O tipo de elo é recurso, pois expressa como o requisito contribui para a disponibilidade de um recurso.           |
-| ELOB28  | BCF28       | Recurso         | O requisito RNF25, que diz que o aplicativo deve ser seguro, tem fonte a necessidade do usuário. O tipo de elo é recurso, pois expressa como o requisito contribui para a disponibilidade de um recurso.           |
-| ELOB29  | BCF29       | Satisfação      | O requisito RF10, que diz que o aplicativo deve permitir pagamentos de débitos por cartão, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                  |
-| ELOB30  | BCF30       | Satisfação      | O requisito RF11, que diz que o aplicativo deve permitir pagamentos de débitos por PIX, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                    |
-| ELOB31  | BCF31       | Satisfação      | O requisito RF12, que diz que o aplicativo deve permitir parcelamento de débitos, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                          |
-| ELOB32  | BCF32       | Satisfação      | O requisito RF13, que diz que o aplicativo deve consultar o histórico de pagamentos realizados, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.            |
-| ELOB33  | BCF33       | Satisfação      | O requisito RF14, que diz que o aplicativo deve consultar o extrato de pagamentos realizados, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.              |
-| ELOB34  | BCF34       | Satisfação      | O requisito RF15, que diz que o aplicativo deve consultar débitos de forma integrada, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                      |
-| ELOB35  | BCF35       | Satisfação      | O requisito RF16, que diz que o aplicativo deve permitir pagamentos de débitos por boleto, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                 |
-| ELOB36  | BCF36       | Satisfação      | O requisito RF17, que diz que o aplicativo deve permitir pagamentos de débitos por cartão, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                  |
-| ELOB37  | BCF37       | Satisfação      | O requisito RF18, que diz que o aplicativo deve permitir pagamentos de débitos por PIX, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                    |
-| ELOB38  | BCF38       | Satisfação      | O requisito RF19, que diz que o aplicativo deve permitir parcelamento de débitos, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                          |
-| ELOB39  | BCF39       | Satisfação      | O requisito RF20, que diz que o aplicativo deve consultar o histórico de pagamentos realizados, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.            |
-| ELOB40  | BCF40       | Satisfação      | O requisito RF21, que diz que o aplicativo deve consultar o extrato de pagamentos realizados, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.              |
-| ELOB41  | BCF41       | Satisfação      | O requisito RF22, que diz que o aplicativo deve consultar o saldo do programa Nota Legal, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                  |
-| ELOB42  | BCF42       | Satisfação      | O requisito RF23, que diz que o aplicativo deve consultar o extrato do programa Nota Legal, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                |
-| ELOB43  | BCF43       | Representação   | O requisito RF25, que diz que o aplicativo deve permitir pagamentos por saldo Nota Legal, tem como fonte a necessidade do usuário. O tipo de elo é representação, pois captura a forma dos requisitos.                                 |
-| ELOB44  | BCF44       | Satisfação      | O requisito RF26, que diz que o aplicativo deve permitir pagamentos por saldo Nota Legal, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                  |
-| ELOB45  | BCF45       | Satisfação      | O requisito RF30, que diz que o aplicativo deve permitir pagamentos por saldo Nota Legal, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                  |
+| ELOB01  | BCF01       | Representação                 | O requisito está relacionado à forma como as informações sobre títulos públicos (nome, rentabilidade, valor mínimo e vencimento) são exibidas ao usuário. |
+| ELOB02  | BCF02       | Satisfação                    | Este requisito depende de simulações precisas de investimento nos diferentes tipos de títulos (SELIC, Prefixado e Inflação) para atender às expectativas do usuário.|
+| ELOB03  | BCF03       | Agregação                     | Relaciona-se ao cálculo de valores líquidos com base em dados de resgate antecipado e rentabilidade acumulada, que dependem de múltiplas variáveis, como data e taxa acumulada.                    |
+| ELOB04  | BCF04       | Representação                 | Este elo trata de como as metas de investimento (Sonhos) serão representadas no sistema, permitindo ao usuário salvar seus objetivos financeiros.                      |
+| ELOB05  | BCF05       | Alocado                       | Refere-se à funcionalidade de planejamento de aposentadoria, que deve ser vinculada a um subsistema específico responsável por processar dados como ano esperado de aposentadoria e simulações relacionadas.        |
+| ELOB06  | BCF06       | Recurso                       | Este requisito depende de dados externos, como a taxa de custódia da B3 e a taxa de administração da instituição financeira, sendo essencial que o sistema tenha acesso a essas informações para exibição ao usuário.        |
+| ELOB07  | BCF07       | Representação                 | Relaciona-se à forma como as operações de compra e agendamento de títulos do Tesouro Nacional serão exibidas e organizadas para consulta dentro do aplicativo.        |
+| ELOB08  | BCF08       | Responsabilidade              | O requisito envolve a criação de uma tela “Fale Conosco”, que é uma responsabilidade da equipe de suporte ao cliente, incluindo informações de contato e perguntas frequentes.                     |
+| ELOB09  | BCF09       | Representação                 | Este elo trata de como os dados cadastrais do usuário (nome, CPF, e-mail, celular) serão exibidos de forma clara e acessível no sistema.                 |
+| ELOB10  | BCF10       | Satisfação e Responsabilidade | A implementação de notificações personalizadas depende tanto da responsabilidade de uma funcionalidade específica quanto da satisfação do usuário em ser lembrado de metas ou vencimentos de títulos.                  |
+| ELOB11  | BCF11       | Alocado                       | O requisito de transferência automática entre investimentos é alocado a subsistemas específicos que gerenciam metas financeiras e execução automatizada de operações.                   |
+| ELOB12  | BCF12       | Satisfação                    | O fornecimento de relatórios mensais satisfaz a necessidade do usuário de monitorar e entender a evolução de seus rendimentos financeiros.                         |
+| ELOB13  | BCF13       | Representação                 | O recurso educativo é representado por vídeos e artigos, que são formatos de entrega acessíveis e compreensíveis para os usuários.          |
+| ELOB14  | BCF14       | Integração                    | Relaciona-se à agregação de carteiras digitais de terceiros para possibilitar pagamentos diretos no aplicativo, representando a interoperabilidade entre sistemas financeiros.              |
+| ELOB15  | BCF15       | Monitoramento                 | Incorporar alertas de mercado é uma funcionalidade alocada ao sistema de notificações e depende de recursos externos para obter dados em tempo real sobre a SELIC ou inflação.                     |
+| ELOB16  | BCF16       | Responsabilidade              | A personalização do perfil do usuário por expertise é responsabilidade do módulo de cadastro e preferências, que deve garantir que os dados sejam capturados corretamente para ajustar a experiência do usuário.                 |
+| ELOB17  | BCF17       | Representação                 | O tutorial guia o usuário no uso do aplicativo, sendo representado por uma sequência de telas ou mensagens interativas que orientam sobre as funcionalidades disponíveis.                  |
+| ELOB18  | BCF18       | Representação                 | A exibição da liquidez dos títulos é representada como informações numéricas ou visuais durante as simulações financeiras, facilitando a compreensão do usuário.                    |
+| ELOB19  | BCF19       | Recurso                       | A comparação entre diferentes investimentos utiliza recursos de cálculo e análise baseados em dados históricos e projeções, permitindo ao sistema gerar insights confiáveis para o usuário.                          |
+| ELOB20  | BCF20       | Representação                 | A evolução das metas é representada de forma gráfica e interativa na tela de metas e sonhos, proporcionando ao usuário uma visualização clara do progresso de seus objetivos financeiros.            |
+| ELOB21  | BCF21       | Representação                 | O dashboard é representado visualmente por gráficos e tabelas que exibem dados de rentabilidade dos títulos adquiridos e a taxa de inflação.             |
+| ELOB22  | BCF22       | Representação                 | A barra de progresso na aba "Meus Sonhos" é uma representação visual do progresso em direção às metas financeiras do usuário, permitindo fácil monitoramento.                  |
+| ELOB23  | BCF23       | Representação                 | Similar ao requisito anterior, a barra de progresso é representada visualmente, reforçando a experiência interativa do usuário ao acompanhar seus sonhos e metas.                |
+| ELOB24  | BCF24       | Personalização                | As sugestões personalizadas dependem da autodeclaração de expertise do usuário e são exibidas dinamicamente na página inicial do "Meu Investimento", adaptando-se ao perfil do usuário.                               |
+| ELOB25  | BCF25       | Recurso                       | A compra de títulos públicos utiliza diferentes métodos de pagamento, representando uma dependência de recursos externos, como integração com APIs de pagamento ou bancos parceiros.                  |
+| ELOB26  | BCF26       | Alocado                       | A exibição da rentabilidade acumulada de cada título é alocada ao módulo de análise financeira, que calcula e apresenta essas informações para o usuário.                  |
+| ELOB27  | BCF27       | Responsabilidade              | O cadastro de contas próprias é uma responsabilidade do módulo de autenticação do sistema, que gerencia os dados de login e segurança dos usuários.           |
+| ELOB28  | BCF28       | Integração                    | A funcionalidade de login e cadastro via gov.br integra o sistema com a plataforma gov.br, reforçando a autenticação e possibilitando o uso de credenciais governamentais existentes.           |
+| ELOB29  | BCF29       | Personalização                | A funcionalidade de escolha de investimentos, definição de valores e decisão sobre investir agora ou depois reflete a personalização das ações do usuário, conectada às preferências declaradas no momento do uso.                  |
+| ELOB30  | BCF30       | Representação                 | As opções de escolha de investimentos, definição de valores e decisões de investimento são representadas por botões e campos de entrada no sistema, com suporte a terminologias claras explicadas no glossário associado.                    |
+| ELOB31  | BCF31       | Representação                 | O simulador de evolução de um título do tesouro direto é representado por gráficos interativos que mostram a projeção de valores com base em um período de tempo selecionado pelo usuário.                          |
+| ELOB32  | BCF32       | Recurso                       | O questionário é um recurso essencial para coletar informações do usuário (como perfil de investimento e objetivos) e gerar os resultados personalizados do simulador.            |
+| ELOB33  | BCF33       | Representação                 | O simulador exibe informações como título selecionado, tempo de investimento, valor futuro esperado ou valor investido atualmente, representando essas variáveis nos cálculos exibidos ao usuário.              |
+| ELOB34  | BCF34       | Representação                 | A barra de progresso para cada meta é uma representação visual que reflete o avanço individual na conclusão das metas definidas pelo usuário, facilitando o acompanhamento.                      |
+| ELOB35  | BCF35       | Responsabilidade              | A gestão de dados das contas (nome, CPF, e-mail e celular) é uma responsabilidade do módulo de cadastro e autenticação, que garante a segurança e integridade dessas informações.                 |
+| ELOB36  | BCF36       | Qualidade                     | O tempo de resposta inferior a 2 segundos para consultas básicas garante a qualidade do desempenho do sistema, proporcionando uma experiência fluida ao usuário.                  |
+| ELOB37  | BCF37       | Responsabilidade              | Garantir a segurança dos dados sensíveis é uma responsabilidade essencial para atender à LGPD, protegendo a privacidade do usuário e evitando vazamentos de informações.                    |
+| ELOB38  | BCF38       | Qualidade                     | A responsividade do aplicativo assegura que ele funcione de maneira adequada em dispositivos móveis e tablets, atendendo a uma ampla variedade de usuários e dispositivos.                          |
+| ELOB39  | BCF39       | Conformidade                  | Seguir as diretrizes de acessibilidade da norma técnica [NBR 17060:2022](HTTPS://WWW.ABNTCOLECAO.COM.BR/MPF/NORMA.ASPX?ID=516652#) assegura que o aplicativo atenda a padrões de acessibilidade e usabilidade para todos os públicos.            |
+| ELOB40  | BCF40       | Recurso                       | A integração segura com APIs financeiras é um recurso fundamental para possibilitar transações e troca de informações sensíveis, respeitando a LGPD.              |
+| ELOB41  | BCF41       | Funcionalidade                | O suporte para múltiplos idiomas (com português como padrão) é uma funcionalidade que aumenta a acessibilidade e torna o aplicativo útil para um público mais diversificado.                  |
+| ELOB42  | BCF42       | Usabilidade                   | A acessibilidade do perfil de recomendação em até 3 cliques melhora a usabilidade do aplicativo, permitindo que o usuário navegue rapidamente até a funcionalidade desejada.                |
+| ELOB43  | BCF43       | Experiência                   | A inclusão de um tema escuro melhora a experiência do usuário, especialmente em ambientes com pouca iluminação, oferecendo uma interface mais confortável e personalizada.                                 |
+| ELOB44  | BCF44       | Responsabilidade              | Garantir a segurança nas transações de títulos públicos é uma responsabilidade crítica para proteger os investimentos do usuário contra fraudes e acessos não autorizados.                  |
+| ELOB45  | BCF45       | Conformidade                  | Manter os títulos do Tesouro Nacional atualizados com relação à inflação e taxa de juros é uma conformidade necessária para assegurar que os cálculos e informações fornecidas sejam precisos e confiáveis.                  |
 
-<font size="3"><p style="text-align: center">Autores: <a href="https://github.com/gabrielrosa09">Gabriel Rosa</a> e <a href="https://github.com/LucasOliveiraDiasMarquesFerreira">Lucas Oliveira</a>, 2023</p></font>
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a>, 2025</p></font>
 
 </center>
 
+### Tipos de Elos
+1. **Representação**  
+   Refere-se à maneira como as informações são exibidas ou organizadas no sistema. Esse tipo de elo garante que os dados sejam apresentados de forma clara, acessível e amigável ao usuário. Exemplos incluem gráficos, tabelas, barras de progresso ou elementos interativos.
+
+2. **Satisfação**  
+   Relaciona-se ao atendimento das expectativas e necessidades dos usuários. Esse elo assegura que as funcionalidades forneçam uma experiência positiva, como a personalização de notificações ou relatórios que atendem aos desejos dos stakeholders.
+
+3. **Agregação**  
+   Este elo representa a combinação de diferentes dados ou variáveis para fornecer uma informação consolidada. Por exemplo, cálculos que utilizam múltiplos inputs, como taxas e datas, para gerar valores acumulados.
+
+4. **Alocado**  
+   Define onde uma funcionalidade ou requisito está posicionado no sistema. Este elo está relacionado à organização de módulos ou subsistemas específicos responsáveis por determinadas tarefas, como planejamento financeiro ou análise de dados.
+
+5. **Recurso**  
+   Relaciona-se à dependência de dados externos ou serviços adicionais para o funcionamento de uma funcionalidade. Exemplo: integração com APIs financeiras, uso de taxas externas ou coleta de informações para simulações.
+
+6. **Responsabilidade**  
+   Indica quais partes do sistema ou equipes são responsáveis por implementar ou manter uma funcionalidade específica, como o módulo de suporte ou cadastro. É essencial para o gerenciamento de responsabilidades internas.
+
+7. **Integração**  
+   Este elo aborda a interoperabilidade entre sistemas ou subsistemas. Garante que funcionalidades, como o login com gov.br ou carteiras digitais, funcionem de forma harmoniosa com outras plataformas.
+
+8. **Personalização**  
+   Refere-se à adaptação de funcionalidades com base nas preferências, perfil ou escolhas do usuário. Esse elo torna o sistema mais relevante para o usuário individual, como sugestões dinâmicas ou exibição personalizada de informações.
+
+9. **Monitoramento**  
+   Envolve o acompanhamento de eventos ou dados em tempo real, como alertas de mercado ou mudanças em taxas. Esse elo é crucial para manter o usuário informado sobre situações relevantes.
+
+10. **Qualidade**  
+   Focado na performance e experiência geral do sistema. Exemplos incluem tempos de resposta rápidos, responsividade para dispositivos móveis e entrega de informações precisas e confiáveis.
+
+11. **Conformidade**  
+   Garante que o sistema esteja alinhado a normas e regulamentações externas, como acessibilidade ou proteção de dados sensíveis (LGPD). É essencial para manter o aplicativo em conformidade legal.
+
+12. **Funcionalidade**  
+   Refere-se aos recursos ou capacidades do sistema que melhoram a experiência geral do usuário, como suporte a múltiplos idiomas ou temas. Esse elo contribui diretamente para a utilidade do aplicativo.
+
+13. **Usabilidade**  
+   Relaciona-se à facilidade de uso do sistema, como navegação intuitiva ou simplificação de cliques para acessar funcionalidades importantes. É um elo fundamental para a satisfação do usuário.
+
+14. **Experiência**  
+   Este elo aborda melhorias subjetivas, como a introdução de um tema escuro, que tornam a interação do usuário mais confortável e atraente.
+
+Cada tipo de elo é projetado para garantir que os requisitos do sistema sejam coerentes, alinhados com os objetivos do projeto e otimizados para oferecer a melhor experiência possível ao usuário.
+
 ## Conclusão
 
-Considerando o Meta-modelo de Toranzo como referência, este documento apresenta 30 elos de rastreabilidade que permitem avaliar a qualidade e a coerência dos requisitos elicitados para o projeto do aplicativo do Economia-Df. Esses elos abrangem as diferentes dimensões e níveis de abstração dos requisitos, bem como as relações entre eles. Assim, é possível verificar se os requisitos atendem às necessidades e expectativas dos stakeholders, se são consistentes e completos, e se estão alinhados com os objetivos do projeto.
+Tomando o Meta-modelo de Toranzo como base, este documento descreve 45 elos de rastreabilidade que possibilitam avaliar a coerência e a qualidade dos requisitos identificados para o projeto do aplicativo Tesouro Direto. Esses elos abrangem diversos níveis de abstração e dimensões dos requisitos, além de suas inter-relações. Dessa forma, torna-se viável verificar se os requisitos estão alinhados aos objetivos do projeto, se atendem às expectativas e necessidades dos stakeholders, e se apresentam consistência e completude.
 
 
 ## Referência Bibliografia
@@ -196,7 +241,12 @@ Considerando o Meta-modelo de Toranzo como referência, este documento apresenta
 
 > <a id="REF2">2.</a> Slides da Aula 26 da Professora Milene Serrano. Disponível em: [aqui](../assets/pos-rastreabilidade/requirements-fundamentals.pdf). Acesso em: 12 jan. 2025.
 
+## Bibliografia
+
+> 1. Economia DF - "Rastreabilidade - Backward From". Disponível em: [https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/backward_from/](https://requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/backward_from/). Acesso em: 12 jan. 2025.
+
 ## Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|12/01/2025|Criação e ajuste do Documento|[Víctor Schmidt](https://github.com/moonshinerd)||
+|`1.1`|12/01/2025|Configurando artefato e adicionando os requisitos que trabalhamos na disciplina|[Grupo](../../)| [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
