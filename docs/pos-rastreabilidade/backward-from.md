@@ -135,13 +135,13 @@ Neste trecho, exploramos os vínculos associados aos requisitos listados nas tab
 
 | ID      | Requisitos  | Tipo de elo     | Descrição do elo |
 |---------|-------------|-----------------|------------------------------------------------|
-| ELOB01  | BCF01       | Representação   | O requisito está relacionado à forma como as informações sobre títulos públicos (nome, rentabilidade, valor mínimo e vencimento) são exibidas ao usuário. |
+| ELOB01  | BCF01       | Representação   |  |
 | ELOB02  | BCF02       | Representação   |                                    |
 | ELOB03  | BCF03       | Representação   |                     |
 | ELOB04  | BCF04       | Representação   |                       |
-| ELOB05  | BCF05       | Satisfação      | atende às necessidades.        |
-| ELOB06  | BCF06       | Satisfação      | atende às necessidades.        |
-| ELOB07  | BCF07       | Satisfação      | atende às necessidades.        |
+| ELOB05  | BCF05       | Satisfação      |         |
+| ELOB06  | BCF06       | Satisfação      |         |
+| ELOB07  | BCF07       | Satisfação      |         |
 | ELOB08  | BCF08       | Satisfação      |                      |
 | ELOB09  | BCF09       | Satisfação      |                  |
 | ELOB10  | BCF10       | Satisfação      | O requisito RF10, que diz que o aplicativo deve permitir pagamentos de débitos por cartão, tem como fonte a necessidade do usuário. O tipo de elo é satisfação, pois expressa como o requisito atende às necessidades.                  |
