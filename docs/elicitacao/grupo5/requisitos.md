@@ -27,8 +27,8 @@ _Legenda das Tabelas:_
 | Identificador | Descrição | ID | Implementado |
 | :---- | :---- | :---- | :---- |
 | <a id="anchor_RF01" style="visibility: hidden"></a>RF01 | O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis com suas características principais: nome do título, rentabilidade, valor mínimo e vencimento. | [IT1](./introspeccao.md), [GLO01](./glossario.md) | Sim |
-| <a id="anchor_RF02" style="visibility: hidden"></a>RF02 | O sistema deverá permitir a simulação de investimento nos títulos SELIC, Prefixado e Inflação | [IT2](./introspeccao.md) | Sim |
-| <a id="anchor_RF03" style="visibility: hidden"></a>RF03 | O sistema deve permitir o resgate antecipado de títulos, com cálculo automático do valor líquido baseado na data de resgate e na rentabilidade acumulada. | [IT3](./introspeccao.md), [GLO07](./glossario.md) | Sim | 
+| <a id="anchor_RF02" style="visibility: hidden"></a>RF02 | O sistema deverá permitir a simulação de investimento nos títulos SELIC, Prefixado e Inflação                                                                                          | [IT2](./introspeccao.md) | Sim |
+| <a id="anchor_RF03" style="visibility: hidden"></a>RF03 | O sistema deve permitir o resgate antecipado de títulos, com cálculo automático do valor líquido baseado na data de resgate e na rentabilidade acumulada.                              | [IT3](./introspeccao.md), [GLO07](./glossario.md) | Sim | 
 | <a id="anchor_RF04" style="visibility: hidden"></a>RF04 | Oferecer funcionalidade para salvar metas de investimentos (Sonhos). | [IT4](./introspeccao.md) | Sim | 
 | <a id="anchor_RF05" style="visibility: hidden"></a>RF05 | Permitir simulação e planejamento de aposentadoria indicando o ano esperado de aposentadoria. | [IT5](./introspeccao.md) | Sim |  
 | <a id="anchor_RF06" style="visibility: hidden"></a>RF06 | Disponibilizar consulta à taxa de custódia da B3 e taxa de administração da instituição financeira. | [IT6](./introspeccao.md) | Sim | 
