@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Este artegato explora a utilização do método de rastreabilidade backward-from, uma abordagem essencial para o desenvolvimento de sistemas que busca conectar requisitos às suas fontes. A rastreabilidade de requisitos é uma prática fundamental que viabiliza o acompanhamento dos requisitos desde sua concepção até sua implementação, proporcionando maior clareza sobre sua origem e impacto. Isso contribui para a gestão eficiente de mudanças, garantia da qualidade e alinhamento contínuo com as expectativas dos stakeholders.
+Este artefato explora a utilização do método de rastreabilidade backward-from, uma abordagem essencial para o desenvolvimento de sistemas que busca conectar requisitos às suas fontes. A rastreabilidade de requisitos é uma prática fundamental que viabiliza o acompanhamento dos requisitos desde sua concepção até sua implementação, proporcionando maior clareza sobre sua origem e impacto. Isso contribui para a gestão eficiente de mudanças, garantia da qualidade e alinhamento contínuo com as expectativas dos stakeholders.
 
 O método backward-from enfatiza a criação de vínculos claros entre cada requisito e sua fonte original, como solicitações de clientes, processos de negócios ou outras referências relevantes. Para fortalecer essa abordagem, utilizamos recursos como os [slides da aula 26](#REF1) ministrada pela professora Milene Serrano e o livro [Requirements Engineering Fundamentals](#REF2), de Klaus Pohl e Chris Rupp, que fornecem diretrizes valiosas para uma rastreabilidade estruturada e completa.
 
@@ -250,3 +250,4 @@ Tomando o Meta-modelo de Toranzo como base, este documento descreve 45 elos de r
 |:----:|----|---------|-----|:-------:|
 |`1.0`|12/01/2025|Criação e ajuste do Documento|[Víctor Schmidt](https://github.com/moonshinerd)||
 |`1.1`|12/01/2025|Configurando artefato e adicionando os requisitos que trabalhamos na disciplina|[Grupo](../../)| [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|`1.2`|12/01/2025|Revisando ortografia dos textos|[Júlia Takaki](https://github.com/juliatakaki)|
