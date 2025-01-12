@@ -59,14 +59,14 @@ Após uma análise dos conceitos relacionados ao domínio dos investimentos e t�
 
 | **Identificador** | **Descrição do Requisito**                                                                                                                                   | **Tipo** |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------|----------|
-| **GLO01**          | O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis, incluindo suas características principais.                          | RF       |
-| **GLO02**          | O sistema deve possibilitar a compra de títulos públicos por meio de diferentes métodos de pagamento, garantindo segurança na transação.                     | RF       |
-| **GLO03**          | O sistema deve exibir a rentabilidade acumulada de cada título na carteira do usuário, de forma clara e atualizada.                                         | RF       |
-| **GLO04**          | A interface do aplicativo deve seguir padrões de acessibilidade para facilitar o uso por diferentes perfis de investidores.                                 | RNF      |
-| **GLO05**          | O sistema deve permitir o resgate antecipado de títulos, com cálculo automático do valor líquido baseado na data de resgate e na rentabilidade acumulada.   | RF       |
-| **GLO06**          | As transações realizadas pelo aplicativo devem ser criptografadas para garantir a proteção dos dados dos usuários.                                          | RNF      |
-| **GLO07**          | O sistema deve enviar notificações ao usuário sobre vencimentos de títulos e atualizações importantes relacionadas à sua carteira de investimentos.          | RF       |
-| **GLO08**          | A aplicação deve ser compatível com dispositivos móveis e navegadores modernos, garantindo desempenho e responsividade adequados.                           | RNF      |
+| **<a id="anchor_GLO01""></a>GLO01**          | O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis, incluindo suas características principais.                          | RF       |
+| **<a id="anchor_GLO02""></a>GLO02**          | O sistema deve possibilitar a compra de títulos públicos por meio de diferentes métodos de pagamento, garantindo segurança na transação.                     | RF       |
+| **<a id="anchor_GLO03""></a>GLO03**          | O sistema deve exibir a rentabilidade acumulada de cada título na carteira do usuário, de forma clara e atualizada.                                         | RF       |
+| **<a id="anchor_GLO04""></a>GLO04**          | A interface do aplicativo deve seguir padrões de acessibilidade para facilitar o uso por diferentes perfis de investidores.                                 | RNF      |
+| **<a id="anchor_GLO05""></a>GLO05**          | O sistema deve permitir o resgate antecipado de títulos, com cálculo automático do valor líquido baseado na data de resgate e na rentabilidade acumulada.   | RF       |
+| **<a id="anchor_GLO06""></a>GLO06**          | As transações realizadas pelo aplicativo devem ser criptografadas para garantir a proteção dos dados dos usuários.                                          | RNF      |
+| **<a id="anchor_GLO07""></a>GLO07**          | O sistema deve enviar notificações ao usuário sobre vencimentos de títulos e atualizações importantes relacionadas à sua carteira de investimentos.          | RF       |
+| **<a id="anchor_GLO08""></a>GLO08**          | A aplicação deve ser compatível com dispositivos móveis e navegadores modernos, garantindo desempenho e responsividade adequados.                           | RNF      |
 
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://github.com/juliatakaki">Júlia Takaki</a></font></p>
@@ -84,3 +84,4 @@ Após uma análise dos conceitos relacionados ao domínio dos investimentos e t�
 | ------ | ---------- | ---------------------------------- | ------------- | ------------- |
 | `1.0`  | 21/11/2024 | Criação do documento.              | [Júlia Takaki](https://github.com/juliatakaki) |[Thales Euflauzino](https://github.com/thaleseuflauzino)|
 | `1.1`  | 21/11/2024 | Ajustes fonte para autor e na bibliografia | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| `1.2` | 12/12/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) | | 
