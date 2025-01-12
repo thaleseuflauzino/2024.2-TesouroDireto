@@ -98,19 +98,19 @@ Para abrir o documento completo do termo de consentimento, [clique aqui](../../.
 
 | Tipo   | Descrição                                                                 | ID   | Elaborado (Sim/Não) |
 |--------|---------------------------------------------------------------------------|------|---------------------|
-| RF1   | O aplicativo deverá possuir uma tela de login integrado com o [gov.br](https://www.gov.br/pt-br) | GF01 | Sim  |
-| RF2   | O aplicativo deverá permitir que o usuário faça login criando uma conta própria no sistema      | GF02 | Sim   |
-| RF3   | O aplicativo deverá possuir uma ferramenta de simulação de evolução dos investimentos.      | GF03 | Sim   |
-| RF4   | O aplicativo deverá possuir uma ferramenta para comparar o investimento escolhido com outros tipos de investimento.  | GF04 | Não   |
-| RF5   | O aplicativo deverá possuir a funcionalidade de alternar entre modo claro e escuro. | GF05 | Não   |
+| RF1   | O aplicativo deverá possuir uma tela de login integrado com o [gov.br](https://www.gov.br/pt-br) | <a id="anchor_GF01""></a>GF01 | Sim  |
+| RF2   | O aplicativo deverá permitir que o usuário faça login criando uma conta própria no sistema      | <a id="anchor_GF02""></a>GF02 | Sim   |
+| RF3   | O aplicativo deverá possuir uma ferramenta de simulação de evolução dos investimentos.      | <a id="anchor_GF03""></a>GF03 | Sim   |
+| RF4   | O aplicativo deverá possuir uma ferramenta para comparar o investimento escolhido com outros tipos de investimento.  | <a id="anchor_GF04""></a>GF04 | Não   |
+| RF5   | O aplicativo deverá possuir a funcionalidade de alternar entre modo claro e escuro. | <a id="anchor_GF05""></a>GF05 | Não   |
 
 ### Requisitos não funcionais
 
 | Tipo   | Descrição                                                                 | ID   | Elaborado (Sim/Não) |
 |--------|---------------------------------------------------------------------------|------|---------------------|
-| RNF1   | O aplicativo deverá garantir a segurança dos dados cadastrais dos usuários de acordo com a LGPD. | GF06 | Sim  |
-| RNF2   | O aplicativo deverá ser responsivo para todos os dispositivos mobile. | GF07 | Não   |
-| RNF3   | A navegação no aplicativo deverá ser focada em integrar as funcionalidades do aplicativo de modo intuitivo e compreensivo. | GF08 | Não   |
+| RNF1   | O aplicativo deverá garantir a segurança dos dados cadastrais dos usuários de acordo com a LGPD. | <a id="anchor_GF06""></a>GF06 | Sim  |
+| RNF2   | O aplicativo deverá ser responsivo para todos os dispositivos mobile. | <a id="anchor_GF07""></a>GF07 | Não   |
+| RNF3   | A navegação no aplicativo deverá ser focada em integrar as funcionalidades do aplicativo de modo intuitivo e compreensivo. | <a id="anchor_GF08""></a>GF08 | Não   |
 
 
 ## Bibliografia
@@ -122,3 +122,4 @@ Para abrir o documento completo do termo de consentimento, [clique aqui](../../.
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 19/11/2024  | Estruturação Inicial | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)   |
 | `1.1` | 21/11/2024  | Elicitação de Requisitos | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.2` | 12/12/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) | | 
