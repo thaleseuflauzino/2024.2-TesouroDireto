@@ -29,26 +29,26 @@ Esse processo de introspecção para elicitação de requisitos consiste justame
 
 | Tipo | Descrição | ID   | Elaborado (Sim/Não) | Priorização (MoSCoW) |
 |------|-----|------|---------------------|---------------------|
-| RF1  | Permitir a consulta de investimentos por instituição financeira.                                  | IT1  | Sim                 | Must Have           |
-| RF2  | Permitir a simulação, realização e visualização de detalhes de investimentos nos títulos SELIC, Prefixado e Inflação. | IT2  | Sim                 | Must Have           |
-| RF3  | Permitir o resgate de investimentos, considerando a instituição financeira associada.             | IT3  | Sim                 | Must Have           |
-| RF4  | Oferecer funcionalidade para salvar metas de investimentos (Sonhos).                             | IT4  | Sim                 | Should Have         |
-| RF5  | Permitir simulação e planejamento de aposentadoria indicando o ano esperado de aposentadoria.     | IT5  | Sim                 | Should Have         |
-| RF6  | Disponibilizar consulta à taxa de custódia da B3 e taxa de administração da instituição financeira. | IT6  | Sim                 | Must Have           |
-| RF7  | Incluir um simulador para ajudar o usuário a encontrar títulos adequados ao perfil dele.          | IT7  | Sim                 | Could Have          |
-| RF8  | Permitir a consulta de operações realizadas e agendadas.                                          | IT8  | Sim                 | Must Have           |
-| RF9  | Oferecer a funcionalidade de “Fale Conosco”.                                                      | IT9  | Sim                 | Must Have           |
-| RF10 | Permitir a visualização de notificações recebidas.| IT10 | Sim                 | Should Have|
-| RF11 | Incluir funcionalidades sobre o aplicativo (avaliar, indicar para um amigo ou limpar cache).      | IT11 | Sim| Could Have|
-|RF12| Permitir a visualização de dados do usuário. | IT12 | Sim                 | Must Have|
-|RF13| Implementar notificações personalizadas para lembrar o usuário de metas ou vencimento de títulos.      | IT13 | Não| Should Have|
-|RF14| Permitir a transferência automática entre investimentos com base em metas ou cenários predefinidos.    | IT14 | Não | Could Have  |
-|RF15| Incluir relatórios personalizados para análise detalhada de rentabilidade e evolução de investimentos. | IT16 | Não | Should Have |
-| RF16| Disponibilizar um recurso educativo com vídeos e artigos sobre como investir no Tesouro Direto.      | IT17 | Não | Should Have |
-| RF17| Oferecer integração com carteiras digitais para pagamento direto de investimentos.                     | IT18 | Não | Could Have|
-| RF18| Incorporar alertas de mercado com base em mudanças na taxa SELIC ou inflação.                         | IT19 | Não | Must Have |
-| RF19| Adicionar gamificação, como conquistas ou recompensas simbólicas ao atingir metas financeiras.         | IT20 | Não | Could Have|
-|RF20|Escolher meus investimentos, definir um valor para cada investimento e escolher entre investir agora ou investir depois|IT21|Sim|Must Have|
+| RF1  | Permitir a consulta de investimentos por instituição financeira.                                  | <a id="anchor_IT1""></a>IT1  | Sim                 | Must Have           |
+| RF2  | Permitir a simulação, realização e visualização de detalhes de investimentos nos títulos SELIC, Prefixado e Inflação. | <a id="anchor_IT2""></a>IT2  | Sim                 | Must Have           |
+| RF3  | Permitir o resgate de investimentos, considerando a instituição financeira associada.             | <a id="anchor_IT3""></a>IT3  | Sim                 | Must Have           |
+| RF4  | Oferecer funcionalidade para salvar metas de investimentos (Sonhos).                             | <a id="anchor_IT4""></a>IT4  | Sim                 | Should Have         |
+| RF5  | Permitir simulação e planejamento de aposentadoria indicando o ano esperado de aposentadoria.     | <a id="anchor_IT5""></a>IT5  | Sim                 | Should Have         |
+| RF6  | Disponibilizar consulta à taxa de custódia da B3 e taxa de administração da instituição financeira. | <a id="anchor_IT6""></a>IT6  | Sim                 | Must Have           |
+| RF7  | Incluir um simulador para ajudar o usuário a encontrar títulos adequados ao perfil dele.          | <a id="anchor_IT7""></a>IT7  | Sim                 | Could Have          |
+| RF8  | Permitir a consulta de operações realizadas e agendadas.                                          | <a id="anchor_IT8""></a>IT8  | Sim                 | Must Have           |
+| RF9  | Oferecer a funcionalidade de “Fale Conosco”.                                                      | <a id="anchor_IT9""></a>IT9  | Sim                 | Must Have           |
+| RF10 | Permitir a visualização de notificações recebidas.| <a id="anchor_IT10""></a>IT10 | Sim                 | Should Have|
+| RF11 | Incluir funcionalidades sobre o aplicativo (avaliar, indicar para um amigo ou limpar cache).      | <a id="anchor_IT11""></a>IT11 | Sim| Could Have|
+| RF12| Permitir a visualização de dados do usuário. | <a id="anchor_IT12""></a>IT12 | Sim                 | Must Have|
+| RF13| Implementar notificações personalizadas para lembrar o usuário de metas ou vencimento de títulos.      | <a id="anchor_IT13""></a>IT13 | Não| Should Have|
+| RF14| Permitir a transferência automática entre investimentos com base em metas ou cenários predefinidos.    | <a id="anchor_IT14""></a>IT14 | Não | Could Have  |
+| RF15| Incluir relatórios personalizados para análise detalhada de rentabilidade e evolução de investimentos. | <a id="anchor_IT15""></a>IT15 | Não | Should Have |
+| RF16| Disponibilizar um recurso educativo com vídeos e artigos sobre como investir no Tesouro Direto.      | <a id="anchor_IT16""></a>IT16 | Não | Should Have |
+| RF17| Oferecer integração com carteiras digitais para pagamento direto de investimentos.                     | <a id="anchor_IT17""></a>IT17 | Não | Could Have|
+| RF18| Incorporar alertas de mercado com base em mudanças na taxa SELIC ou inflação.                         | <a id="anchor_IT18""></a>IT18 | Não | Must Have |
+| RF19| Adicionar gamificação, como conquistas ou recompensas simbólicas ao atingir metas financeiras.         | <a id="anchor_IT19""></a>IT19 | Não | Could Have|
+| RF20|Escolher meus investimentos, definir um valor para cada investimento e escolher entre investir agora ou investir depois|<a id="anchor_IT20""></a>IT20|Sim|Must Have|
 
 _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 </center>
@@ -61,12 +61,12 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 
 | Tipo   | Descrição                                                                 | ID   | Elaborado (Sim/Não) | Priorização (MoSCoW) |
 |--------|---------------------------------------------------------------------------|------|---------------------|---------------------|
-| RNF1   | O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas. | IT13 | Não        | Must Have           |
-| RNF2   | Garantir a segurança dos dados sensíveis do usuário conforme a LGPD.      | IT21 | Sim                 | Must Have           |
-| RNF3   | O aplicativo deve ser responsivo para dispositivos móveis e tablets.      | IT22 | Sim                 | Must Have           |
-| RNF4   | A interface deve ser intuitiva e seguir as diretrizes de acessibilidade.  | IT23 | Não                 | Should Have         |
-| RNF5   | O sistema deve permitir integrações seguras com APIs de instituições financeiras. | IT24 | Sim          | Must Have           |
-| RNF6   | Disponibilizar suporte para múltiplos idiomas (português como padrão).    | IT25 | Não                 | Could Have          |
+| RNF1   | O sistema deve ter tempo de resposta inferior a 2 segundos para consultas básicas. | <a id="anchor_IT21""></a>IT21 | Não        | Must Have           |
+| RNF2   | Garantir a segurança dos dados sensíveis do usuário conforme a LGPD.      | <a id="anchor_IT22""></a>IT22 | Sim                 | Must Have           |
+| RNF3   | O aplicativo deve ser responsivo para dispositivos móveis e tablets.      | <a id="anchor_IT23""></a>IT23 | Sim                 | Must Have           |
+| RNF4   | A interface deve ser intuitiva e seguir as diretrizes de acessibilidade.  | <a id="anchor_IT24""></a>IT24 | Não                 | Should Have         |
+| RNF5   | O sistema deve permitir integrações seguras com APIs de instituições financeiras. | <a id="anchor_IT25""></a>IT25 | Sim          | Must Have           |
+| RNF6   | Disponibilizar suporte para múltiplos idiomas (português como padrão).    | <a id="anchor_IT26""></a>IT26 | Não                 | Could Have          |
 
 _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 </center>
@@ -82,3 +82,4 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 15/11/2024  | Estruturação Inicial | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.1` | 12/12/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)| 

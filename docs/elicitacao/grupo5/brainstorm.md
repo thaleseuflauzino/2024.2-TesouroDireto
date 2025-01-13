@@ -143,17 +143,17 @@ Os valores atribuídos por cada participante na priorização das ideias, utiliz
 
 | **Tipo** | **Descrição**                                                                                     | **ID** | **Elaborado (Sim/Não)** | **Priorização (Média)** |
 |----------|---------------------------------------------------------------------------------------------------|--------|--------------------------|-------------------------|
-| RF1      | O aplicativo deve permitir que o usuário faça uma autodeclaração de expertise (novo, médio, experiente). | BF1    | Não                      | R$10                 |
-| RF2      | O aplicativo deve oferecer um tutorial para guiar o usuário no uso das funcionalidades.           | BF2    | Não                      | R$3,54                 |
-| RF3      | O sistema deve disponibilizar um maior leque de opções para simulações financeiras.                | BF3    | Não                      | R$3,54                 |
-| RF4      | O aplicativo deve exibir a liquidez dos títulos do Tesouro Nacional na simulação.                 | BF4    | Não                      | R$4,64                 |
-| RF5      | O sistema deve permitir a comparação de títulos de diferentes origens na simulação.               | BF5    | Não                      | R$8,10                 |
-| RF6      | O sistema deve integrar a funcionalidade de simulação com a aba "Meus Sonhos".                    | BF7    | Não                      | R$3,82                 |
-| RF7      | O aplicativo deve apresentar um dashboard inicial com informações relevantes para o usuário.      | BF8    | Não                      | R$9,46                 |
-| RF8      | O aplicativo deve disponibilizar mais recursos educativos sobre investimentos.                    | BF10   | Não                      | R$8                 |
-| RF9      | O sistema deve incluir uma barra de progresso na aba "Meus Sonhos".                               | BF12   | Não                      | R$4,11                 |
-| RF10     | O aplicativo deve permitir a comparação da simulação com os padrões do INSS na aposentadoria.     | BF14   | Não                      | R$3,55                 |
-| RF11     | O sistema deve exibir sugestões personalizadas na página inicial do "Meu Investimento".           | BF15   | Não                      | R$9,28                 |
+| RF1      | O aplicativo deve permitir que o usuário faça uma autodeclaração de expertise (novo, médio, experiente). | <a id="anchor_BF1""></a>BF1    | Não                      | R$10                 |
+| RF2      | O aplicativo deve oferecer um tutorial para guiar o usuário no uso das funcionalidades.           | <a id="anchor_BF2""></a>BF2    | Não                      | R$3,54                 |
+| RF3      | O sistema deve disponibilizar um maior leque de opções para simulações financeiras.                | <a id="anchor_BF3""></a>BF3    | Não                      | R$3,54                 |
+| RF4      | O aplicativo deve exibir a liquidez dos títulos do Tesouro Nacional na simulação.                 | <a id="anchor_BF4""></a>BF4    | Não                      | R$4,64                 |
+| RF5      | O sistema deve permitir a comparação de títulos de diferentes origens na simulação.               | <a id="anchor_BF5""></a>BF5    | Não                      | R$8,10                 |
+| RF6      | O sistema deve integrar a funcionalidade de simulação com a aba "Meus Sonhos".                    | <a id="anchor_BF7""></a>BF7    | Não                      | R$3,82                 |
+| RF7      | O aplicativo deve apresentar um dashboard inicial com informações relevantes para o usuário.      | <a id="anchor_BF8""></a>BF8    | Não                      | R$9,46                 |
+| RF8      | O aplicativo deve disponibilizar mais recursos educativos sobre investimentos.                    | <a id="anchor_BF10""></a>BF10   | Não                      | R$8                 |
+| RF9      | O sistema deve incluir uma barra de progresso na aba "Meus Sonhos".                               | <a id="anchor_BF12""></a>BF12   | Não                      | R$4,11                 |
+| RF10     | O aplicativo deve permitir a comparação da simulação com os padrões do INSS na aposentadoria.     | <a id="anchor_BF14""></a>BF14   | Não                      | R$3,55                 |
+| RF11     | O sistema deve exibir sugestões personalizadas na página inicial do "Meu Investimento".           | <a id="anchor_BF15""></a>BF15   | Não                      | R$9,28                 |
 
 _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 
@@ -167,10 +167,10 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 
 | **Tipo** | **Descrição**                                                                                      | **ID**  | **Elaborado (Sim/Não)** | **Priorização (Média)** |
 |----------|----------------------------------------------------------------------------------------------------|---------|--------------------------|-------------------------|
-| RFN1     | O sistema deve oferecer controle ampliado para simulações de aposentadoria.                       | BFN6    | Não                      | R$4,37                 |
-| RFN2     | O perfil de recomendação de investimentos deve ser mais visível e acessível no aplicativo.        | BFN9    | Não                      | R$4,10                 |
-| RFN3     | O layout do aplicativo deve ser aprimorado para aumentar a acessibilidade.                        | BFN11   | Não                      | R$9,55                |
-| RFN4     | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário.         | BFN13   | Não                      | R$5,25                 |
+| RFN1     | O sistema deve oferecer controle ampliado para simulações de aposentadoria.                       | <a id="anchor_BFN6""></a>BFN6    | Não                      | R$4,37                 |
+| RFN2     | O perfil de recomendação de investimentos deve ser mais visível e acessível no aplicativo.        | <a id="anchor_BFN9""></a>BFN9    | Não                      | R$4,10                 |
+| RFN3     | O layout do aplicativo deve ser aprimorado para aumentar a acessibilidade.                        | <a id="anchor_BFN11""></a>BFN11   | Não                      | R$9,55                |
+| RFN4     | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário.         | <a id="anchor_BFN13""></a>BFN13   | Não                      | R$5,25                 |
 
 _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 
@@ -217,3 +217,4 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 | `1.2` | 19/11/2024 | Adicionando Resultados  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena)|
 | `1.3` | 20/11/2024 | Adicionando Vídeo  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena)|
 | `1.4` | 20/11/2024 | Mais alguns ajustes  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena)|
+| `1.5` | 12/12/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)| 
