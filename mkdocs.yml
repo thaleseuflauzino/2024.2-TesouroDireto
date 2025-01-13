@@ -86,6 +86,7 @@ nav:
   
   - Pós Rastreabilidade:
     - Backward-From:  pos-rastreabilidade/backward-from.md
+    - Forward-From:  pos-rastreabilidade/forward-from.md
 theme:
   logo: assets/header-logo-tesourodireto.png
   name: material

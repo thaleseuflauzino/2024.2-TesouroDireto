@@ -39,7 +39,10 @@ Esse tópico diz respeito a quanto o aplicativo é confiável. Os requisitos rel
 | ------- | -------- |
 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF02">[RNF02]</a>| Garantir a segurança dos dados sensíveis do usuário conforme a LGPD |
 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF05">[RNF05]</a> | O sistema deve permitir integrações seguras com APIs de instituições financeiras |
-<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/juliatakaki" target="blank">Júlia Takaki</a></p>
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF10">[RNF10]</a> | O sistema deverá garantir a segurança nas transações de títulos públicos. |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF11">[RNF11]</a> | Os títulos do tesouro nacional deverão estar sempre atualizados com relação a inflação e a taxa de juros. |
+
+<p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a>, <a href="https://github.com/juliatakaki" target="blank">Júlia Takaki</a> e <a href="https://github.com/Viictor Hugoo" target="blank">Victor Rodrigues</a></p>
 
 ### 4. Suportabilidade
 
@@ -84,3 +87,4 @@ Esse tópico diz respeito a questões relacionadas ao desempenho do software. Os
 | `1.4`  | 10/12/2024 |  Adicionando rastreabilidade        | [Thales Euflauzino](https://github.com/thaleseuflauzino)  | [Víctor Schmidt](https://github.com/moonshinerd)  |
 | `1.5`    | 11/12/2024 | Corrigindo RNF04 baseado em [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.6`    | 11/12/2024 | Corrigindo RNF08 baseado em [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)|  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.7`    | 13/01/2025 | Adicionando RNF10 e RNF11 | [Victor Rodrigues](https://github.com/ViictorHugoo) | |
