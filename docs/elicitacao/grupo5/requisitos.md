@@ -127,4 +127,4 @@ _Legenda das Tabelas:_
 | `1.1`  | 27/11/2024 | Adicionando anchor's para rastreabilidade |  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.2`  | 11/12/2024 | Removendo, complementando e ajustando requisitos que foram mau ou pouco elaborados e adicionando tabela 3|  [Víctor Schmidt](https://github.com/moonshinerd) e [Maria Helena](https://github.com/MariaCHelena) | [Víctor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3`  | 11/12/2024 | Escolhendo requisitos para trabalho pessoal |  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.4` | 12/12/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) | | 
+| `1.4` | 12/12/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)| 

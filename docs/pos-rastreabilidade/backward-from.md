@@ -128,6 +128,7 @@ Este seguimento é destinado para a elaboração da tabela de rastreamento de re
 
 Neste trecho, exploramos os vínculos associados aos requisitos listados nas tabelas 1 e 2. Conforme a metodologia apresentada, cada requisito será classificado de acordo com seu tipo de vínculo. Vale destacar que todos os requisitos identificados estão inseridos na categoria de Desenvolvimento, ou seja, têm origem em artefatos gerados durante o processo de criação do projeto. Esses requisitos não possuem conexão direta com aspectos organizacionais ou gerenciais. A partir dessa análise, foi elaborada a tabela 3, que detalha os vínculos (elos) relacionados a esses requisitos.
 
+Foram elaborados 45 elos de rastreabilidade, com cada membro do [Grupo](../../) desenvolvendo 5 elos a partir dos [requisitos atribuídos](../../elicitacao/grupo5/requisitos/#anchor_req_integrante) para sua atuação na disciplina, além de mais 3 elos adicionais. Os elos excedentes foram realizados por [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino), que coordenaram a elaboração deste artefato.
 
 <center>
 
@@ -251,7 +252,7 @@ Tomando o Meta-modelo de Toranzo como base, este documento descreve 45 elos de r
 ## Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|12/01/2025|Criação e ajuste do Documento|[Víctor Schmidt](https://github.com/moonshinerd)||
+|`1.0`|12/01/2025|Criação e ajuste do Documento|[Víctor Schmidt](https://github.com/moonshinerd)|[Thales Euflauzino](https://github.com/thaleseuflauzino)|
 |`1.1`|12/01/2025|Configurando artefato e adicionando os requisitos que trabalhamos na disciplina|[Grupo](../../)| [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-|`1.2`|12/01/2025|Revisando ortografia dos textos|[Júlia Takaki](https://github.com/juliatakaki)|
-|`1.3`|12/01/2025|Adicionando a rastreabilidade e hyperlinks|[Thales Euflauzino](https://github.com/thaleseuflauzino)|
+|`1.2`|12/01/2025|Revisando ortografia dos textos|[Júlia Takaki](https://github.com/juliatakaki)|[Thales Euflauzino](https://github.com/thaleseuflauzino)|
+|`1.3`|12/01/2025|Adicionando a rastreabilidade e hyperlinks|[Thales Euflauzino](https://github.com/thaleseuflauzino)|[Víctor Schmidt](https://github.com/moonshinerd)|
