@@ -30,6 +30,61 @@ Para estruturar a criação do meta-modelo de Toranzo, foram desenvolvidas as **
 
 A tabela 1 representa a matriz de rastreabilidade.
 
+<center>
+
+<font size="3"><p style="text-align: center"><b>Tabela 1:</b> Matriz de rastreabilidade Foward-From</p></font>
+
+| Requisito | Tipo | Implementado | Caso de Uso | Cenarios | Especificação Suplementar | Léxicos | NFR Framework | Épico | Feature | História de Usuário |
+| --------- | ---- | ------------ | ----------- | -------- | ------------------------- | ------- | ------------- | ----- | ------- | ------------------- |
+| RF01 | RF | Sim | 
+| RF02 | RF | Sim |
+| RF03 | RF | Sim |
+| RF04 | RF | Sim |
+| RF05 | RF | Sim |
+| RF06 | RF | Sim |
+| RF08 | RF | Sim |
+| RF09 | RF | Sim |
+| RF12 | RF | Sim |
+| RF13 | RF | Não |
+| RF14 | RF | Não |
+| RF15 | RF | Não |
+| RF16 | RF | Não |
+| RF17 | RF | Não |
+| RF18 | RF | Não |
+| RF20 | RF | Não |
+| RF21 | RF | Não |
+| RF23 | RF | Não |
+| RF24 | RF | Sim |
+| RF25 | RF | Não |
+| RF26 | RF | Não |
+| RF27 | RF | Não |
+| RF28 | RF | Não |
+| RF29 | RF | Não |
+| RF31 | RF | Sim |
+| RF32 | RF | Sim |
+| RF33 | RF | Não |
+| RF34 | RF | Sim |
+| RF35 | RF | Sim |
+| RF36 | RF | Sim |
+| RF37 | RF | Sim |
+| RF38 | RF | Sim |
+| RF39 | RF | Sim |
+| RF40 | RF | Não |
+| RF41 | RF | Sim |
+| RNF01 | RNF | Não |
+| RNF02 | RNF | Sim |
+| RNF03 | RNF | Sim |
+| RNF04 | RNF | Não |
+| RNF05 | RNF | Sim |
+| RNF06 | RNF | Não |
+| RNF08 | RNF | Não |
+| RNF09 | RNF | Não |
+| RNF10 | RNF | Sim |
+| RNF11 | RNF | Sim |
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo">Victor Hugo</a>, 2025</p></font>
+
+</center>
+
 ## Elos 
 
 A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos do projeto.
@@ -47,4 +102,4 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos do proje
 ## Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|12/01/2025|Criação e ajuste do Documento|[Victor Rodrigues](https://github.com/ViictorHugoo)||
+|`1.0`|12/01/2025|Criação e ajuste do Documento|[Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki)| |
