@@ -134,7 +134,7 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos do proje
 | ELOF31 | RF31 | US25 | UC02, UC06 | rep | NRF03 | RF17 |
 | ELOF32 | RF32 | US26 | UC10, UC11 | rep | NFR02 | RF26 |
 | ELOF33 | RF33 | US27 | UC01 | rep | NFR01 | RF34 |
-| ELOF34 | RF34 | US28 | UC01 | rep | NFR01| RF33 |
+| ELOF34 | RF34 | US28 | UC01 | rep | NFR01 | RF33 |
 | ELOF35 | RF35 | US29 | UC06, UC08 | rep | NFR02 | RF02  |
 | ELOF36 | RF36 | US30 | UC06, UC10 | rep | NFR01 | RF01, RF03 |
 | ELOF37 | RF37 | US31 | UC02, UC19 | rep | NFR01 | RF02, RF24 |
