@@ -49,51 +49,51 @@ A tabela 1 representa a matriz de rastreabilidade.
 
 | Requisito | Tipo | Implementado | Caso de Uso | Cenários | Especificação Suplementar | Léxicos | NFR Framework | Épico | Feature | História de Usuário |
 | --------- | ---- | ------------ | ----------- | -------- | ------------------------- | ------- | ------------- | ----- | ------- | ------------------- |
-| RF01 | RF | Sim | UC06 | | | L01, L03, L04 | | EC01 | FT01, FT02 |
-| RF02 | RF | Sim | UC02 | CEN01 | | L02, L03, L05 | | EC03 | FT06 |
-| RF03 | RF | Sim | UC07 | CEN02 | | | | EC07 | FT14 |
-| RF04 | RF | Sim | UC08 | CEN03 | | | | EC09 | FT18 |
-| RF05 | RF | Sim | | CEN04 | | | | EC10 | FT20 |
-| RF06 | RF | Sim | | | | L02, L05 | | EC04 | FT07 |
-| RF08 | RF | Sim | | CEN05 | | L02, L05 | | EC07 | FT14 |
-| RF09 | RF | Sim | | | | | | EC12 | FT25 |
-| RF12 | RF | Sim | | | | L02, L05 | | EC11 | FT23 |
-| RF13 | RF | Não | | | | L05 | | EC07, EC12 | FT15, FT26 |
-| RF14 | RF | Não | | | | L02, L05 | | EC02 | FT04 |
-| RF15 | RF | Não | UC10 | CEN09 | | L04 | | EC04 | FT07 |
-| RF16 | RF | Não | | | | | | EC08 | FT16 |
-| RF17 | RF | Não | | | | | | EC02 | FT04 |
-| RF18 | RF | Não | | | | L05 | | EC15 | FT31 |
-| RF20 | RF | Não | | | | | | EC05 | FT09 |
-| RF21 | RF | Não | | | | | | EC08 | FT17 |
-| RF23 | RF | Não | | CEN07 | | | | EC03 | FT05 |
-| RF24 | RF | Sim | | | | L03 | | EC03 | FT06 |
-| RF25 | RF | Não | UC09 | CEN08 | | L06 | | EC09 | FT19 |
-| RF26 | RF | Não | UC11 | CEN26 | | | | EC04 | FT08 |
-| RF27 | RF | Não | | | | | | EC09 | FT19 |
-| RF28 | RF | Não | | | | | | EC10 | FT21 |
-| RF29 | RF | Não | | | | | | EC05 | FT11 |
-| RF31 | RF | Sim | | | | | | EC07 | FT14 |
-| RF32 | RF | Sim | | | | | | EC04 | FT07 |
-| RF33 | RF | Não | UC01 | | | | | EC05 | FT09 |
-| RF34 | RF | Sim | UC01 | | | L05 | | EC05 | FT09 |
-| RF35 | RF | Sim | UC03 | | | | | EC02 | FT03  |
-| RF36 | RF | Sim | | | | | | EC01, EC15 | FT01, FT32 |
-| RF37 | RF | Sim | | | | | | EC03 | FT06 |
-| RF38 | RF | Sim | | | | L01 | | EC03 | FT05 |
-| RF39 | RF | Sim | | | | L01 | | EC03 | FT05 |
-| RF40 | RF | Não | | | | | | EC09 | FT19 |
-| RF41 | RF | Sim | | | | | | EC05, EC11 | FT09, FT22 |
-| RNF01 | RNF | Não | | | P | | NFR02 | EC04, EC14 | FT07, FT30 |
-| RNF02 | RNF | Sim | | | C | | | EC06 | FT12 |
-| RNF03 | RNF | Sim | | | S | | NFR03 | EC06 | FT12 |
-| RNF04 | RNF | Não | | | U | | NFR01 | EC06, EC11, EC13 | FT13, FT24, FT28 |
-| RNF05 | RNF | Sim | | | C | | | EC06 | FT12 |
-| RNF06 | RNF | Não | | | S | | | EC14 | FT29 |
-| RNF08 | RNF | Não | | | U | | NFR02 | EC11 | FT24 |
-| RNF09 | RNF | Não | | | U | | NFR01 | EC05, EC13 | FT10, FT27 |
-| RNF10 | RNF | Sim | | | C | | | EC06 | FT12 |
-| RNF11 | RNF | Sim | | | C | | | EC04 | FT07 |
+| RF01 |  RF | Sim | UC06 | | | L01, L03, L04 | | EC01 | FT01, FT02 | US01 |
+| RF02 | RF | Sim | UC02 | CEN01 | | L02, L03, L05 | | EC03 | FT06 | US19 |
+| RF03 | RF | Sim | UC07 | CEN02 | | | | EC07 | FT14 | US03 |
+| RF04 | RF | Sim | UC08 | CEN03 | | | | EC09 | FT18 | US04 |
+| RF05 | RF | Sim | | CEN04 | | | | EC10 | FT20 | US05 |
+| RF06 | RF | Sim | | | | L02, L05 | | EC04 | FT07 | US06 | 
+| RF08 | RF | Sim | | CEN05 | | L02, L05 | | EC07 | FT14 | US07 |
+| RF09 | RF | Sim | | | | | | EC12 | FT25 | US08 |
+| RF12 | RF | Sim | | | | L02, L05 | | EC11 | FT23 | US09 |
+| RF13 | RF | Não | | | | L05 | | EC07, EC12 | FT15, FT26 | US10 |
+| RF14 | RF | Não | | | | L02, L05 | | EC02 | FT04 | US11  |
+| RF15 | RF | Não | UC10 | CEN09 | | L04 | | EC04 | FT07 | US12 |
+| RF16 | RF | Não | | | | | | EC08 | FT16 | US13 |
+| RF17 | RF | Não | | | | | | EC02 | FT04 | US14 |
+| RF18 | RF | Não | | | | L05 | | EC15 | FT31 | US15 |
+| RF20 | RF | Não | | | | | | EC05 | FT09 | US16 |
+| RF21 | RF | Não | | | | | | EC08 | FT17 | US17 |
+| RF23 | RF | Não | | CEN07 | | | | EC03 | FT05 | US18 |
+| RF24 | RF | Sim | | | | L03 | | EC03 | FT06 | US19 |
+| RF25 | RF | Não | UC09 | CEN08 | | L06 | | EC09 | FT19 | US20 |
+| RF26 | RF | Não | UC11 | CEN26 | | | | EC04 | FT08 | US21 |
+| RF27 | RF | Não | | | | | | EC09 | FT19 | US22 |
+| RF28 | RF | Não | | | | | | EC10 | FT21 | US23 |
+| RF29 | RF | Não | | | | | | EC05 | FT11 | US10 |
+| RF31 | RF | Sim | | | | | | EC07 | FT14 | US25 |
+| RF32 | RF | Sim | | | | | | EC04 | FT07 | US26 |
+| RF33 | RF | Não | UC01 | | | | | EC05 | FT09 | US27 | 
+| RF34 | RF | Sim | UC01 | | | L05 | | EC05 | FT09 | US28 |
+| RF35 | RF | Sim | UC03 | | | | | EC02 | FT03  | US29  |
+| RF36 | RF | Sim | | | | | | EC01, EC15 | FT01, FT32 | US15 |
+| RF37 | RF | Sim | | | | | | EC03 | FT06 | US02, US33 |
+| RF38 | RF | Sim | | | | L01 | | EC03 | FT05 | US32 |
+| RF39 | RF | Sim | | | | L01 | | EC03 | FT05 | US31 |
+| RF40 | RF | Não | | | | | | EC09 | FT19 | US34 |
+| RF41 | RF | Sim | | | | | | EC05, EC11 | FT09, FT22 | US09 |
+| RNF01 | RNF | Não | | | P | | NFR02 | EC04, EC14 | FT07, FT30 | US38 |
+| RNF02 | RNF | Sim | | | C | | | EC06 | FT12 | US39 |
+| RNF03 | RNF | Sim | | | S | | NFR03 | EC06 | FT12 | US40 |
+| RNF04 | RNF | Não | | | U | | NFR01 | EC06, EC11, EC13 | FT13, FT24, FT28 | US41 |
+| RNF05 | RNF | Sim | | | C | | | EC06 | FT12 | US39 |
+| RNF06 | RNF | Não | | | S | | | EC14 | FT29 | US38 |
+| RNF08 | RNF | Não | | | U | | NFR02 | EC11 | FT24 | US35 |
+| RNF09 | RNF | Não | | | U | | NFR01 | EC05, EC13 | FT10, FT27 | US36 |
+| RNF10 | RNF | Sim | | | C | | | EC06 | FT12 | US39 |
+| RNF11 | RNF | Sim | | | C | | | EC04 | FT07 | US06 |
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo">Victor Hugo</a>, 2025</p></font>
 
 </center>
