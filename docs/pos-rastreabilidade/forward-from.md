@@ -101,6 +101,61 @@ A tabela 1 representa a matriz de rastreabilidade.
 ## Elos 
 
 A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos do projeto.
+<center>
+
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Elos de rastreabilidade Forward-from</p></font>
+
+| Elo | Requisito | Satisfação | Recusrso | Representação | Alocado | Agregação |
+| --- | --------- | ---------- | -------- | ------------- | ------- | --------- |
+| ELOF01 | RF01 | US01 | UC03 | rep | NFR02 | RF36 |
+| ELOF02 | RF02 | US02 | UC02 | rep | NFR02 | RF37, RF38, RF39 |
+| ELOF03 | RF03 | US03 | UC07 | rep | NRF03 | RF26, RF36 |
+| ELOF04 | RF04 | US04 | UC08 | rep | NFR02 | RF25, RF27 |
+| ELOF05 | RF05 | US05 | UC02 | rep | NRF03 | RF28 |
+| ELOF06 | RF06 | US06 | UC10 | rep | NFR02 | RF01, RF03 |
+| ELOF08 | RF08 | US07 | UC06 | rep | NFR02 | RF01, RF36 |
+| ELOF09 | RF09 | US08 | UC08, UC09 | rep | NFR01 | RF21 |
+| ELOF12 | RF12 | US09 | UC11 | rep | NFR02 | RF41 |
+| ELOF13 | RF13 | US10 | UC08, UC10 | rep | NRF03 | RF04, RF25 |
+| ELOF14 | RF14 | US11 | UC06, UC10 | rep | RNF03 | RF24 |
+| ELOF15 | RF15 | US12 | UC10 | rep | NRF03 | RF10, RF26 |
+| ELOF16 | RF16 | US13 | UC02, UC08 | rep | NFR01 | RF21 |
+| ELOF17 | RF17 | US14 | UC01, UC03 | rep | NRF03 | RF10 |
+| ELOF18 | RF18 | US15 | UC11 | rep | NRF03 | RF11 |
+| ELOF20 | RF20 | US16 | UC01, UC06 | rep | NFR01 | RF29 |
+| ELOF21 | RF21 | US17 | UC09, UC11 | rep | NFR01 | RF16, RF09 |
+| ELOF23 | RF23 | US18 | UC02 | rep | NFR02 | RF02 |
+| ELOF24 | RF24 | US19 | UC02, UC06 | rep | NFR02 | RF02, RF26 |
+| ELOF25 | RF25 | US20 | UC09 | rep | NFR01 | RF04, RF27 |
+| ELOF26 | RF26 | US21 | UC11 | rep | NRF03 | RF03, RF24 |
+| ELOF27 | RF27 | US22 | UC08 | rep | NFR01 | RF04, RF25 |
+| ELOF28 | RF28 | US23 | UC09, UC10 | rep | NRF03 | RF05 |
+| ELOF29 | RF29 | US24 | UC01, UC03 | rep | NRF03 | RRF20 |
+| ELOF31 | RF31 | US25 | UC02, UC06 | rep | NRF03 | RF17 |
+| ELOF32 | RF32 | US26 | UC10, UC11 | rep | NFR02 | RF26 |
+| ELOF33 | RF33 | US27 | UC01 | rep | NFR01 | RF34 |
+| ELOF34 | RF34 | US28 | UC01 | rep | NFR01| | RF33 |
+| ELOF35 | RF35 | US29 | UC06, UC08 | rep | NFR02 | RF02  |
+| ELOF36 | RF36 | US30 | UC06, UC10 | rep | NFR01 | RF01, RF03 |
+| ELOF37 | RF37 | US31 | UC02, UC19 | rep | NFR01 | RF02, RF24 |
+| ELOF38 | RF38 | US32 | UC02, UC08 | rep | NFR01 | RF02 |
+| ELOF39 | RF39 | US33 | UC09 | rep | NRF03 | RF02 |
+| ELOF40 | RF40 | US34 | UC08, UC09 | rep | NFR01 | RF04 |
+| ELOF41 | RF41 | US35 | UC01, UC06 | rep | NFR01 | RF12 |
+| ELONF01 | RNF01 | ---- | ---- | rep | NFR03 | RNF03 |
+| ELONF02 | RNF02 | US39 | UC01, UC06 | rep | NFR02 | RNF05, RNF10 |
+| ELONF03 | RNF03 | US40 | UC11 | rep | NFR01 | RNF09 |
+| ELONF04 | RNF04 | US37 | UC10, UC11 | rep | NFR01 | RNF03, RNF09 |
+| ELONF05 | RNF05 | US39 | UC01, UC06 | rep | NFR02 | RNF02, RNF10 |
+| ELONF06 | RNF06 | US38 | UC01, UC11 | rep | NFR01 | RNF03, RNF09 |
+| ELONF08 | RNF08 | ---- | ---- | rep | NFR01 | RNF03, RNF04 |
+| ELONF09 | RNF09 | US36 | UC11 | rep | NFR01 | RNF04, RNF03 |
+| ELONF10 | RNF10 | US39 | UC01, UC06 | rep | NFR02 | RNF02, RNF05 |
+| ELONF11 | RNF11 | ---- | ---- | rep | NFR03 | RNF10 |
+
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2025</p></font>
+
+</center>
 
 ## Referência Bibliografia
 
