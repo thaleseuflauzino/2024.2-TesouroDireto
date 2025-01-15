@@ -47,53 +47,54 @@ A tabela 1 representa a matriz de rastreabilidade.
 
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Matriz de rastreabilidade Foward-From</p></font>
 
-| Requisito | Tipo | Implementado | Caso de Uso | Cenários | Especificação Suplementar | Léxicos | NFR Framework | Épico | Feature | História de Usuário |
-| --------- | ---- | ------------ | ----------- | -------- | ------------------------- | ------- | ------------- | ----- | ------- | ------------------- |
-| RF01 |  RF | Sim | UC06 | | | L01, L03, L04 | | EC01 | FT01, FT02 | US01 |
-| RF02 | RF | Sim | UC02 | CEN01 | | L02, L03, L05 | | EC03 | FT06 | US19 |
-| RF03 | RF | Sim | UC07 | CEN02 | | | | EC07 | FT14 | US03 |
-| RF04 | RF | Sim | UC08 | CEN03 | | | | EC09 | FT18 | US04 |
-| RF05 | RF | Sim | | CEN04 | | | | EC10 | FT20 | US05 |
-| RF06 | RF | Sim | | | | L02, L05 | | EC04 | FT07 | US06 | 
-| RF08 | RF | Sim | | CEN05 | | L02, L05 | | EC07 | FT14 | US07 |
-| RF09 | RF | Sim | | | | | | EC12 | FT25 | US08 |
-| RF12 | RF | Sim | | | | L02, L05 | | EC11 | FT23 | US09 |
-| RF13 | RF | Não | | | | L05 | | EC07, EC12 | FT15, FT26 | US10 |
-| RF14 | RF | Não | | | | L02, L05 | | EC02 | FT04 | US11  |
-| RF15 | RF | Não | UC10 | CEN09 | | L04 | | EC04 | FT07 | US12 |
-| RF16 | RF | Não | | | | | | EC08 | FT16 | US13 |
-| RF17 | RF | Não | | | | | | EC02 | FT04 | US14 |
-| RF18 | RF | Não | | | | L05 | | EC15 | FT31 | US15 |
-| RF20 | RF | Não | | | | | | EC05 | FT09 | US16 |
-| RF21 | RF | Não | | | | | | EC08 | FT17 | US17 |
-| RF23 | RF | Não | | CEN07 | | | | EC03 | FT05 | US18 |
-| RF24 | RF | Sim | | | | L03 | | EC03 | FT06 | US19 |
-| RF25 | RF | Não | UC09 | CEN08 | | L06 | | EC09 | FT19 | US20 |
-| RF26 | RF | Não | UC11 | CEN26 | | | | EC04 | FT08 | US21 |
-| RF27 | RF | Não | | | | | | EC09 | FT19 | US22 |
-| RF28 | RF | Não | | | | | | EC10 | FT21 | US23 |
-| RF29 | RF | Não | | | | | | EC05 | FT11 | US10 |
-| RF31 | RF | Sim | | | | | | EC07 | FT14 | US25 |
-| RF32 | RF | Sim | | | | | | EC04 | FT07 | US26 |
-| RF33 | RF | Não | UC01 | | | | | EC05 | FT09 | US27 | 
-| RF34 | RF | Sim | UC01 | | | L05 | | EC05 | FT09 | US28 |
-| RF35 | RF | Sim | UC03 | | | | | EC02 | FT03  | US29  |
-| RF36 | RF | Sim | | | | | | EC01, EC15 | FT01, FT32 | US15 |
-| RF37 | RF | Sim | | | | | | EC03 | FT06 | US02, US33 |
-| RF38 | RF | Sim | | | | L01 | | EC03 | FT05 | US32 |
-| RF39 | RF | Sim | | | | L01 | | EC03 | FT05 | US31 |
-| RF40 | RF | Não | | | | | | EC09 | FT19 | US34 |
-| RF41 | RF | Sim | | | | | | EC05, EC11 | FT09, FT22 | US09 |
-| RNF01 | RNF | Não | | | P | | NFR02 | EC04, EC14 | FT07, FT30 | US38 |
-| RNF02 | RNF | Sim | | | C | | | EC06 | FT12 | US39 |
-| RNF03 | RNF | Sim | | | S | | NFR03 | EC06 | FT12 | US40 |
-| RNF04 | RNF | Não | | | U | | NFR01 | EC06, EC11, EC13 | FT13, FT24, FT28 | US41 |
-| RNF05 | RNF | Sim | | | C | | | EC06 | FT12 | US39 |
-| RNF06 | RNF | Não | | | S | | | EC14 | FT29 | US38 |
-| RNF08 | RNF | Não | | | U | | NFR02 | EC11 | FT24 | US35 |
-| RNF09 | RNF | Não | | | U | | NFR01 | EC05, EC13 | FT10, FT27 | US36 |
-| RNF10 | RNF | Sim | | | C | | | EC06 | FT12 | US39 |
-| RNF11 | RNF | Sim | | | C | | | EC04 | FT07 | US06 |
+| Requisito e Versão | Tipo | Implementado | Caso de Uso | Cenários | Especificação Suplementar | Léxicos | NFR Framework | Épico | Feature | História de Usuário | Elo Relacionado |
+| ------------------ | ---- | ------------ | ----------- | -------- | ------------------------- | ------- | ------------- | ----- | ------- | ------------------- | --------------- |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF01">RF01<a/> / `1.4` | RF |  Sim  | <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | | L01, L03, L04 | | EC01 | FT01, FT02 | US01 | ELOF01 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">RF02<a/> / `1.4` | RF |  Sim  | <a href="../../modelagem-pt1/casos-de-uso">UC02</a> | <a href="../../modelagem-pt1/cenarios/">CEN01<a/> | | L02, L03, L05 | | EC03 | FT06 | US19 | ELOF02 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF03">RF03<a/> / `1.4` | RF |  Sim  | <a href="../../modelagem-pt1/casos-de-uso">UC07</a> | <a href="../../modelagem-pt1/cenarios/">CEN02<a/> | | | | EC07 | FT14 | US03 | ELOF03 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF04">RF04<a/> / `1.4` | RF |  Sim  | <a href="../../modelagem-pt1/casos-de-uso">UC08</a> | <a href="../../modelagem-pt1/cenarios/">CEN03<a/> | | | | EC09 | FT18 | US04 | ELOF04 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF05">RF05<a/> / `1.4` | RF |  Sim  | | <a href="../../modelagem-pt1/cenarios/">CEN04<a/> | | | | EC10 | FT20 | US05 | ELOF05 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF06">RF06<a/> / `1.4` | RF |  Sim  | | | | L02, L05 | | EC04 | FT07 | US06 | ELOF06 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF08">RF08<a/> / `1.4` | RF |  Sim  | | <a href="../../modelagem-pt1/cenarios/">CEN05<a/> | | L02, L05 | | EC07 | FT14 | US07 | ELOF08 | 
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF09">RF09<a/> / `1.4` | RF |  Sim  | | | | | | EC12 | FT25 | US08 | ELOF09 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF12">RF12<a/> / `1.4` | RF |  Sim  | | | | L02, L05 | | EC11 | FT23 | US09 | ELOF12 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF13">RF13<a/> / `1.4` | RF |  Não  | | | | L05 | | EC07, EC12 | FT15, FT26 | US10 | ELOF13 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF14">RF14<a/> / `1.4` | RF |  Não  | | | | L02, L05 | | EC02 | FT04 | US11 | ELOF14 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF15">RF15<a/> / `1.4` | RF |  Não  | <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | <a href="../../modelagem-pt1/cenarios/">CEN09<a/> | | L04 | | EC04 | FT07 | US12 | ELOF15 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF16">RF16<a/> / `1.4` | RF |  Não  | | | | | | EC08 | FT16 | US13 | ELOF16 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF17">RF17<a/> / `1.4` | RF |  Não  | | | | | | EC02 | FT04 | US14 | ELOF17 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF18">RF18<a/> / `1.4` | RF |  Não  | | | | L05 | | EC15 | FT31 | US15 | ELOF18 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF20">RF20<a/> / `1.4` | RF |  Não  | | | | | | EC05 | FT09 | US16 | ELOF20 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF21">RF21<a/> / `1.4` | RF |  Não  | | | | | | EC08 | FT17 | US17 | ELOF21 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF23">RF23<a/> / `1.4` | RF |  Não  | | <a href="../../modelagem-pt1/cenarios/">CEN07<a/> | | | | EC03 | FT05 | US18 | ELOF23 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF24">RF24<a/> / `1.4` | RF |  Sim  | | | | L03 | | EC03 | FT06 | US19 | ELOF24 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF25">RF25<a/> / `1.4` | RF |  Não  | <a href="../../modelagem-pt1/casos-de-uso">UC09</a> | <a href="../../modelagem-pt1/cenarios/">CEN08<a/> | | L06 | | EC09 | FT19 | US20 | ELOF25 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF26">RF26<a/> / `1.4` | RF |  Não  | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | <a href="../../modelagem-pt1/cenarios/">CEN26<a/> | | | | EC04 | FT08 | US21 | ELOF26 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF27">RF27<a/> / `1.4` | RF |  Não  | | | | | | EC09 | FT19 | US22 | ELOF27 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF28">RF28<a/> / `1.4` | RF |  Não  | | | | | | EC10 | FT21 | US23 | ELOF28 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF29">RF29<a/> / `1.4` | RF |  Não  | | | | | | EC05 | FT11 | US10 | ELOF29 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF31">RF31<a/> / `1.4` | RF |  Sim  | | | | | | EC07 | FT14 | US25 | ELOF31 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF32">RF32<a/> / `1.4` | RF |  Sim  | | | | | | EC04 | FT07 | US26 | ELOF32 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF33">RF33<a/> / `1.4` | RF |  Não  | <a href="../../modelagem-pt1/casos-de-uso">UC01</a> | | | | | EC05 | FT09 | US27 | ELOF33 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF34">RF34<a/> / `1.4` | RF |  Sim  | <a href="../../modelagem-pt1/casos-de-uso">UC01</a> | | | L05 | | EC05 | FT09 | US28 | ELOF34 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF35">RF35<a/> / `1.4` | RF |  Sim  | <a href="../../modelagem-pt1/casos-de-uso">UC03</a> | | | | | EC02 | FT03  | US29  | ELOF35 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF36">RF36<a/> / `1.4` | RF |  Sim  | | | | | | EC01, EC15 | FT01, FT32 | US15 | ELOF36 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF37">RF37<a/> / `1.4` | RF |  Sim  | | | | | | EC03 | FT06 | US02, US33 | ELOF37 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF39">RF38<a/> / `1.4` | RF |  Sim  | | | | L01 | | EC03 | FT05 | US32 | ELOF38 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF39">RF39<a/> / `1.4` | RF |  Sim  | | | | L01 | | EC03 | FT05 | US31 | ELOF39 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF40">RF40<a/> / `1.4` | RF |  Não  | | | | | | EC09 | FT19 | US34 | ELOF40 |
+| <a href="../../elicitacao/grupo5/requisitos/#anchor_RF41">RF41<a/> / `1.4` | RF |  Sim  | | | | | | EC05, EC11 | FT09, FT22 | US09 | ELOF41 |
+| RNF01 / `1.4` | RNF | Não | | | P | | NFR02 | EC04, EC14 | FT07, FT30 | US38 | ELONF01 |
+| RNF02 / `1.4` | RNF | Sim | | | C | | | EC06 | FT12 | US39 | ELONF02 |
+| RNF03 / `1.4` | RNF | Sim | | | S | | NFR03 | EC06 | FT12 | US40 | ELONF03 |
+| RNF04 / `1.4` | RNF | Não | | | U | | NFR01 | EC06, EC11, EC13 | FT13, FT24, FT28 | US41 | ELONF04 | 
+| RNF05 / `1.4` | RNF | Sim | | | C | | | EC06 | FT12 | US39 | ELONF05 |
+| RNF06 / `1.4` | RNF | Não | | | S | | | EC14 | FT29 | US38 | ELONF06 |
+| RNF08 / `1.4` | RNF | Não | | | U | | NFR02 | EC11 | FT24 | US35 | ELONF08 |
+| RNF09 / `1.4` | RNF | Não | | | U | | NFR01 | EC05, EC13 | FT10, FT27 | US36 | ELONF09 |
+| RNF10 / `1.4` | RNF | Sim | | | C | | | EC06 | FT12 | US39 | ELONF10 |
+| RNF11 / `1.4` | RNF | Sim | | | C | | | EC04 | FT07 | US06 | ELONF11 |
+
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo">Victor Hugo</a>, 2025</p></font>
 
 </center>

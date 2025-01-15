@@ -85,6 +85,7 @@ nav:
         - Relatório de verificação: verificacao/grupo6/entrega4/relatorio-verificacao-e4-gp6.md
   
   - Pós Rastreabilidade:
+    - Matriz de Rastreabilidade: pos-rastreabilidade/matriz-rastreabilidade.md 
     - Backward-From:  pos-rastreabilidade/backward-from.md
     - Forward-From:  pos-rastreabilidade/forward-from.md
 theme:
