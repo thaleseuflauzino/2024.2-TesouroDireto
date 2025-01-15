@@ -108,7 +108,7 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos do proje
 
 | Elo | Requisito | Satisfação | Recusrso | Representação | Alocado | Agregação |
 | --- | --------- | ---------- | -------- | ------------- | ------- | --------- |
-| ELOF01 | RF01 | US01 | UC03 | (../assets/pos-rastreabilidade/foward/US01.jpg) | NFR02 | RF36 |
+| ELOF01 | RF01 | US01 | UC03 | ![](../assets/pos-rastreabilidade/foward/US01.jpg) | NFR02 | RF36 |
 | ELOF02 | RF02 | US02 | UC02 | (../assets/pos-rastreabilidade/foward/US02.jpg) | NFR02 | RF37, RF38, RF39 |
 | ELOF03 | RF03 | US03 | UC07 | | NRF03 | RF26, RF36 |
 | ELOF04 | RF04 | US04 | UC08 | (../assets/pos-rastreabilidade/foward/US04.jpg) | NFR02 | RF25, RF27 |
