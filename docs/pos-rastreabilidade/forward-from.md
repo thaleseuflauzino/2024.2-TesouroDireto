@@ -108,7 +108,7 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos do proje
 
 | Elo | Requisito | Satisfação | Recusrso | Representação | Alocado | Agregação |
 | --- | --------- | ---------- | -------- | ------------- | ------- | --------- |
-| ELOF01 | RF01 | US01 | <a href="../../modelagem-pt1/casos-de-uso">UC03</a> | ![]![](../assets/pos-rastreabilidade/foward/US01.jpg) | NFR02 | RF36 |
+| ELOF01 | RF01 | US01 | <a href="../../modelagem-pt1/casos-de-uso">UC03</a> | ![](../assets/pos-rastreabilidade/foward/US01.jpg) | NFR02 | RF36 |
 | ELOF02 | RF02 | US02 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a> | ![](../assets/pos-rastreabilidade/foward/US02.jpg) | NFR02 | RF37, RF38, RF39 |
 | ELOF03 | RF03 | US03 | <a href="../../modelagem-pt1/casos-de-uso">UC07</a> | | NRF03 | RF26, RF36 |
 | ELOF04 | RF04 | US04 | <a href="../../modelagem-pt1/casos-de-uso">UC08</a> | ![](../assets/pos-rastreabilidade/foward/US04.jpg) | NFR02 | RF25, RF27 |
@@ -119,7 +119,7 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos do proje
 | ELOF12 | RF12 | US09 | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | ![](../assets/pos-rastreabilidade/foward/US09.jpg) | NFR02 | RF41 |
 | ELOF13 | RF13 | US10 | <a href="../../modelagem-pt1/casos-de-uso">UC08</a>, <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | | NRF03 | RF04, RF25 |
 | ELOF14 | RF14 | US11 | <a href="../../modelagem-pt1/casos-de-uso">UC06</a>, <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | | RNF03 | RF24 |
-| ELOF15 | RF15 | US12 | <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | ![](../assets/pos-rastreabilidade/foward/US12.jpg) | NRF03 | RF10, RF26 |
+| ELOF15 | RF15 | US12 | <a href="../../modelagem-pt1/casos-de-uso">UC10</a> |  | NRF03 | RF10, RF26 |
 | ELOF16 | RF16 | US13 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a>, <a href="../../modelagem-pt1/casos-de-uso">UC08</a> | | NFR01 | RF21 |
 | ELOF17 | RF17 | US14 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC03</a> | | NRF03 | RF10 |
 | ELOF18 | RF18 | US15 | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | | NRF03 | RF11 |
@@ -128,7 +128,7 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos do proje
 | ELOF23 | RF23 | US18 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a> | | NFR02 | RF02 |
 | ELOF24 | RF24 | US19 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR02 | RF02, RF26 |
 | ELOF25 | RF25 | US20 | <a href="../../modelagem-pt1/casos-de-uso">UC09</a> | | NFR01 | RF04, RF27 |
-| ELOF26 | RF26 | US21 | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | ![](../assets/pos-rastreabilidade/foward/US21.jpg) | NRF03 | RF03, RF24 |
+| ELOF26 | RF26 | US21 | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> |  | NRF03 | RF03, RF24 |
 | ELOF27 | RF27 | US22 | <a href="../../modelagem-pt1/casos-de-uso">UC08</a> | | NFR01 | RF04, RF25 |
 | ELOF28 | RF28 | US23 | <a href="../../modelagem-pt1/casos-de-uso">UC09</a>, <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | | NRF03 | RF05 |
 | ELOF29 | RF29 | US24 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC03</a> | | NRF03 | RRF20 |
