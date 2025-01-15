@@ -108,51 +108,51 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos do proje
 
 | Elo | Requisito | Satisfação | Recusrso | Representação | Alocado | Agregação |
 | --- | --------- | ---------- | -------- | ------------- | ------- | --------- |
-| ELOF01 | RF01 | US01 | <a href="../../modelagem-pt1/casos-de-uso">UC03</a> | ![](../assets/pos-rastreabilidade/foward/US01.jpg) | NFR02 | RF36 |
-| ELOF02 | RF02 | US02 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a> | ![](../assets/pos-rastreabilidade/foward/US02.jpg) | NFR02 | RF37, RF38, RF39 |
-| ELOF03 | RF03 | US03 | <a href="../../modelagem-pt1/casos-de-uso">UC07</a> | | NRF03 | RF26, RF36 |
-| ELOF04 | RF04 | US04 | <a href="../../modelagem-pt1/casos-de-uso">UC08</a> | ![](../assets/pos-rastreabilidade/foward/US04.jpg) | NFR02 | RF25, RF27 |
-| ELOF05 | RF05 | US05 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a> | ![](../assets/pos-rastreabilidade/foward/US05.jpg) | NRF03 | RF28 |
-| ELOF06 | RF06 | US06 | <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | ![](../assets/pos-rastreabilidade/foward/US06.jpg) | NFR02 | RF01, RF03 |
-| ELOF08 | RF08 | US07 | <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR02 | RF01, RF36 |
-| ELOF09 | RF09 | US08 | <a href="../../modelagem-pt1/casos-de-uso">UC08</a>, <a href="../../modelagem-pt1/casos-de-uso">UC09</a> | ![](../assets/pos-rastreabilidade/foward/US08.jpg) | NFR01 | RF21 |
-| ELOF12 | RF12 | US09 | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | ![](../assets/pos-rastreabilidade/foward/US09.jpg) | NFR02 | RF41 |
-| ELOF13 | RF13 | US10 | <a href="../../modelagem-pt1/casos-de-uso">UC08</a>, <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | | NRF03 | RF04, RF25 |
-| ELOF14 | RF14 | US11 | <a href="../../modelagem-pt1/casos-de-uso">UC06</a>, <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | | RNF03 | RF24 |
-| ELOF15 | RF15 | US12 | <a href="../../modelagem-pt1/casos-de-uso">UC10</a> |  | NRF03 | RF10, RF26 |
-| ELOF16 | RF16 | US13 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a>, <a href="../../modelagem-pt1/casos-de-uso">UC08</a> | | NFR01 | RF21 |
-| ELOF17 | RF17 | US14 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC03</a> | | NRF03 | RF10 |
-| ELOF18 | RF18 | US15 | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | | NRF03 | RF11 |
-| ELOF20 | RF20 | US16 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR01 | RF29 |
-| ELOF21 | RF21 | US17 | <a href="../../modelagem-pt1/casos-de-uso">UC09</a>, <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | | NFR01 | RF16, RF09 |
-| ELOF23 | RF23 | US18 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a> | | NFR02 | RF02 |
-| ELOF24 | RF24 | US19 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR02 | RF02, RF26 |
-| ELOF25 | RF25 | US20 | <a href="../../modelagem-pt1/casos-de-uso">UC09</a> | | NFR01 | RF04, RF27 |
-| ELOF26 | RF26 | US21 | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> |  | NRF03 | RF03, RF24 |
-| ELOF27 | RF27 | US22 | <a href="../../modelagem-pt1/casos-de-uso">UC08</a> | | NFR01 | RF04, RF25 |
-| ELOF28 | RF28 | US23 | <a href="../../modelagem-pt1/casos-de-uso">UC09</a>, <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | | NRF03 | RF05 |
-| ELOF29 | RF29 | US24 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC03</a> | | NRF03 | RRF20 |
-| ELOF31 | RF31 | US25 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | ![](../assets/pos-rastreabilidade/foward/US25.jpg) | NRF03 | RF17 |
-| ELOF32 | RF32 | US26 | <a href="../../modelagem-pt1/casos-de-uso">UC10</a>, <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | ![](../assets/pos-rastreabilidade/foward/US26.jpg) | NFR02 | RF26 |
-| ELOF33 | RF33 | US27 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a> | | NFR01 | RF34 |
-| ELOF34 | RF34 | US28 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a> | ![](../assets/pos-rastreabilidade/foward/US28.jpg) | NFR01 | RF33 |
-| ELOF35 | RF35 | US29 | <a href="../../modelagem-pt1/casos-de-uso">UC06</a>, <a href="../../modelagem-pt1/casos-de-uso">UC08</a> | ![](../assets/pos-rastreabilidade/foward/US29.jpg) | NFR02 | RF02  |
-| ELOF36 | RF36 | US30 | <a href="../../modelagem-pt1/casos-de-uso">UC06</a>, <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | | NFR01 | RF01, RF03 |
-| ELOF37 | RF37 | US31 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a>, <a href="../../modelagem-pt1/casos-de-uso">UC19</a> | | NFR01 | RF02, RF24 |
-| ELOF38 | RF38 | US32 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a>, <a href="../../modelagem-pt1/casos-de-uso">UC08</a> | | NFR01 | RF02 |
-| ELOF39 | RF39 | US33 | <a href="../../modelagem-pt1/casos-de-uso">UC09</a> | | NRF03 | RF02 |
-| ELOF40 | RF40 | US34 | <a href="../../modelagem-pt1/casos-de-uso">UC08</a>, <a href="../../modelagem-pt1/casos-de-uso">UC09</a> | | NFR01 | RF04 |
-| ELOF41 | RF41 | US35 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR01 | RF12 |
-| ELONF01 | RNF01 | ---- | ---- | | NFR03 | RNF03 |
-| ELONF02 | RNF02 | US39 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR02 | RNF05, RNF10 |
-| ELONF03 | RNF03 | US40 | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | | NFR01 | RNF09 |
-| ELONF04 | RNF04 | US37 | <a href="../../modelagem-pt1/casos-de-uso">UC10</a>, <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | | NFR01 | RNF03, RNF09 |
-| ELONF05 | RNF05 | US39 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR02 | RNF02, RNF10 |
-| ELONF06 | RNF06 | US38 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | | NFR01 | RNF03, RNF09 |
-| ELONF08 | RNF08 | ---- | ---- | | NFR01 | RNF03, RNF04 |
-| ELONF09 | RNF09 | US36 | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | | NFR01 | RNF04, RNF03 |
-| ELONF10 | RNF10 | US39 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR02 | RNF02, RNF05 |
-| ELONF11 | RNF11 | ---- | ---- | | NFR03 | RNF10 |
+| ELOF01 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF01">RF01<a/> | US01 | <a href="../../modelagem-pt1/casos-de-uso">UC03</a> | ![]![](../assets/pos-rastreabilidade/foward/US01.jpg) | NFR02 | RF36 |
+| ELOF02 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">RF02<a/> | US02 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a> | ![](../assets/pos-rastreabilidade/foward/US02.jpg) | NFR02 | RF37, RF38, RF39 |
+| ELOF03 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF03">RF03<a/> | US03 | <a href="../../modelagem-pt1/casos-de-uso">UC07</a> | | NRF03 | RF26, RF36 |
+| ELOF04 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF04">RF04<a/> | US04 | <a href="../../modelagem-pt1/casos-de-uso">UC08</a> | ![](../assets/pos-rastreabilidade/foward/US04.jpg) | NFR02 | RF25, RF27 |
+| ELOF05 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF05">RF05<a/> | US05 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a> | ![](../assets/pos-rastreabilidade/foward/US05.jpg) | NRF03 | RF28 |
+| ELOF06 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF06">RF06<a/> | US06 | <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | ![](../assets/pos-rastreabilidade/foward/US06.jpg) | NFR02 | RF01, RF03 |
+| ELOF08 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF08">RF08<a/> | US07 | <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR02 | RF01, RF36 |
+| ELOF09 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF09">RF09<a/> | US08 | <a href="../../modelagem-pt1/casos-de-uso">UC08</a>, <a href="../../modelagem-pt1/casos-de-uso">UC09</a> | ![](../assets/pos-rastreabilidade/foward/US08.jpg) | NFR01 | RF21 |
+| ELOF12 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF12">RF12<a/> | US09 | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | ![](../assets/pos-rastreabilidade/foward/US09.jpg) | NFR02 | RF41 |
+| ELOF13 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF13">RF13<a/> | US10 | <a href="../../modelagem-pt1/casos-de-uso">UC08</a>, <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | | NRF03 | RF04, RF25 |
+| ELOF14 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF14">RF14<a/> | US11 | <a href="../../modelagem-pt1/casos-de-uso">UC06</a>, <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | | RNF03 | RF24 |
+| ELOF15 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF15">RF15<a/> | US12 | <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | ![](../assets/pos-rastreabilidade/foward/US12.jpg) | NRF03 | RF10, RF26 |
+| ELOF16 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF16">RF16<a/> | US13 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a>, <a href="../../modelagem-pt1/casos-de-uso">UC08</a> | | NFR01 | RF21 |
+| ELOF17 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF17">RF17<a/> | US14 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC03</a> | | NRF03 | RF10 |
+| ELOF18 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF18">RF18<a/> | US15 | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | | NRF03 | RF11 |
+| ELOF20 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF20">RF20<a/> | US16 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR01 | RF29 |
+| ELOF21 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF21">RF21<a/> | US17 | <a href="../../modelagem-pt1/casos-de-uso">UC09</a>, <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | | NFR01 | RF16, RF09 |
+| ELOF23 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF23">RF23<a/> | US18 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a> | | NFR02 | RF02 |
+| ELOF24 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF24">RF24<a/> | US19 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR02 | RF02, RF26 |
+| ELOF25 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF25">RF25<a/> | US20 | <a href="../../modelagem-pt1/casos-de-uso">UC09</a> | | NFR01 | RF04, RF27 |
+| ELOF26 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF26">RF26<a/> | US21 | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | ![](../assets/pos-rastreabilidade/foward/US21.jpg) | NRF03 | RF03, RF24 |
+| ELOF27 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF27">RF27<a/> | US22 | <a href="../../modelagem-pt1/casos-de-uso">UC08</a> | | NFR01 | RF04, RF25 |
+| ELOF28 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF28">RF28<a/> | US23 | <a href="../../modelagem-pt1/casos-de-uso">UC09</a>, <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | | NRF03 | RF05 |
+| ELOF29 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF29">RF29<a/> | US24 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC03</a> | | NRF03 | RRF20 |
+| ELOF31 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF31">RF31<a/> | US25 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | ![](../assets/pos-rastreabilidade/foward/US25.jpg) | NRF03 | RF17 |
+| ELOF32 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF32">RF32<a/> | US26 | <a href="../../modelagem-pt1/casos-de-uso">UC10</a>, <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | ![](../assets/pos-rastreabilidade/foward/US26.jpg) | NFR02 | RF26 |
+| ELOF33 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF33">RF33<a/> | US27 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a> | | NFR01 | RF34 |
+| ELOF34 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF34">RF34<a/> | US28 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a> | ![](../assets/pos-rastreabilidade/foward/US28.jpg) | NFR01 | RF33 |
+| ELOF35 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF35">RF35<a/> | US29 | <a href="../../modelagem-pt1/casos-de-uso">UC06</a>, <a href="../../modelagem-pt1/casos-de-uso">UC08</a> | ![](../assets/pos-rastreabilidade/foward/US29.jpg) | NFR02 | RF02  |
+| ELOF36 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF36">RF36<a/> | US30 | <a href="../../modelagem-pt1/casos-de-uso">UC06</a>, <a href="../../modelagem-pt1/casos-de-uso">UC10</a> | | NFR01 | RF01, RF03 |
+| ELOF37 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF37">RF37<a/> | US31 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a>, <a href="../../modelagem-pt1/casos-de-uso">UC19</a> | | NFR01 | RF02, RF24 |
+| ELOF38 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF38">RF38<a/> | US32 | <a href="../../modelagem-pt1/casos-de-uso">UC02</a>, <a href="../../modelagem-pt1/casos-de-uso">UC08</a> | | NFR01 | RF02 |
+| ELOF39 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF39">RF39<a/> | US33 | <a href="../../modelagem-pt1/casos-de-uso">UC09</a> | | NRF03 | RF02 |
+| ELOF40 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF40">RF40<a/> | US34 | <a href="../../modelagem-pt1/casos-de-uso">UC08</a>, <a href="../../modelagem-pt1/casos-de-uso">UC09</a> | | NFR01 | RF04 |
+| ELOF41 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF41">RF41<a/> | US35 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR01 | RF12 |
+| ELONF01 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF01">RNF01<a/> | ---- | ---- | | NFR03 | RNF03 |
+| ELONF02 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF02">RNF02<a/> | US39 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR02 | RNF05, RNF10 |
+| ELONF03 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF03">RNF03<a/> | US40 | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | | NFR01 | RNF09 |
+| ELONF04 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF04">RNF04<a/> | US37 | <a href="../../modelagem-pt1/casos-de-uso">UC10</a>, <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | | NFR01 | RNF03, RNF09 |
+| ELONF05 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF05">RNF05<a/> | US39 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR02 | RNF02, RNF10 |
+| ELONF06 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF06">RNF06<a/> | US38 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | | NFR01 | RNF03, RNF09 |
+| ELONF08 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF08">RNF08<a/> | ---- | ---- | | NFR01 | RNF03, RNF04 |
+| ELONF09 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF09">RNF09<a/> | US36 | <a href="../../modelagem-pt1/casos-de-uso">UC11</a> | | NFR01 | RNF04, RNF03 |
+| ELONF10 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF10">RNF10<a/> | US39 | <a href="../../modelagem-pt1/casos-de-uso">UC01</a>, <a href="../../modelagem-pt1/casos-de-uso">UC06</a> | | NFR02 | RNF02, RNF05 |
+| ELONF11 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF11">RNF11<a/> | ---- | ---- | | NFR03 | RNF10 |
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/juliatakaki">Júlia Takaki</a>, 2025</p></font>
 
