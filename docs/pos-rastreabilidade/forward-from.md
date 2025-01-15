@@ -108,18 +108,18 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos do proje
 
 | Elo | Requisito | Satisfação | Recusrso | Representação | Alocado | Agregação |
 | --- | --------- | ---------- | -------- | ------------- | ------- | --------- |
-| ELOF01 | RF01 | US01 | UC03 | ![](../assets/pos-rastreabilidade/foward/US01.jpg) | NFR02 | RF36 |
-| ELOF02 | RF02 | US02 | UC02 | (../assets/pos-rastreabilidade/foward/US02.jpg) | NFR02 | RF37, RF38, RF39 |
+| ELOF01 | RF01 | US01 | UC03 | ![]![](../assets/pos-rastreabilidade/foward/US01.jpg) | NFR02 | RF36 |
+| ELOF02 | RF02 | US02 | UC02 | ![](../assets/pos-rastreabilidade/foward/US02.jpg) | NFR02 | RF37, RF38, RF39 |
 | ELOF03 | RF03 | US03 | UC07 | | NRF03 | RF26, RF36 |
-| ELOF04 | RF04 | US04 | UC08 | (../assets/pos-rastreabilidade/foward/US04.jpg) | NFR02 | RF25, RF27 |
-| ELOF05 | RF05 | US05 | UC02 | (../assets/pos-rastreabilidade/foward/US05.jpg) | NRF03 | RF28 |
-| ELOF06 | RF06 | US06 | UC10 | (../assets/pos-rastreabilidade/foward/US06.jpg) | NFR02 | RF01, RF03 |
+| ELOF04 | RF04 | US04 | UC08 | ![](../assets/pos-rastreabilidade/foward/US04.jpg) | NFR02 | RF25, RF27 |
+| ELOF05 | RF05 | US05 | UC02 | ![](../assets/pos-rastreabilidade/foward/US05.jpg) | NRF03 | RF28 |
+| ELOF06 | RF06 | US06 | UC10 | ![](../assets/pos-rastreabilidade/foward/US06.jpg) | NFR02 | RF01, RF03 |
 | ELOF08 | RF08 | US07 | UC06 | | NFR02 | RF01, RF36 |
-| ELOF09 | RF09 | US08 | UC08, UC09 | (../assets/pos-rastreabilidade/foward/US08.jpg) | NFR01 | RF21 |
-| ELOF12 | RF12 | US09 | UC11 | (../assets/pos-rastreabilidade/foward/US09.jpg) | NFR02 | RF41 |
+| ELOF09 | RF09 | US08 | UC08, UC09 | ![](../assets/pos-rastreabilidade/foward/US08.jpg) | NFR01 | RF21 |
+| ELOF12 | RF12 | US09 | UC11 | ![](../assets/pos-rastreabilidade/foward/US09.jpg) | NFR02 | RF41 |
 | ELOF13 | RF13 | US10 | UC08, UC10 | | NRF03 | RF04, RF25 |
 | ELOF14 | RF14 | US11 | UC06, UC10 | | RNF03 | RF24 |
-| ELOF15 | RF15 | US12 | UC10 | (../assets/pos-rastreabilidade/foward/US12.jpg) | NRF03 | RF10, RF26 |
+| ELOF15 | RF15 | US12 | UC10 | ![](../assets/pos-rastreabilidade/foward/US12.jpg) | NRF03 | RF10, RF26 |
 | ELOF16 | RF16 | US13 | UC02, UC08 | | NFR01 | RF21 |
 | ELOF17 | RF17 | US14 | UC01, UC03 | | NRF03 | RF10 |
 | ELOF18 | RF18 | US15 | UC11 | | NRF03 | RF11 |
@@ -128,15 +128,15 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos do proje
 | ELOF23 | RF23 | US18 | UC02 | | NFR02 | RF02 |
 | ELOF24 | RF24 | US19 | UC02, UC06 | | NFR02 | RF02, RF26 |
 | ELOF25 | RF25 | US20 | UC09 | | NFR01 | RF04, RF27 |
-| ELOF26 | RF26 | US21 | UC11 | (../assets/pos-rastreabilidade/foward/US21.jpg) | NRF03 | RF03, RF24 |
+| ELOF26 | RF26 | US21 | UC11 | ![](../assets/pos-rastreabilidade/foward/US21.jpg) | NRF03 | RF03, RF24 |
 | ELOF27 | RF27 | US22 | UC08 | | NFR01 | RF04, RF25 |
 | ELOF28 | RF28 | US23 | UC09, UC10 | | NRF03 | RF05 |
 | ELOF29 | RF29 | US24 | UC01, UC03 | | NRF03 | RRF20 |
-| ELOF31 | RF31 | US25 | UC02, UC06 | (../assets/pos-rastreabilidade/foward/US25.jpg) | NRF03 | RF17 |
-| ELOF32 | RF32 | US26 | UC10, UC11 | (../assets/pos-rastreabilidade/foward/US26.jpg) | NFR02 | RF26 |
+| ELOF31 | RF31 | US25 | UC02, UC06 | ![](../assets/pos-rastreabilidade/foward/US25.jpg) | NRF03 | RF17 |
+| ELOF32 | RF32 | US26 | UC10, UC11 | ![](../assets/pos-rastreabilidade/foward/US26.jpg) | NFR02 | RF26 |
 | ELOF33 | RF33 | US27 | UC01 | | NFR01 | RF34 |
-| ELOF34 | RF34 | US28 | UC01 | (../assets/pos-rastreabilidade/foward/US28.jpg) | NFR01 | RF33 |
-| ELOF35 | RF35 | US29 | UC06, UC08 | (../assets/pos-rastreabilidade/foward/US29.jpg) | NFR02 | RF02  |
+| ELOF34 | RF34 | US28 | UC01 | ![](../assets/pos-rastreabilidade/foward/US28.jpg) | NFR01 | RF33 |
+| ELOF35 | RF35 | US29 | UC06, UC08 | ![](../assets/pos-rastreabilidade/foward/US29.jpg) | NFR02 | RF02  |
 | ELOF36 | RF36 | US30 | UC06, UC10 | | NFR01 | RF01, RF03 |
 | ELOF37 | RF37 | US31 | UC02, UC19 | | NFR01 | RF02, RF24 |
 | ELOF38 | RF38 | US32 | UC02, UC08 | | NFR01 | RF02 |
