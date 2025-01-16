@@ -79,4 +79,4 @@ A Matriz de Rastreabilidade de Requisitos é construída a partir da análise de
 ## Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|14/01/2025| Criação e ajuste do Documento |[Victor Rodrigues](https://github.com/ViictorHugoo) | |
+|`1.0`|14/01/2025| Criação e ajuste do Documento |[Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino)|
