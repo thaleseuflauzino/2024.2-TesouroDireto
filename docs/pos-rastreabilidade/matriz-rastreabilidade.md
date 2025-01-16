@@ -72,7 +72,7 @@ A Matriz de Rastreabilidade de Requisitos é construída a partir da análise de
 
 >  Requirements Engineering Fundamentals. Disponível em: [aqui](../assets/pos-rastreabilidade/Requisitos%20-%20Aula%20026.pdf). Acesso em: 14 jan. 2025.
 
-> Slides da Aula 26 da Professora Milene Serrano. Disponível em: [aqui](../assets/pos-rastreabilidade/requirements-fundamentals.pdf). Acesso em: 14 jan. 2025.
+> SERRANO, Milene; SERRANO, Maurício. Slides da Aula 26 - Requisitos de Software. Disponível [aqui](../assets/pos-rastreabilidade/requirements-fundamentals.pdf). Acesso em: 14 jan. 2025.
 
 > Economia DF - "Rastreabilidade - Matriz de Rastreabilidade". Disponível em: [requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/matriz-de-rastreabilidade](requisitos-de-software.github.io/2023.2-Economia-DF/rastreabilidade/matriz-de-rastreabilidade). Acesso em: 14 jan. 2025.
 
