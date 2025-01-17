@@ -58,7 +58,7 @@ Inicialmente serão definidos os cenários das tarefas principais, que descrevem
 
 Os cenários listados nas tabelas 2 a 11 foram elaborados com base na análise dos requisitos elicitados, disponíveis na seção de [Requisitos](../elicitacao/grupo5/requisitos.md).
 
-### Cenário 1 - Simulação de compra de titulos - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">RF02</a>
+### <a id="CEN01"></a>Cenário 1 - Simulação de compra de titulos - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">RF02</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 2:</strong> Cenário 1</p>
 <table border="1">
@@ -146,7 +146,7 @@ Os cenários listados nas tabelas 2 a 11 foram elaborados com base na análise d
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
 
-### Cenário 2 - Resgate Antecipado de Títulos - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF03">RF03</a>
+### <a id="CEN02"></a>Cenário 2 - Resgate Antecipado de Títulos - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF03">RF03</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 3:</strong> Cenário 2</p>
 <table border="1">
@@ -236,7 +236,7 @@ Os cenários listados nas tabelas 2 a 11 foram elaborados com base na análise d
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
 
-### Cenário 3 - Planejamento de Metas de Investimento - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF04">RF04</a>
+### <a id="CEN03"></a>Cenário 3 - Planejamento de Metas de Investimento - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF04">RF04</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 4:</strong> Cenário 3</p>
 <table border="1">
@@ -326,7 +326,7 @@ Os cenários listados nas tabelas 2 a 11 foram elaborados com base na análise d
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
 
-### Cenário 4 - Planejamento de Aposentadoria - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF05">RF05</a>
+### <a id="CEN04"></a>Cenário 4 - Planejamento de Aposentadoria - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF05">RF05</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 5:</strong> Cenário 4</p>
 <table border="1">
@@ -418,7 +418,7 @@ Os cenários listados nas tabelas 2 a 11 foram elaborados com base na análise d
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
-### Cenário 5 - Consultar operações agendadas - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF08">RF08</a>
+### <a id="CEN05"></a>Cenário 5 - Consultar operações agendadas - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF08">RF08</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 6:</strong> Cenário 5</p>
 <table border="1">
@@ -498,7 +498,7 @@ Os cenários listados nas tabelas 2 a 11 foram elaborados com base na análise d
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
-### Cenário 6 - Visualizar lista de títulos públicos disponíveis - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF30">RF30</a>
+### <a id="CEN06"></a>Cenário 6 - Visualizar lista de títulos públicos disponíveis - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF30">RF30</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 7:</strong> Cenário 6</p>
 <table border="1">
@@ -577,7 +577,7 @@ Os cenários listados nas tabelas 2 a 11 foram elaborados com base na análise d
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
-### Cenário 7 - Consultar as informações de liquidez dos títulos disponíveis - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF23">RF23</a>
+### <a id="CEN07"></a>Cenário 7 - Consultar as informações de liquidez dos títulos disponíveis - <a href="../../elicitacao/grupo5/requisitos/#anchor_RF23">RF23</a>
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 8:</strong> Cenário 7</p>
 <table border="1">
@@ -659,7 +659,7 @@ Os cenários listados nas tabelas 2 a 11 foram elaborados com base na análise d
 </table>
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/ViictorHugoo" target="blank">Victor Rodrigues</a></p>
 
-### Cenário 8 - Simulação da Evolução de Metas/Sonhos - [RF25](../../elicitacao/grupo5/requisitos/#anchor_RF25)
+### <a id="CEN08"></a>Cenário 8 - Simulação da Evolução de Metas/Sonhos - [RF25](../../elicitacao/grupo5/requisitos/#anchor_RF25)
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 9:</strong> Cenário 8</p>
 <table border="1">
@@ -726,7 +726,7 @@ Os cenários listados nas tabelas 2 a 11 foram elaborados com base na análise d
 Esse cenário foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/moonshinerd" target="blank">Víctor Schmidt</a></p>
 
-### Cenário 9 - Relatórios Mensais de Evolução de Rendimentos - [RF15](../../elicitacao/grupo5/requisitos/#anchor_RF15)
+### <a id="CEN09"></a>Cenário 9 - Relatórios Mensais de Evolução de Rendimentos - [RF15](../../elicitacao/grupo5/requisitos/#anchor_RF15)
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 10:</strong> Cenário 9</p>
 <table border="1">
@@ -794,7 +794,7 @@ Esse cenário foi feito baseado nas [Instruções do Professor](../../elicitacao
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autor: <a href="https://github.com/thaleseuflauzino" target="blank">Thales Euflauzino</a></p>
 
 
-### Cenário 10 - Dashboard com Dados de Rentabilidade e Inflação - [RF26](../../elicitacao/grupo5/requisitos/#anchor_RF26)
+### <a id="CEN10"></a>Cenário 10 - Dashboard com Dados de Rentabilidade e Inflação - [RF26](../../elicitacao/grupo5/requisitos/#anchor_RF26)
 
 <p style="font-size: 13px; text-align: center; margin: 0px auto"><strong>Tabela 11:</strong> Cenário 10</p>
 <table border="1">
@@ -886,3 +886,4 @@ Esse cenário foi feito baseado nas [Instruções do Professor](../../elicitacao
 | `1.5`    | 11/12/2024 | Adicionando Cenário baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.6`    | 11/12/2024 | Adicionando Cenário baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.7`    | 12/12/2024 | Adicionando Cenário baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)   | [Victor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.8` | 16/01/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
