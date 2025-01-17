@@ -99,15 +99,28 @@ A tabela 1 representa a matriz de rastreabilidade.
 
 </center>
 
-## Elos 
+## Elos
 
-A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos do projeto.
+Neste documento, abordamos a rastreabilidade dos requisitos elicitados para o sistema de investimentos em títulos públicos, conforme os artefatos de análise e desenvolvimento do projeto. A metodologia aplicada visa identificar os vínculos entre os requisitos funcionais e não funcionais, estabelecendo conexões claras entre as funcionalidades a serem implementadas e os requisitos de qualidade que o sistema deve atender.
+
+Os requisitos foram categorizados como elementos de desenvolvimento do sistema, refletindo as necessidades e expectativas do usuário final, bem como as restrições e melhorias contínuas desejadas. Essa classificação contribui para a clareza do projeto e para o alinhamento entre a equipe de desenvolvimento e os objetivos do sistema.
+
+Com base nessa abordagem, foi criada a **Tabela 2**, que apresenta todos os elos de rastreabilidade entre os requisitos e os artefatos do sistema. Um total de 45 elos foi mapeado, considerando as interações entre as funcionalidades, as interfaces e os aspectos não funcionais do sistema. Cada integrante do time contribuiu para o mapeamento de elos, com a supervisão de [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo).
+
+**Legendas:**
+
+> - RFx: Requisito Funcional número x  
+> - RNFx: Requisito Não Funcional número x  
+> - USx: História de Usuário 
+> - NFRx: NFR número x
+
+#### Tabela 2: Elos de rastreabilidade
 <center>
 
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Elos de rastreabilidade Forward-from</p></font>
 
-| Elo | Requisito | Satisfação | Recusrso | Representação | Alocado | Agregação |
-| --- | --------- | ---------- | -------- | ------------- | ------- | --------- |
+| Elo | Requisito | Satisfação | Recurso | Representação | Alocado | Agregação |
+| --- | --------- | ---------- | ------- | ------------- | ------- | --------- |
 | <a id="ELOF01"></a> ELOF01 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF01">RF01<a/> | <a href="../../modelagem-pt2/userstories/#anchor_US01">US01<a/> | <a href="../../modelagem-pt1/casos-de-uso/#UC03">UC03</a> | ![](../assets/pos-rastreabilidade/foward/US01.jpg) | <a href="../../modelagem-pt2/nfr_framework"><a href="../../modelagem-pt2/nfr_framework/#nfr02">NFR02</a></a> | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF36">RF36<a/> |
 | <a id="ELOF02"></a> ELOF02 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF02">RF02<a/> | <a href="../../modelagem-pt2/userstories/#anchor_US02">US02<a/> | <a href="../../modelagem-pt1/casos-de-uso/#UC02">UC02</a> | ![](../assets/pos-rastreabilidade/foward/US02.jpg) | <a href="../../modelagem-pt2/nfr_framework"><a href="../../modelagem-pt2/nfr_framework/#nfr02">NFR02</a></a> | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF37">RF37<a/>, <a href="../../elicitacao/grupo5/requisitos/#anchor_RF38">RF38<a/>, <a href="../../elicitacao/grupo5/requisitos/#anchor_RF39">RF39<a/> |
 | <a id="ELOF03"></a> ELOF03 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF03">RF03<a/> | <a href="../../modelagem-pt2/userstories/#anchor_US03">US03<a/> | <a href="../../modelagem-pt1/casos-de-uso/#UC07">UC07</a> | | <a href="../../modelagem-pt2/nfr_framework/#nfr03">NFR03</a> | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF26">RF26<a/>, <a href="../../elicitacao/grupo5/requisitos/#anchor_RF36">RF36<a/> |
@@ -169,8 +182,8 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos do proje
 ## Histórico de Versões
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
-|`1.0`|12/01/2025|Criação e ajuste do Documento|[Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki)|[Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|`1.0`|12/01/2025|Criação e ajuste do Documento|[Victor Rodrigues](https://github.com/ViictorHugoo) e [Júlia Takaki](https://github.com/juliatakaki)|[Thales Euflauzino](https://github.com/thaleseuflauzino) |
 |`1.1`|15/01/2025|Ajustando referências bibliográficas| [Thales Euflauzino](https://github.com/thaleseuflauzino)| [Victor Rodrigues](https://github.com/ViictorHugoo)|
-|`1.2`|16/01/2025|Adicionando hyperlinks e rastreabilidade|[Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki)| [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|`1.2`|16/01/2025|Adicionando hyperlinks e rastreabilidade|[Victor Rodrigues](https://github.com/ViictorHugoo) e [Júlia Takaki](https://github.com/juliatakaki)| [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 |`1.4`|16/01/2025|Adicionando rastreabilidade entre as tabelas (elos)|[Thales Euflauzino](https://github.com/thaleseuflauzino) |
 |`1.5`|16/01/2025|Adicionando rastreabilidade para NFR, UC, Cenários e Especificação Suplementar|[Thales Euflauzino](https://github.com/thaleseuflauzino) |
