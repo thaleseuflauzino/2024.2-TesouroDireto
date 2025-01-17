@@ -107,14 +107,13 @@ Os requisitos foram categorizados como elementos de desenvolvimento do sistema, 
 
 Com base nessa abordagem, foi criada a **Tabela 2**, que apresenta todos os elos de rastreabilidade entre os requisitos e os artefatos do sistema. Um total de 45 elos foi mapeado, considerando as interações entre as funcionalidades, as interfaces e os aspectos não funcionais do sistema. Cada integrante do time contribuiu para o mapeamento de elos, com a supervisão de [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo).
 
-**Legendas:**
+**Legenda:**
 
 > - RFx: Requisito Funcional número x  
 > - RNFx: Requisito Não Funcional número x  
 > - USx: História de Usuário 
 > - NFRx: NFR número x
 
-#### Tabela 2: Elos de rastreabilidade
 <center>
 
 <font size="3"><p style="text-align: center"><b>Tabela 2:</b> Elos de rastreabilidade Forward-from</p></font>
