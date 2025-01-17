@@ -47,7 +47,7 @@ A figura 1 demonstra o diagrama de casos de uso.
 
 As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 
-### Tabela 2: Fazer Login
+### <a id="UC01" "></a>Tabela 2: Fazer Login
 <font size="3"><p style="text-align: center">Tabela 2: Fazer Login </p></font>
 <center>
 
@@ -68,7 +68,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
-### Tabela 3: Simular Investimento
+### <a id="UC02" "></a>Tabela 3: Simular Investimento
 <font size="3"><p style="text-align: center">Tabela 3: Simular Investimento </p></font>
 <center>
 
@@ -88,7 +88,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 </center>
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
  
-### Tabela 4: Escolher Investimentos
+### <a id="UC03" "></a>Tabela 4: Escolher Investimentos
 <font size="3"><p style="text-align: center">Tabela 4: Escolher Investimentos </p></font>
 <center>
 
@@ -108,7 +108,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 </center>
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
-### Tabela 5: Verificar Meus Investimentos
+### <a id="UC06" "></a>Tabela 5: Verificar Meus Investimentos
 <font size="3"><p style="text-align: center">Tabela 5: Verificar Meus Investimentos </p></font>
 <center>
 
@@ -128,7 +128,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 </center>
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
-### Tabela 6: Resgatar Investimento
+### <a id="UC07" "></a>Tabela 6: Resgatar Investimento
 <font size="3"><p style="text-align: center">Tabela 6: Resgatar Investimento </p></font>
 <center>
 
@@ -149,7 +149,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
-### Tabela 7: Criar Meta/Sonho
+### <a id="UC08" "></a>Tabela 7: Criar Meta/Sonho
 <font size="3"><p style="text-align: center">Tabela 7: Criar Meta/Sonho </p></font>
 <center>
 
@@ -171,7 +171,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
-### Tabela 8: Simular Evolução Meta/Sonho
+### <a id="UC09" "></a>Tabela 8: Simular Evolução Meta/Sonho
 <font size="3"><p style="text-align: center">Tabela 8: Simular Evolução Meta/Sonho </p></font>
 <center>
 
@@ -192,7 +192,7 @@ As tabelas de 2 a 10 mostram a especialização dos casos de uso.
 Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/moonshinerd">Víctor Schmidt</a></b></p></font>
 
-### Tabela 9: Relatórios Mensais de Evolução de Rendimentos
+### <a id="UC10" "></a>Tabela 9: Relatórios Mensais de Evolução de Rendimentos
 
 <font size="3"><p style="text-align: center">Tabela 9: Incluir Relatórios Personalizados </p></font>
 <center>
@@ -215,7 +215,7 @@ Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicita
 Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) sobre os requisitos a serem desenvolvidos no projeto.
 <font size="2"><p style="text-align: center"><b>Autor: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></b></p></font>
 
-### Tabela 10: Dashboard com dados de rentabilidade
+### <a id="UC11" "></a>Tabela 10: Dashboard com dados de rentabilidade
 
 <center>
 <font size="3"><p style="text-align: center">Tabela 10: Dashboard de rentabilidade e inflação </p></font>
@@ -265,3 +265,4 @@ Esse caso de uso foi feito baseado nas [Instruções do Professor](../../elicita
 | `1.4`    | 11/12/2024 | Adicionando Caso de Uso baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.5`    | 11/12/2024 | Adicionando Caso de Uso baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.6`    | 12/12/2024 | Adicionando Caso de Uso baseado nas [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante) | [Victor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.7` | 16/01/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
