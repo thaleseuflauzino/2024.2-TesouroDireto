@@ -111,7 +111,8 @@ Com base nessa abordagem, foi criada a **Tabela 2**, que apresenta todos os elos
 
 > - RFx: Requisito Funcional número x  
 > - RNFx: Requisito Não Funcional número x  
-> - USx: História de Usuário 
+> - USx: História de Usuário número x 
+> - UCx: Caso de uso númeo x
 > - NFRx: NFR número x
 
 <center>
