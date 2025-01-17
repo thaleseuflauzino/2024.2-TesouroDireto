@@ -6,11 +6,9 @@ O NFR Framework (Non-Functional Requirements Framework) é uma abordagem desenvo
 
  No NFR Framework, os requisitos não funcionais são representados como softgoals, que refletem objetivos flexíveis e interdependentes. Por meio de gráficos de softgoals, é possível visualizar as relações entre diferentes NFRs e como soluções propostas contribuem de forma positiva ou negativa para sua satisfação. Além disso, o framework inclui técnicas para operacionalizar os softgoals em soluções concretas e ferramentas para explorar compromissos entre requisitos conflitantes, como equilibrar desempenho e segurança. Dessa forma, o NFR Framework oferece um suporte valioso para tomada de decisões no desenvolvimento de sistemas complexos.
 
-
 ## Softgoal Interdependency Graph
 
 O Softgoal Interdependency Graph (SIG) é uma ferramenta de visualização central ao funcionamento do NFR Framework. Ele apresenta de forma gráfica e estruturada os softgoals identificados pela equipe de desenvolvimento, suas inter-relações e contribuições. Esse modelo facilita a análise de interdependências entre metas não funcionais, permitindo que os desenvolvedores tomem decisões fundamentadas sobre como abordar requisitos qualitativos do sistema.
-
 
 ### Tipos de Softgoal
 
@@ -162,7 +160,7 @@ Autor: [Maria Helena](https://github.com/MariaCHelena)
 
 </center>
 
-### NFR 00 - Geral
+### <a id="nfr00"></a>NFR 00 - Geral
 
 Devido à limitação para atuar exclusivamente com Requisitos Não-Funcionais ainda não implementados, o SIG apresentado foi ajustado para incorporar apenas os Requisitos a serem trabalhados, conforme ilustrado na Figura 1.
 
@@ -175,7 +173,7 @@ Devido à limitação para atuar exclusivamente com Requisitos Não-Funcionais a
 </center>
 
 
-### NFR 01 - Acessibilidade
+### <a id="nfr01"></a>NFR 01 - Acessibilidade
 
 **Requisitos Não-Funcionais - Acessibilidade**
 
@@ -216,7 +214,7 @@ A avaliação da propagação de impactos está apresentada na Tabela 3.
 
 </center>
 
-### NFR 02 - Eficiência
+### <a id="nfr02"></a>NFR 02 - Eficiência
 
 **Requisitos Não-Funcionais - Eficiência**
 
@@ -254,7 +252,7 @@ A avaliação da propagação de impactos está apresentada na Tabela 4.
 </center>
 
 
-### NFR 03 - Desempenho
+### <a id="nfr03"></a>NFR 03 - Desempenho
 
 **Requisitos Não-Funcionais - Desempenho**
 
@@ -323,3 +321,4 @@ _Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2024_
 | `1.3` | 16/12/2024  | SGI adicionados | [Grupo](../../)  | [Victor Schmidt](https://github.com/moonshinerd) |
 | `1.4` | 17/12/2024  | Ajustando fonte e autor |  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd) |
 | `1.5` | 17/12/2024  | Alteração requisitada pelo professor | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Victor Schmidt](https://github.com/moonshinerd) |
+| `1.6` | 16/01/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
