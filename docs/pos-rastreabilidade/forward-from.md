@@ -171,4 +171,4 @@ A tabela 2 mostra os elos entre os requisitos elicitados e os artefatos do proje
 |:----:|----|---------|-----|:-------:|
 |`1.0`|12/01/2025|Criação e ajuste do Documento|[Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki)|[Thales Euflauzino](https://github.com/thaleseuflauzino) |
 |`1.1`|15/01/2025|Ajustando referências bibliográficas| [Thales Euflauzino](https://github.com/thaleseuflauzino)| [Victor Rodrigues](https://github.com/ViictorHugoo)|
-|`1.2`|16/01/2025|Adicionando hyperlinks e rastreabilidade|[Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki)|
+|`1.2`|16/01/2025|Adicionando hyperlinks e rastreabilidade|[Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki)| [Thales Euflauzino](https://github.com/thaleseuflauzino) |
