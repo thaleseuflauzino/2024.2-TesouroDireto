@@ -15,6 +15,7 @@ nav:
     - Apresentação 2: Apresentacoes/apresentacao02.md
     - Apresentação 3: Apresentacoes/apresentacao03.md
     - Apresentação 4: Apresentacoes/apresentacao04.md
+    - Apresentação 6: Apresentacoes/apresentacao06.md
 
   - Planejamento do projeto:
     - Heatmap: Planejamento-do-projeto/heatmap.md
@@ -70,6 +71,9 @@ nav:
       - Entrega 4:
         - Planejamento da verificação: verificacao/grupo5/entrega4/planej-verificacao-e4-gp5.md
         - Relatório de verificação: verificacao/grupo5/entrega4/relatorio-verificacao-e4-gp5.md
+      - Entrega 6:
+        - Planejamento da verificação: verificacao/grupo5/entrega6/planej-verificacao-e6-gp5.md
+        - Relatório de verificação: verificacao/grupo5/entrega6/relatorio-verificacao-e6-gp5.md
     - Grupo +1 (6):
       - Entrega 1:
         - Planejamento da verificação: verificacao/grupo6/entrega1/planej-verificacao-e1-gp6.md
