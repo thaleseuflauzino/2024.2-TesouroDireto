@@ -26,13 +26,6 @@ Esta página é um espaço dedicado à documentação de todos os artefatos dese
                 <h5 class="text-center">Víctor<br>Schmidt</h5>
         </div>
         <div style="text-align: center;">
-            <a href="https://github.com/MariaCHelena">
-                <img src="https://github.com/MariaCHelena.png" alt="Foto Maria Helena" width="130px" height="50%" style="border-radius:20%; border: 2px solid black"/>
-                <h5 class="text-center">Maria<br>Helena</h5>
-        </div>
-    </div>
-    <div style="display: flex; align-items: end; justify-content: center; gap: 30px;">
-        <div style="text-align: center;">
             <a href="https://github.com/juliatakaki">
                 <img src="https://github.com/juliatakaki.png" alt="Foto Júlia Takaki" width="130px" height="50%" style="border-radius:20%; border: 2px solid black"/>
                 <h5 class="text-center">Júlia<br>Takaki</h5>
@@ -50,5 +43,5 @@ Esta página é um espaço dedicado à documentação de todos os artefatos dese
 
 Versão |   Data  | Descrição | Autor(es) | Revisor(es)
 ------ | ---- | ------ | ---------- | ----------
-1.0 | 24/10/2024 | Criação do GitHub Pages | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)
-1.1 | 30/10/2024 | Adição das informações do app escolhido | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)
+`1.0` | 24/10/2024 | Criação do GitHub Pages | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)
+`1.1` | 30/10/2024 | Adição das informações do app escolhido | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)
