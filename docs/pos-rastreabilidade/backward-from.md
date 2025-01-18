@@ -244,9 +244,9 @@ Tomando o Meta-modelo de Toranzo como base, este documento descreve 45 elos de r
 
 ## Referências Bibliográficas
 
-> <a id="anchor_1" href="#REF1">1.</a> SERRANO, Milene; SERRANO, Maurício. Slides da Aula 26 - Requisitos de Software. Disponível [aqui](../assets/pos-rastreabilidade/requirements-fundamentals.pdf). Acesso em: 12 jan. 2025.
+> <a id="anchor_1" href="#REF1">1.</a> SERRANO, Milene; SERRANO, Maurício. Slides da Aula 26 - Requisitos de Software. Disponível [aqui](../assets/pos-rastreabilidade/Requisitos%20-%20Aula%20026.pdf). Acesso em: 12 jan. 2025.
 > 
-> <a id="anchor_2" href="#REF2">2.</a> POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamentals. Disponível [aqui](../assets/pos-rastreabilidade/Requisitos%20-%20Aula%20026.pdf). Acesso em: 12 jan. 2025.
+> <a id="anchor_2" href="#REF2">2.</a> POHL, Klaus; RUPP, Chris. Requirements Engineering Fundamentals. Disponível [aqui](../assets/pos-rastreabilidade/requirements-fundamentals.pdf). Acesso em: 12 jan. 2025.
 
 
 ## Bibliografia
