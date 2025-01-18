@@ -81,4 +81,4 @@ A Matriz de Rastreabilidade de Requisitos é construída a partir da análise de
 |:----:|----|---------|-----|:-------:|
 |`1.0`|14/01/2025| Criação e ajuste do Documento |[Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino)|
 |`1.1`|16/01/2025| Hyperlinks |[Victor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |
-|`1.2`|16/01/2025| Adicionando a rastreabilidade para as técnicas de elicitação |[Thales Euflauzino](https://github.com/thaleseuflauzino) | |
+|`1.2`|16/01/2025| Adicionando a rastreabilidade para as técnicas de elicitação |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)|
