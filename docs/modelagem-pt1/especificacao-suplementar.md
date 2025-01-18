@@ -88,4 +88,4 @@ Esse tópico diz respeito a questões relacionadas ao desempenho do software. Os
 | `1.5`    | 11/12/2024 | Corrigindo RNF04 baseado em [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.6`    | 11/12/2024 | Corrigindo RNF08 baseado em [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)|  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.7`    | 13/01/2025 | Adicionando RNF10 e RNF11 | [Victor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |
-| `1.8` | 16/01/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.8` | 16/01/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)|
