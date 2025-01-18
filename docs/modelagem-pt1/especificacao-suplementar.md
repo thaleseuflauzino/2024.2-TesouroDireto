@@ -10,14 +10,14 @@ O modelo adotado para definir os requisitos do aplicativo Tesouro Direto foi o F
 
 ## Definições da Especificação Suplementar
 
-### 1. Funcionalidades
+### <a id="f"></a>1. Funcionalidades
 
 As funcionalidades foram elicitadas e podem ser encontradas em Elicitação de requisitos e nos Casos de usos levantados.
 
 - [Elicitação de Requisitos (priorização)](../priorizacao.md)
 - [Casos de Uso](casos_de_uso.md)
 
-### 2. Usabilidade
+### <a id="u"></a>2. Usabilidade
 
 Este tópico aborda os requisitos que influenciam a facilidade de uso da aplicação pelo usuário. Para essa seção, os requisitos referentes a usabilidade do aplicativo estão listados na tabela 1.
 
@@ -30,7 +30,7 @@ Este tópico aborda os requisitos que influenciam a facilidade de uso da aplica�
 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF09">[RNF09]</a> | O aplicativo deve incluir uma opção de tema escuro para melhorar a experiência do usuário |
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/juliatakaki" target="blank">Júlia Takaki</a></p>
 
-### 3. Confiabilidade
+### <a id="c"></a>3. Confiabilidade
 
 Esse tópico diz respeito a quanto o aplicativo é confiável. Os requisitos relacionados a confiabilidade do sistema estão listados na tabela 2.
 
@@ -44,7 +44,7 @@ Esse tópico diz respeito a quanto o aplicativo é confiável. Os requisitos rel
 
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a>, <a href="https://github.com/juliatakaki" target="blank">Júlia Takaki</a> e <a href="https://github.com/Viictor Hugoo" target="blank">Victor Rodrigues</a></p>
 
-### 4. Suportabilidade
+### <a id="s"></a>4. Suportabilidade
 
 Requisitos referentes ao suporte do sistema em diferentes contextos e plataformas e aspectos relevantes a extensibilidade do software. Na tabela 3, os requisitos relacionados a suportabilidade foram elencados.
 
@@ -55,7 +55,7 @@ Requisitos referentes ao suporte do sistema em diferentes contextos e plataforma
 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF06">[RNF06]</a> | Disponibilizar suporte para múltiplos idiomas (português como padrão) |
 <p style="font-size: 13px; margin: 0px; text-align: center; margin-top: -14px">Autores: <a href="https://github.com/MariaCHelena" target="blank">Maria Helena</a> e <a href="https://github.com/juliatakaki" target="blank">Júlia Takaki</a></p>
 
-### 5. Performance
+### <a id="p"></a>5. Performance
 
 Esse tópico diz respeito a questões relacionadas ao desempenho do software. Os requisitos referentes a desempenho foram listados na tabela 4.
 
@@ -88,3 +88,4 @@ Esse tópico diz respeito a questões relacionadas ao desempenho do software. Os
 | `1.5`    | 11/12/2024 | Corrigindo RNF04 baseado em [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)| [Víctor Schmidt](https://github.com/moonshinerd)   | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.6`    | 11/12/2024 | Corrigindo RNF08 baseado em [Instruções do Professor](../../elicitacao/grupo5/requisitos/#requisitos-por-integrante)|  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.7`    | 13/01/2025 | Adicionando RNF10 e RNF11 | [Victor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.8` | 16/01/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)|
