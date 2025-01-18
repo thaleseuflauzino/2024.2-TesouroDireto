@@ -19,12 +19,6 @@ Foi elaborado um tutorial de como utilizar e manipular a biblioteca MkDocs, est√
 <table style="margin-left: auto; margin-right: auto;">
     <tr>
         <td align="center">
-            <a href="https://github.com/MariaCHelena">
-                <img style="border-radius: 50%;" src="https://github.com/MariaCHelena.png" width="100px;"/>
-                <h5 class="text-center">Maria<br>Helena</h5>
-            </a>
-        </td>
-        <td align="center">
             <a href="https://github.com/juliatakaki">
                 <img style="border-radius: 50%;" src="https://github.com/juliatakaki.png" width="100px;"/>
                 <h5 class="text-center">Julia<br>Takaki</h5>
