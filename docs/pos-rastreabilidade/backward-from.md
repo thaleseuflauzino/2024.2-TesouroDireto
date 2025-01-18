@@ -257,7 +257,7 @@ Tomando o Meta-modelo de Toranzo como base, este documento descreve 45 elos de r
 |Versão|Data|Descrição|Autor|Revisor|
 |:----:|----|---------|-----|:-------:|
 |`1.0`|12/01/2025|Criação e ajuste do Documento|[Víctor Schmidt](https://github.com/moonshinerd)|[Thales Euflauzino](https://github.com/thaleseuflauzino)|
-|`1.1`|12/01/2025|Configurando artefato e adicionando os requisitos que trabalhamos na disciplina|[Grupo](../../)| [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|`1.1`|12/01/2025|Configurando artefato e adicionando os requisitos que trabalhamos na disciplina|[Víctor Schmidt](https://github.com/moonshinerd), [Thales Euflauzino](https://github.com/thaleseuflauzino), [Júlia Takaki](https://github.com/juliatakaki) e  [Victor Rodrigues](https://github.com/ViictorHugoo)| [Víctor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 |`1.2`|12/01/2025|Revisando ortografia dos textos|[Júlia Takaki](https://github.com/juliatakaki)|[Thales Euflauzino](https://github.com/thaleseuflauzino)|
 |`1.3`|12/01/2025|Adicionando a rastreabilidade e hyperlinks|[Thales Euflauzino](https://github.com/thaleseuflauzino)|[Víctor Schmidt](https://github.com/moonshinerd)|
 |`1.4`|14/01/2025|Adicionando a coluna de versão e elo relacionado nas tabelas|[Thales Euflauzino](https://github.com/thaleseuflauzino)|[Víctor Schmidt](https://github.com/moonshinerd)|

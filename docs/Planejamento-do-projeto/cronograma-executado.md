@@ -563,35 +563,35 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
     <tbody>
       <tr>
         <td>Criação do documento inicial de pós-rastreabilidade</td>
-        <td>Maria Helena</td>
-        <td>Thales Euflauzino</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Victor Rodrigues e Thales Euflauzino</td>
+        <td>Thales Euflauzino e Victor Schmidt</td>
+        <td>14/01/2025</td>
+        <td>16/01/2025</td>
+        <td>16/01/2025 - 17/01/2025</td>
       </tr>
       <tr>
         <td>Pós-Rastreabilidade: Backward Form</td>
+        <td>Thales Euflauzino, Victor Schmidt, Victor Rodrigues e Júlia Takaki</td>
         <td>Thales Euflauzino e Victor Schmidt</td>
-        <td>Maria Helena</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>12/01/2025</td>
+        <td>14/01/2025</td>
+        <td>14/01/2025 - 17/01/2025</td>
       </tr>
       <tr>
         <td>Pós-Rastreabilidade: Forward Form</td>
-        <td>Victor Rodrigues e Júlia Takaki</td>
-        <td>Victor Schmidt</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Thales Euflauzino, Victor Schmidt, Victor Rodrigues e Júlia Takaki</td>
+        <td>Thales Euflauzino, Victor Schmidt e Victor Rodrigues</td>
+        <td>12/01/2025</td>
+        <td>16/01/2025</td>
+        <td>16/01/2025 - 17/01/2025</td>
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino e Júlia Takaki</td>
         <td>Júlia Takaki</td>
-        <td>-</td>
-        <td>-</td>
-        <td>-</td>
+        <td>18/01/2025</td>
+        <td>18/01/2025</td>
+        <td>18/01/2025 - 19/01/2025</td>
       </tr>
       <tr>
       <td>Revisão pós apresentação</td>

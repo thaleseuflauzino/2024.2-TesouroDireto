@@ -185,5 +185,5 @@ Com base nessa abordagem, foi criada a **Tabela 2**, que apresenta todos os elos
 |`1.0`|12/01/2025|Criação e ajuste do Documento|[Victor Rodrigues](https://github.com/ViictorHugoo) e [Júlia Takaki](https://github.com/juliatakaki)|[Thales Euflauzino](https://github.com/thaleseuflauzino) |
 |`1.1`|15/01/2025|Ajustando referências bibliográficas| [Thales Euflauzino](https://github.com/thaleseuflauzino)| [Victor Rodrigues](https://github.com/ViictorHugoo)|
 |`1.2`|16/01/2025|Adicionando hyperlinks e rastreabilidade|[Victor Rodrigues](https://github.com/ViictorHugoo) e [Júlia Takaki](https://github.com/juliatakaki)| [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-|`1.4`|16/01/2025|Adicionando rastreabilidade entre as tabelas (elos)|[Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|`1.4`|16/01/2025|Adicionando rastreabilidade entre as tabelas (elos)|[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 |`1.5`|16/01/2025|Adicionando rastreabilidade para NFR, UC, Cenários e Especificação Suplementar|[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)|
