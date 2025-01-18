@@ -173,7 +173,7 @@ Com base nessa abordagem, foi criada a **Tabela 2**, que apresenta todos os elos
 
 ## Referência Bibliografia
 
-> <a id="anchor_1" href="#REF1">1.</a> SERRANO, Milene; SERRANO, Maurício. Slides da Aula 26 - Requisitos de Software. Disponível [aqui](../assets/pos-rastreabilidade/requirements-fundamentals.pdf). Acesso em: 12 jan. 2025.
+> <a id="anchor_1" href="#REF1">1.</a> SERRANO, Milene; SERRANO, Maurício. Slides da Aula 26 - Requisitos de Software. Disponível [aqui](../assets/pos-rastreabilidade/Requisitos%20-%20Aula%20026.pdf). Acesso em: 12 jan. 2025.
 > 
 ## Bibliografia
 
