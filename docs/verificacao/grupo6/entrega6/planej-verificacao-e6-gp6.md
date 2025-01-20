@@ -56,9 +56,9 @@ A verificação será realizada no período de 17 de janeiro de 2025, com os res
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
 | 20/01/2025 | Planejamento da Verificação  | [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| 20/01/2025 | Adição dos resultados.       | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 20/01/2025 | Adição dos resultados.       | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki)|
 
-_Autor: [](https://www.github.com/), 2024_
+_Autor: [Victor Rodrigues](https://www.github.com/ViictorHugoo), 2024_
 
 </center>
 
@@ -80,4 +80,4 @@ As listas de verificação foram construídas levando em conta os padrões esper
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 20/01/2025 | Documento para verificação | [Victor Rodrigues](https://github.com/ViictorHugoo) | [](https://github.com/) |
+| `1.0` | 20/01/2025 | Documento para verificação | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |

@@ -14,7 +14,7 @@ Os resultados da verificação do artefato foram obtidos a partir da lista de ve
 
 ### Cronograma e Participantes
 
-Os participantes da verificação foram [](https://github.com/) e [](https://github.com/). Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../entrega6/planej-verificacao-e6-gp6.md).
+Os participantes da verificação foram [Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki). Em relação ao cronograma seguido, ele já foi explicitado na página de [planejamento](../entrega6/planej-verificacao-e6-gp6.md).
 
 ### Resultado da inspeção
 
@@ -26,9 +26,9 @@ Os participantes da verificação foram [](https://github.com/) e [](https://git
 
 [**Vídeo 1:** Requisitos - Verificação Entrega 6](LINK)
 
-<iframe width="560" height="315" src="LINK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LqB-wt6wvZI?si=YmphgrXzC0S0fpXK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-_Autor: [](https://github.com/), 2024_
+_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2024_
 
 </center>
 
@@ -40,4 +40,4 @@ _Autor: [](https://github.com/), 2024_
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 20/01/2025 | Documento para verificação | [Victor Rodrigues](https://github.com/ViictorHugoo) | [](https://github.com/) |
+| `1.0` | 20/01/2025 | Documento para verificação | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
