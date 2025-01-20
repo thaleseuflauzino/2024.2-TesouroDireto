@@ -34,6 +34,9 @@ _Fonte: SOMMERVILLE (2007)._ <a id="anchor_5" href="#REF5"><sup>1</sup></a>
 
 Os artefatos alvos dessa verificação são:
 
+- [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/matriz/) na versão 1.6 de data 19/01/2025, produzido por [Todos os integrantes](https://requisitos-de-software.github.io/2024.2-MeuINSS/) com revisão de [Ana Catarina](https://github.com/an4catarina), [Maurício Ferreira](https://github.com/mauricio-araujoo) e [Nicolas Bomfim](https://github.com/nickgehjk).
+- [Backward-From](https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/backward-from/) na versão 1.0 de data 19/01/2025, produzido por [Ana Catarina](https://github.com/an4catarina) e [Nicolas Bomfim](https://github.com/nickgehjk), com revisão de [Maurício Ferreira](https://github.com/mauricio-araujoo).
+- [Foward-From](https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/backward-from/) na versão 1.0 de data 19/01/2025, produzido por [Júlia Fortunato](https://github.com/julia-fortunato) e [Cristiano Morais](https://github.com/CristianoMoraiss), com revisão de [Ana Catarina](https://github.com/an4catarina).
 
 
 ### Resultados das Verificações
@@ -52,8 +55,8 @@ A verificação será realizada no período de 17 de janeiro de 2025, com os res
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
-| 20/01/2025 | Planejamento da Verificação  |  |
-| 20/01/2025 | Adição dos resultados.       |  |
+| 20/01/2025 | Planejamento da Verificação  | [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 20/01/2025 | Adição dos resultados.       | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 
 _Autor: [](https://www.github.com/), 2024_
 
