@@ -103,7 +103,7 @@ _Legenda das Tabelas:_
 | [Júlia Takaki](https://github.com/juliatakaki)     | [RF18](#anchor_RF18)                                   | [RNF06](#anchor_RNF06)                                 |
 | [Maria Helena](https://github.com/MariaCHelena)    | [RF20](#anchor_RF20) e [RF29](#anchor_RF29) | -                                  |
 | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [RF15](#anchor_RF15)                               | [RNF08](#anchor_RNF08)                                  |
-| [Víctor Schmidt](https://github.com/moonshinerd)   | [RF25](#anchor_RF25)                 | [RNF04](#anchor_RNF04)             |
+| [Víctor Schmidt](https://github.com/moonshinerd)   | [RF25](#anchor_RF25) e [RF33](#anchor_RF33)                 |             |
 | [Víctor Rodrigues](https://github.com/ViictorHugoo)| [RF26](#anchor_RF26) e [RF40](#anchor_RF40) | -                                  |
 
 <div>
@@ -128,3 +128,4 @@ _Legenda das Tabelas:_
 | `1.2`  | 11/12/2024 | Removendo, complementando e ajustando requisitos que foram mau ou pouco elaborados e adicionando tabela 3|  [Víctor Schmidt](https://github.com/moonshinerd) e [Maria Helena](https://github.com/MariaCHelena) | [Víctor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3`  | 11/12/2024 | Escolhendo requisitos para trabalho pessoal |  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.4` | 12/12/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)| 
+| `1.5` | 23/01/2025  | Trocando tabela de requisitos trabalhados na diciplina de Victor Schmidt pois o RNF04 é inviável de implementar então o RF33 será feito no lugar dele | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) | 
