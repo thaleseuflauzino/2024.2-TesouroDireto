@@ -192,11 +192,11 @@ _Autores: Equipe do Projeto, 2025._
 
 > REQUISTOS DE SOFTWARE. Planejamento da Verificação da Etapa 1 do Grupo 2. Disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo2/entrega1/planejamento-verificacao-e1-grupo2/. Acesso em: 2 nov. 2024.
 >****
-> <a id="REF2" href="#anchor_2">2.</a> REVADI, Chindy Elsanna. Introducing Rich Pictures - Rich Picture Drawing Guidelines. Acesso em: 02 de novembro de 2024.
+> REVADI, Chindy Elsanna. Introducing Rich Pictures - Rich Picture Drawing Guidelines. Acesso em: 02 de novembro de 2024.
 >****
-> <a id="REF3" href="#anchor_3">3.</a> SERRANO, MAURÍCIO; SERRANO, Milene. **Slides da aula Requisitos – Aula 04**. Acesso em: 02 de novembro de 2024.
+> SERRANO, MAURÍCIO; SERRANO, Milene. **Slides da aula Requisitos – Aula 04**. Acesso em: 02 de novembro de 2024.
 >****
-> <a id="REF4" href="#anchor_4">4.</a> SOMMERVILLE, Ian. **Engenharia de software.** 08. ed. São Paulo: Pearson Addison Wesley, 2007
+> SOMMERVILLE, Ian. **Engenharia de software.** 08. ed. São Paulo: Pearson Addison Wesley, 2007
 >****
 > Bilheteria Digital. Planejamento da Verificação da Etapa 1 do Grupo. Grupo Bilheteria Digital da disciplina Requisitos de Software, disponível em: https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/verificacao/grupo/entrega1/planejamento-verificacao-e1-grupo/. Acesso em: 27 de janeiro de 2025.
 >****
