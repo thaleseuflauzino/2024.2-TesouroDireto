@@ -60,8 +60,14 @@ nav:
     - Panorama geral: verificacao/lv-geral.md
     - Grupo 5:
       - Entrega 1:
-        - Planejamento da verificação: verificacao/grupo5/entrega1/planej-verificacao-e1-gp5.md
-        - Relatório de verificação: verificacao/grupo5/entrega1/relatorio-verificacao-e1-gp5.md
+        - Planejamento da verificação: verificacao/grupo5/entrega1/planej2-e1.md
+        - Relatório de verificação: 
+          - Heatmap: verificacao/grupo5/entrega1/r-heatmap.md
+          - Lista de apps avaliados: verificacao/grupo5/entrega1/r-lista-app-avaliados.md
+          - App Escolhido: verificacao/grupo5/entrega1/r-app-escolhido.md
+          - Rich Picture: verificacao/grupo5/entrega1/r-rich-picture.md
+          - Cronograma: verificacao/grupo5/entrega1/r-cronograma.md
+          - Ferramentas: verificacao/grupo5/entrega1/r-ferramentas.md
         - Verificação do Monitor: verificacao/grupo5/entrega1/verificacao-monitor.md
       - Entrega 2:
         - Planejamento da verificação: verificacao/grupo5/entrega2/planej-verificacao-e2-gp5.md
