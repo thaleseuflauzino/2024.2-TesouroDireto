@@ -40,4 +40,4 @@ Até o momento da entrega do artefato (26/01/2025) não foram obtidas respostas 
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | --- | --- | --- | --- | --- |
-| 1.0 | 26/01/2025 | Criação da documentação e Adição das mensagens | [Víctor Schmidt](https://github.com/moonshinerd) |  |
+| 1.0 | 26/01/2025 | Criação da documentação e Adição das mensagens | [Víctor Schmidt](https://github.com/moonshinerd) |  [Thales Euflauzino](https://github.com/thaleseuflauzino) |
