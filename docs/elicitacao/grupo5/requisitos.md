@@ -104,7 +104,7 @@ _Legenda das Tabelas:_
 | [Maria Helena](https://github.com/MariaCHelena)    | [RF20](#anchor_RF20) e [RF29](#anchor_RF29) | -                                  |
 | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [RF15](#anchor_RF15)                               | [RNF08](#anchor_RNF08)                                  |
 | [Víctor Schmidt](https://github.com/moonshinerd)   | [RF25](#anchor_RF25) e [RF33](#anchor_RF33)                 |             |
-| [Víctor Rodrigues](https://github.com/ViictorHugoo)| [RF26](#anchor_RF26) e [RF40](#anchor_RF40) | -                                  |
+| [Víctor Rodrigues](https://github.com/ViictorHugoo)| [RF16](#anchor_RF16), [RF26](#anchor_RF26) e [RF40](#anchor_RF40) | -                                  |
 
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/moonshinerd">Víctor Schmidt, 2024</a></p></font>
