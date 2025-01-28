@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Este documento apresenta o objetivo da verificação, a metodologia utilizada e os dados obtidos após a realização da análise do artefato []().
+Este documento apresenta o objetivo da verificação, a metodologia utilizada e os dados obtidos após a realização da análise do artefato [Histórias de Usuário](../../../modelagem-pt2/userstories.md).
 
 ## Objetivo
 
-Este documento tem como objetivo apresentar os resultados obtidos nas verificações realizadas sobre o artefato []().
+Este documento tem como objetivo apresentar os resultados obtidos nas verificações realizadas sobre o artefato [Histórias de Usuário](../../../modelagem-pt2/userstories.md).
 
 ## Metodologia
 
@@ -52,7 +52,7 @@ Não foram encontrados problemas no artefato.
 
 ## Bibliografia
 
-> Tesouro Direto. , disponível em: . Acesso em: 27 de janeiro de 2025.
+> Tesouro Direto. Histórias de Usuário, disponível em: https://requisitos-de-software.github.io/2024.2-TesouroDireto/modelagem-pt2/userstories/. Acesso em: 27 de janeiro de 2025.
 
 ## Histórico de Versões
 
