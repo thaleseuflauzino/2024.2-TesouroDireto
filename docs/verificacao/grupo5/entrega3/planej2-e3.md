@@ -7,7 +7,7 @@ O artefato visa apresentar o planejamento para a verificação de cada artefato 
 
 ## Objetivos
 
-O objetivo deste documento é verificar se os artefatos produzidos para entrega 2 do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto) possuem os itens e o padrão exigidos. É importante citar que essa verificação em momento nenhum busca diminuir os membros responsáveis seu trabalho, apenas aplicar os conceitos de verificação.
+O objetivo deste documento é verificar se os artefatos produzidos para entrega 3 do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto) possuem os itens e o padrão exigidos. É importante citar que essa verificação em momento nenhum busca diminuir os membros responsáveis seu trabalho, apenas aplicar os conceitos de verificação.
 
 ## Metodologia
 
@@ -61,7 +61,6 @@ A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 |  | Adição dos resultados.       |  |
 
 _Autor: [Víctor Rodrigues](https://github.com/ViictorHugoo), 2025_
-
 
 </center>
 
