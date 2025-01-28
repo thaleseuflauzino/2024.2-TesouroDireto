@@ -91,11 +91,17 @@ nav:
           - Validação dos Casos de Uso: verificacao/grupo5/entrega3/r-valid-caso-uso.md
           - Especificação Suplementar: verificacao/grupo5/entrega3/r-especificacao.md
       - Entrega 4:
-        - Planejamento da verificação: verificacao/grupo5/entrega4/planej-verificacao-e4-gp5.md
-        - Relatório de verificação: verificacao/grupo5/entrega4/relatorio-verificacao-e4-gp5.md
+        - Planejamento da verificação: verificacao/grupo5/entrega4/planej2-e4.md
+        - Relatório de verificação: 
+          - Backlog: verificacao/grupo5/entrega4/r-backlog.md
+          - NFR Framework: verificacao/grupo5/entrega4/r-nfr.md
+          - Histórias de Usuário: verificacao/grupo5/entrega4/r-us.md
       - Entrega 6:
-        - Planejamento da verificação: verificacao/grupo5/entrega6/planej-verificacao-e6-gp5.md
-        - Relatório de verificação: verificacao/grupo5/entrega6/relatorio-verificacao-e6-gp5.md
+        - Planejamento da verificação: verificacao/grupo5/entrega6/planej2-e6.md
+        - Relatório de verificação: 
+          - Backward: verificacao/grupo5/entrega6/r-backward.md
+          - Forward: verificacao/grupo5/entrega6/r-forward.md
+          - Matriz de Rastreabilidade: verificacao/grupo5/entrega6/r-matriz.md
 
     - Grupo +1 (6):
       - Entrega 1:
