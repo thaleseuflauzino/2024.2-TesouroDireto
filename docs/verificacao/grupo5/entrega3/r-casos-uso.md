@@ -2,11 +2,11 @@
 
 ## Introdução
 
-Este documento apresenta o objetivo da verificação, a metodologia utilizada e os dados obtidos após a realização da análise do artefato []().
+Este documento apresenta o objetivo da verificação, a metodologia utilizada e os dados obtidos após a realização da análise do artefato [Casos de Uso](../../../modelagem-pt1/casos-de-uso.md).
 
 ## Objetivo
 
-Este documento tem como objetivo apresentar os resultados obtidos nas verificações realizadas sobre o artefato []().
+Este documento tem como objetivo apresentar os resultados obtidos nas verificações realizadas sobre o artefato [Casos de Uso](../../../modelagem-pt1/casos-de-uso.md).
 
 ## Metodologia
 
@@ -49,7 +49,7 @@ Não foram encontrados problemas no artefato.
 
 ## Bibliografia
 
-> Tesouro Direto. , disponível em: . Acesso em: 27 de janeiro de 2025.
+> Tesouro Direto. Casos de Uso, disponível em: https://requisitos-de-software.github.io/2024.2-TesouroDireto/modelagem-pt1/casos-de-uso/. Acesso em: 27 de janeiro de 2025.
 
 ## Histórico de Versões
 
