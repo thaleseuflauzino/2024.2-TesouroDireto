@@ -1,7 +1,5 @@
 # Planejamento da Verificação da Etapa 2 do Grupo
 
-# Planejamento da Verificação da Etapa 1 do Grupo
-
 ## Introdução
 
 O artefato visa apresentar o planejamento para a verificação de cada artefato da etapa 2 do projeto do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto).
