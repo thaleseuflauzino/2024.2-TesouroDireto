@@ -10,7 +10,7 @@ Este documento tem como objetivo apresentar os resultados obtidos nas verificaç
 
 ## Metodologia
 
-Os resultados da verificação do artefato foram obtidos a partir da lista de verificação elaborada na página de [planejamento](../entrega2/planej2-e3.md) Para responder às perguntas apresentadas na lista de verificação, o avaliador usou as opções **Sim**, **Não**, **Incompleto** ou **Não se aplica**. O avaliador pode, também, escrever observações em cada pergunta, conforme necessidade.
+Os resultados da verificação do artefato foram obtidos a partir da lista de verificação elaborada na página de [planejamento](../entrega3/planej2-e3.md) Para responder às perguntas apresentadas na lista de verificação, o avaliador usou as opções **Sim**, **Não**, **Incompleto** ou **Não se aplica**. O avaliador pode, também, escrever observações em cada pergunta, conforme necessidade.
 
 ## Apresentação dos dados
 
