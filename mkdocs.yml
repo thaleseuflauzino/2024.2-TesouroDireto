@@ -60,15 +60,36 @@ nav:
     - Panorama geral: verificacao/lv-geral.md
     - Grupo 5:
       - Entrega 1:
-        - Planejamento da verificação: verificacao/grupo5/entrega1/planej-verificacao-e1-gp5.md
-        - Relatório de verificação: verificacao/grupo5/entrega1/relatorio-verificacao-e1-gp5.md
+        - Planejamento da verificação: verificacao/grupo5/entrega1/planej2-e1.md
+        - Relatório de verificação: 
+          - Heatmap: verificacao/grupo5/entrega1/r-heatmap.md
+          - Lista de apps avaliados: verificacao/grupo5/entrega1/r-lista-app-avaliados.md
+          - App Escolhido: verificacao/grupo5/entrega1/r-app-escolhido.md
+          - Rich Picture: verificacao/grupo5/entrega1/r-rich-picture.md
+          - Cronograma: verificacao/grupo5/entrega1/r-cronograma.md
+          - Ferramentas: verificacao/grupo5/entrega1/r-ferramentas.md
         - Verificação do Monitor: verificacao/grupo5/entrega1/verificacao-monitor.md
       - Entrega 2:
-        - Planejamento da verificação: verificacao/grupo5/entrega2/planej-verificacao-e2-gp5.md
-        - Relatório de verificação: verificacao/grupo5/entrega2/relatorio-verificacao-e2-gp5.md
+        - Planejamento da verificação: verificacao/grupo5/entrega2/planej2-e2.md
+        - Relatório de verificação: 
+          - Perfil de Usuário: verificacao/grupo5/entrega2/r-perfil-de-usuario.md
+          - Questionário: verificacao/grupo5/entrega2/r-questionario.md
+          - Personas: verificacao/grupo5/entrega2/r-personas.md
+          - Introspecção: verificacao/grupo5/entrega2/r-introspeccao.md
+          - Brainstorm: verificacao/grupo5/entrega2/r-brainstorm.md
+          - Grupo de foco: verificacao/grupo5/entrega2/r-grupo-foco.md
+          - Glossário: verificacao/grupo5/entrega2/r-glossario.md
+          - Priorização 100$: verificacao/grupo5/entrega2/r-100$.md
+          - Priorização In or Out: verificacao/grupo5/entrega2/r-in-or-out.md
+          - Priorização Three Level Scale: verificacao/grupo5/entrega2/r-three-level-scale.md
       - Entrega 3:
-        - Planejamento da verificação: verificacao/grupo5/entrega3/planej-verificacao-e3-gp5.md
-        - Relatório de verificação: verificacao/grupo5/entrega3/relatorio-verificacao-e3-gp5.md
+        - Planejamento da verificação: verificacao/grupo5/entrega3/planej2-e3.md
+        - Relatório de verificação:
+          - Léxicos: verificacao/grupo5/entrega3/r-lexicos.md
+          - Cenários: verificacao/grupo5/entrega3/r-cenarios.md
+          - Casos de Uso: verificacao/grupo5/entrega3/r-casos-uso.md
+          - Validação dos Casos de Uso: verificacao/grupo5/entrega3/r-valid-caso-uso.md
+          - Especificação Suplementar: verificacao/grupo5/entrega3/r-especificacao.md
       - Entrega 4:
         - Planejamento da verificação: verificacao/grupo5/entrega4/planej-verificacao-e4-gp5.md
         - Relatório de verificação: verificacao/grupo5/entrega4/relatorio-verificacao-e4-gp5.md
