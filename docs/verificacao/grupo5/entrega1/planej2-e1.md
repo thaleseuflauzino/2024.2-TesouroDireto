@@ -40,19 +40,13 @@ Os artefatos alvos dessa verificação são:
 - [Rich Picture](../../../Planejamento-do-projeto/rich-picture.md) na versão 1.1 de data 02/11/2024, produzido por [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Júlia Takaki](https://github.com/juliatakaki) com a revisão de [Víctor Schmidt](https://github.com/moonshinerd).
 - [Cronograma](../../../Planejamento-do-projeto/cronograma-planejado.md) na versão 2.1 de data 23/11/2024, produzido por [Maria Helena](https://github.com/MariaCHelena) e [Víctor Schmidt](https://github.com/moonshinerd) com revisão de [Thales Euflauzino](https://github.com/thaleseuflauzino).
 
-### Resultados das Verificações
-
-Os resultados das verificações podem ser acessados através do seguinte link:
-
-- [Relatório da Verificação](./relatorio-verificacao-e1-gp5.md);
-
 ### Cronograma
 
-A verificação será realizada no período de 06 de novembro de 2024, com os resultados sendo relatados através da página de documentação do Grupo 5 no dia 06 de novembro de 2024. A tabela 2 a seguir, apresenta o cronograma das atividades a serem realizadas.
+A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 <center>
 
-**Tabela 2** - Cronograma das Atividades.
+**Tabela 1** - Cronograma das Atividades.
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
@@ -71,13 +65,13 @@ _Autor: [Víctor Rodrigues](https://github.com/ViictorHugoo), 2025_
 
 As listas de verificação foram construídas levando em conta os padrões esperados para cada artefato e as principais tarefas realizadas na elaboração dos mesmos, tudo isso de acordo com os slides da _Aula 04 da professora Milene e Maurício Serrano_<a id=anchor_3 href="#REF3"><sup>3</sup></a> e a literatura _Introducing Rich Picture - Rich Picture Drawing Guidelines_<a id=anchor_2 href="#REF2"><sup>2</sup></a>.
 
-Com o intuito de melhor organizar a verificação, a lista de verificação será dividida em duas, sendo que uma estará presente em todas as etapas de verificação, a Lista de Verificação Geral. Sendo assim, as listas de verificação serão as seguintes: Geral e uma para cada artefato. As tabelas de 3 a 9 apresentam as listas de verificação utilizadas na verificação.
+Com o intuito de melhor organizar a verificação, a lista de verificação será dividida em duas, sendo que uma estará presente em todas as etapas de verificação, a Lista de Verificação Geral. Sendo assim, as listas de verificação serão as seguintes: Geral e uma para cada artefato. As tabelas de 2 a 8 apresentam as listas de verificação utilizadas na verificação.
 
 ### Geral
 
 <center>
 
-**Tabela 3** - Lista de Verificação dos Itens do Planejamento Geral do projeto .
+**Tabela 2** - Lista de Verificação dos Itens do Planejamento Geral do projeto .
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
@@ -87,7 +81,7 @@ Com o intuito de melhor organizar a verificação, a lista de verificação ser�
 | 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
 | 5 | Um texto fazendo uma introdução do artefatos? | - |
 
-_Autores: Equipe do Projeto, 2024._
+_Autores: Equipe do Projeto, 2025._
 
 </center>
 
@@ -95,7 +89,7 @@ _Autores: Equipe do Projeto, 2024._
 
 <center>
 
-**Tabela 4** - Lista para a Verificação do Heatmap.
+**Tabela 3** - Lista para a Verificação do Heatmap.
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
@@ -110,7 +104,7 @@ _Autores: Equipe do Projeto, 2025._
 
 <center>
 
-**Tabela 5** - Lista para a Verificação da Lista de Apps Avaliados.
+**Tabela 4** - Lista para a Verificação da Lista de Apps Avaliados.
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
@@ -126,7 +120,7 @@ _Autores: Equipe do Projeto, 2025._
 
 <center>
 
-**Tabela 6** - Lista para a Verificação do App Escolhido.
+**Tabela 5** - Lista para a Verificação do App Escolhido.
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
@@ -141,7 +135,7 @@ _Autores: Equipe do Projeto, 2025._
 
 <center>
 
-**Tabela 7** - Lista para a Verificação do Rich Picture.
+**Tabela 6** - Lista para a Verificação do Rich Picture.
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
@@ -161,7 +155,7 @@ _Autores: Equipe do Projeto, 2025._
 
 <center>
 
-**Tabela 8** - Lista para a Verificação do Cronograma.
+**Tabela 7** - Lista para a Verificação do Cronograma.
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
@@ -178,7 +172,7 @@ _Autores: Equipe do Projeto, 2025._
 
 <center>
 
-**Tabela 9** - Lista para a Verificação de Ferramentas.
+**Tabela 8** - Lista para a Verificação de Ferramentas.
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
