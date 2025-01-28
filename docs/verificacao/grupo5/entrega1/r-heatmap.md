@@ -20,7 +20,7 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 <center>
 
-**Tabela 3** - Lista de Verificação dos Itens do Planejamento Geral do projeto .
+**Tabela 1** - Lista de Verificação dos Itens do Planejamento Geral do projeto .
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 

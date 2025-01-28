@@ -1,16 +1,16 @@
-# Resultados da Verificação por Inspeção - Ferramentas
+# Resultados da Verificação por Inspeção - Léxicos
 
 ## Introdução
 
-Este documento apresenta o objetivo da verificação, a metodologia utilizada e os dados obtidos após a realização da análise do artefato [Ferramentas](../../../Planejamento-do-projeto/ferramentas.md).
+Este documento apresenta o objetivo da verificação, a metodologia utilizada e os dados obtidos após a realização da análise do artefato []().
 
 ## Objetivo
 
-Este documento tem como objetivo apresentar os resultados obtidos nas verificações realizadas sobre o artefato [Ferramentas](../../../Planejamento-do-projeto/ferramentas.md).
+Este documento tem como objetivo apresentar os resultados obtidos nas verificações realizadas sobre o artefato []().
 
 ## Metodologia
 
-Os resultados da verificação do artefato foram obtidos a partir da lista de verificação elaborada na página de [planejamento](../entrega1/planej2-e1.md) Para responder às perguntas apresentadas na lista de verificação, o avaliador usou as opções **Sim**, **Não**, **Incompleto** ou **Não se aplica**. O avaliador pode, também, escrever observações em cada pergunta, conforme necessidade.
+Os resultados da verificação do artefato foram obtidos a partir da lista de verificação elaborada na página de [planejamento](../entrega2/planej2-e3.md) Para responder às perguntas apresentadas na lista de verificação, o avaliador usou as opções **Sim**, **Não**, **Incompleto** ou **Não se aplica**. O avaliador pode, também, escrever observações em cada pergunta, conforme necessidade.
 
 ## Apresentação dos dados
 
@@ -20,7 +20,7 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 <center>
 
-**Tabela 1** - Lista de Verificação dos Itens do Planejamento Geral do projeto .
+**Tabela 1** - Lista de Verificação dos Itens do Planejamento Geral do projeto.
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
@@ -29,7 +29,10 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 | 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
 | 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
 | 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | Há justificativas para a escolha de cada ferramenta? | - | 
+| 6 | Há especificações dos léxicos? | - |
+| 7 | Há definição do usuário nos léxicos? | - |
+| 8 | Os léxicos possuem ligações entre si (hiperlinks)? | - |
+| 9 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? | - |
 
 _Autores: Equipe do Projeto, 2024._
 
@@ -41,8 +44,7 @@ Não foram encontrados problemas no artefato.
 
 ## Bibliografia
 
-Tesouro Direto. Ferramentas, disponível em: https://requisitos-de-software.github.io/2024.2-TesouroDireto/Planejamento-do-projeto/ferramentas/. Acesso em: 27 de janeiro de 2025.
-
+> Tesouro Direto. , disponível em: . Acesso em: 27 de janeiro de 2025.
 
 ## Histórico de Versões
 
