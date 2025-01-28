@@ -2,15 +2,15 @@
 
 ## Introdução
 
-Este documento apresenta o objetivo da verificação, a metodologia utilizada e os dados obtidos após a realização da análise do artefato []().
+Este documento apresenta o objetivo da verificação, a metodologia utilizada e os dados obtidos após a realização da análise do artefato [Perfil de Usuário](../../../elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario.md).
 
 ## Objetivo
 
-Este documento tem como objetivo apresentar os resultados obtidos nas verificações realizadas sobre o artefato []().
+Este documento tem como objetivo apresentar os resultados obtidos nas verificações realizadas sobre o artefato [Perfil de Usuário](../../../elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario.md).
 
 ## Metodologia
 
-Os resultados da verificação do artefato foram obtidos a partir da lista de verificação elaborada na página de [planejamento](../entrega2/planej2-e1.md) Para responder às perguntas apresentadas na lista de verificação, o avaliador usou as opções **Sim**, **Não**, **Incompleto** ou **Não se aplica**. O avaliador pode, também, escrever observações em cada pergunta, conforme necessidade.
+Os resultados da verificação do artefato foram obtidos a partir da lista de verificação elaborada na página de [planejamento](../entrega2/planej2-e2.md) Para responder às perguntas apresentadas na lista de verificação, o avaliador usou as opções **Sim**, **Não**, **Incompleto** ou **Não se aplica**. O avaliador pode, também, escrever observações em cada pergunta, conforme necessidade.
 
 ## Apresentação dos dados
 
@@ -42,7 +42,7 @@ Não foram encontrados problemas no artefato.
 
 ## Bibliografia
 
-> Tesouro Direto. , disponível em: . Acesso em: 27 de janeiro de 2025.
+> Tesouro Direto. Perfil de Usuário, disponível em: https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario/. Acesso em: 27 de janeiro de 2025.
 
 ## Histórico de Versões
 
