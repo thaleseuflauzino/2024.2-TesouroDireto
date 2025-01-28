@@ -2,12 +2,12 @@
 
 ## Introdução
 
-O artefato visa apresentar o planejamento para a verificação de cada artefato da etapa 4 do projeto do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto).
+O artefato visa apresentar o planejamento para a verificação de cada artefato da etapa 4 do projeto do [grupo 6](https://github.com/Requisitos-de-Software/2024.2-MeuINSS).
 
 
 ## Objetivos
 
-O objetivo deste documento é verificar se os artefatos produzidos para entrega 4 do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto) possuem os itens e o padrão exigidos. É importante citar que essa verificação em momento nenhum busca diminuir os membros responsáveis seu trabalho, apenas aplicar os conceitos de verificação.
+O objetivo deste documento é verificar se os artefatos produzidos para entrega 4 do [grupo 6](https://github.com/Requisitos-de-Software/2024.2-MeuINSS) possuem os itens e o padrão exigidos. É importante citar que essa verificação em momento nenhum busca diminuir os membros responsáveis seu trabalho, apenas aplicar os conceitos de verificação.
 
 ## Metodologia
 
@@ -35,9 +35,9 @@ _Fonte: SOMMERVILLE (2007)._ <a id="anchor_5" href="#REF5"><sup>1</sup></a>
 
 Os artefatos alvos dessa verificação são:
 
-- [Backlog](../../../modelagem-pt2/backlog.md) na versão 1.3 de data 19/12/2024, produzido por [Todos integrantes](../../../../) com revisão de [Todos integrantes](../../../../).
-- [NFR Framework](../../../modelagem-pt2/nfr_framework.md) na versão 1.6 de data 16/01/2025, produzido por [Todos integrantes](../../../../) com revisão de [Todos integrantes](../../../../).
-- [Histórias do Usuário](../../../modelagem-pt2/userstories.md) na versão 1.2 de data 17/12/2024, produzido por [Todos integrantes](../../../../), com revisão de [Todos integrantes](../../../../).
+- [Backlog](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/backlog/) na versão 1.0 de data 16/12/2024, produzido por [Maurício Ferreira](https://github.com/mauricio-araujoo), [Ana Catarina](https://github.com/an4catarina) e [Julia Fortunato](https://github.com/julia-fortunato) com revisão de [Nicolas Bomfim](https://github.com/nickgehjk).
+- [NFR Framework](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/nfr/) na versão 1.0 de data 11/01/2025, produzido por [Ana Catarina](https://github.com/an4catarina) com revisão de [Nicolas Bomfim](https://github.com/nickgehjk).
+- [Histórias do Usuário](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte2/historias/) na versão 1.5 de data 17/12/2024, produzido por [Todos integrantes](https://requisitos-de-software.github.io/2024.2-MeuINSS/), com revisão de [Todos integrantes](https://requisitos-de-software.github.io/2024.2-MeuINSS/).
 
 
 ### Cronograma
@@ -187,4 +187,4 @@ _Autores: Equipe do Projeto, 2025._
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
+| `1.0` | 27/01/2025 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |

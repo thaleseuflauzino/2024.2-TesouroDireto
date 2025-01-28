@@ -105,20 +105,49 @@ nav:
 
     - Grupo +1 (6):
       - Entrega 1:
-        - Planejamento da verificação: verificacao/grupo6/entrega1/planej-verificacao-e1-gp6.md
-        - Relatório de verificação: verificacao/grupo6/entrega1/relatorio-verificacao-e1-gp6.md
+        - Planejamento da verificação: verificacao/grupo6/entrega1/planej2-e1.md
+        - Relatório de verificação: 
+          - Heatmap: verificacao/grupo6/entrega1/r-heatmap.md
+          - Lista de apps avaliados: verificacao/grupo6/entrega1/r-lista-app-avaliados.md
+          - App Escolhido: verificacao/grupo6/entrega1/r-app-escolhido.md
+          - Rich Picture: verificacao/grupo6/entrega1/r-rich-picture.md
+          - Cronograma: verificacao/grupo6/entrega1/r-cronograma.md
+          - Ferramentas: verificacao/grupo6/entrega1/r-ferramentas.md
+        - Verificação do Monitor: verificacao/grupo6/entrega1/verificacao-monitor.md
       - Entrega 2:
-        - Planejamento da verificação: verificacao/grupo6/entrega2/planej-verificacao-e2-gp6.md
-        - Relatório de verificação: verificacao/grupo6/entrega2/relatorio-verificacao-e2-gp6.md
+        - Planejamento da verificação: verificacao/grupo6/entrega2/planej2-e2.md
+        - Relatório de verificação: 
+          - Perfil de Usuário: verificacao/grupo6/entrega2/r-perfil-de-usuario.md
+          - Questionário: verificacao/grupo6/entrega2/r-questionario.md
+          - Personas: verificacao/grupo6/entrega2/r-personas.md
+          - Introspecção: verificacao/grupo6/entrega2/r-introspeccao.md
+          - Brainstorm: verificacao/grupo6/entrega2/r-brainstorm.md
+          - Grupo de foco: verificacao/grupo6/entrega2/r-grupo-foco.md
+          - Glossário: verificacao/grupo6/entrega2/r-glossario.md
+          - Priorização 100$: verificacao/grupo6/entrega2/r-100$.md
+          - Priorização In or Out: verificacao/grupo6/entrega2/r-in-or-out.md
+          - Priorização Three Level Scale: verificacao/grupo6/entrega2/r-three-level-scale.md
       - Entrega 3:
-        - Planejamento da verificação: verificacao/grupo6/entrega3/planej-verificacao-e3-gp6.md
-        - Relatório de verificação: verificacao/grupo6/entrega3/relatorio-verificacao-e3-gp6.md
+        - Planejamento da verificação: verificacao/grupo6/entrega3/planej2-e3.md
+        - Relatório de verificação:
+          - Léxicos: verificacao/grupo6/entrega3/r-lexicos.md
+          - Cenários: verificacao/grupo6/entrega3/r-cenarios.md
+          - Casos de Uso: verificacao/grupo6/entrega3/r-casos-uso.md
+          - Validação dos Casos de Uso: verificacao/grupo6/entrega3/r-valid-caso-uso.md
+          - Especificação Suplementar: verificacao/grupo6/entrega3/r-especificacao.md
       - Entrega 4:
-        - Planejamento da verificação: verificacao/grupo6/entrega4/planej-verificacao-e4-gp6.md
-        - Relatório de verificação: verificacao/grupo6/entrega4/relatorio-verificacao-e4-gp6.md
+        - Planejamento da verificação: verificacao/grupo6/entrega4/planej2-e4.md
+        - Relatório de verificação: 
+          - Backlog: verificacao/grupo6/entrega4/r-backlog.md
+          - NFR Framework: verificacao/grupo6/entrega4/r-nfr.md
+          - Histórias de Usuário: verificacao/grupo6/entrega4/r-us.md
       - Entrega 6:
-        - Planejamento da verificação: verificacao/grupo6/entrega6/planej-verificacao-e6-gp6.md
-        - Relatório de verificação: verificacao/grupo6/entrega6/relatorio-verificacao-e6-gp6.md
+        - Planejamento da verificação: verificacao/grupo6/entrega6/planej2-e6.md
+        - Relatório de verificação: 
+          - Backward: verificacao/grupo6/entrega6/r-backward.md
+          - Forward: verificacao/grupo6/entrega6/r-forward.md
+          - Matriz de Rastreabilidade: verificacao/grupo6/entrega6/r-matriz.md
+
   - Validação:
     - Comprovação Informal: validacao/comprovacao-informal.md
   - Pós Rastreabilidade:
