@@ -1,4 +1,4 @@
-# Protótipo de Alta Fidelidade - [Funcionalidade Prototipada]
+# Protótipo de Alta Fidelidade
 
 ## Introdução
 
@@ -14,8 +14,8 @@ O protótipo de alta fidelidade foi desenvolvido utilizando o software Figma, um
 
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma de entrevista</p></font>
 
-| Entrevistador | Usuário | Data | Horário | Local | 
-| ------------- | ------- | ---- | ------- | ----- |  
+| Entrevistador | Usuário | Data | Horário | Local |
+| ------------- | ------- | ---- | ------- | ----- |
 
 <font size="3"><p style="text-align: center">Autor: <a href="https://github.com/"></a>, 2025</p></font>
 
@@ -23,32 +23,44 @@ O protótipo de alta fidelidade foi desenvolvido utilizando o software Figma, um
 
 ## Protótipo de Alta Fidelidade
 
-Na Figura 1 é possível ver o protótipo de alta fidelidade do(s) requisito(s) [RFXX](), <<descrição>>. 
+Na Figura 1 é possível ver o protótipo de alta fidelidade do(s) requisito(s):
+Os integrantes desenvolveram, de acordo com a tabela 2, um protótipo de alta fidelidade utilizando a ferramenta Figma para simular a tela do aplicativo Tesouro Direto. O objetivo é implementar os <a href="../../elicitacao/grupo5/requisitos/#requisitos-por-integrante">requisitos pessoais</a> que cada um escolheu individualmente para trabalhar ao longo da disciplina.
+
+<font size="3"><p style="text-align: center"><b>Tabela 2:</b> Requisitos trabalhados por integrante</p></font>
+
+| Autor | Requisito | Descrição do Requisito |
+| ---------- | --------- | ---------------------- |
+|  [Júlia Takaki](https://github.com/juliatakaki)           |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF18">RF18</a>    | Incorporar alertas de mercado com base em mudanças na taxa SELIC ou inflação. |
+|  [Júlia Takaki](https://github.com/juliatakaki)           |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF06">RNF06</a>  | 	O aplicativo deverá disponibilizar suporte para múltiplos idiomas (português como padrão).|
+|  [Thales Euflauzino](https://github.com/thaleseuflauzino) |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF15">RF15</a>    |O sistema deve fornecer relatórios mensais contendo a evolução dos rendimentos dos títulos adquiridos pelo usuário com base nos meses anteriores. |
+|  [Thales Euflauzino](https://github.com/thaleseuflauzino) |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF08">RNF08</a>  |	O perfil de recomendação de investimentos deve ser acessível a partir de 3 cliques de qualquer parte do aplicativo. |
+|  [Víctor Schmidt](https://github.com/moonshinerd)         |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF33">RF33</a>    | 	O aplicativo deverá permitir que o usuário faça cadastro na aplicação criando uma conta própria no sistema.|
+|  [Víctor Schmidt](https://github.com/moonshinerd)         |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF25">RF25</a>    | 	A tela de metas e sonhos deverá ser capaz de simular a evolução das metas|
+|  [Víctor Rodrigues](https://github.com/ViictorHugoo)      |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF40">RF40</a>    |	Cada meta deve possuir uma barra de progresso representando o progresso individual de conclusão da meta. |
+|  [Víctor Rodrigues](https://github.com/ViictorHugoo)      |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF26">RF26</a>    | 	O aplicativo deve apresentar um dashboard com dados de rentabilidade dos títulos adquiridos e taxa de inflação.|
+
+<font size="3"><p style="text-align: center">Autor:<a href="https://github.com/thaleseuflauzino"> Thales Euflauzino</a>, 2025</p></font>
+
 
 <center>
 
 <font size="3"><p style="text-align: center"><b>Figura 1:</b> Protótipo de Alta Fidelidade</p></font>
 
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="" allowfullscreen></iframe>
+Também disponível <a href="https://www.figma.com/proto/fnBjs9MjuK9gYTyVIYhSlq/Prot%C3%B3tipo-de-requisitos?node-id=205-361&p=f&t=MFxKUx58lEJmbfPG-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=205%3A361&show-proto-sidebar=1">aqui.</a>
 
-ou
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/fnBjs9MjuK9gYTyVIYhSlq/Prot%C3%B3tipo-de-requisitos?node-id=205-361&p=f&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=205%3A361&show-proto-sidebar=1&embed-host=share" allowfullscreen></iframe>
 
-![imagemdoprototipo](../assets/)
-
-<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/"></a>, 2025</p></font>
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a>, 2025</p></font>
 
 </center>
-
 
 ## Aspectos Éticos
 
 Como demonstrado no Vídeo 1, foram seguidos os princípios éticos aplicáveis a pesquisas científicas que envolvem seres humanos. O participante concordou com a divulgação de sua imagem e voz, assegurando que estava ciente dos procedimentos, objetivos, riscos e benefícios associados à pesquisa antes de aceitar sua participação.
 
-
 ## Validação
 
 A validação é apresentada no Vídeo 1.
-
 
 <center>
 
@@ -69,3 +81,4 @@ Relato da entrevista, colocar problemas encontrados ou que tudo ocorreu bem.
 
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
+| `1.0` | 30/01/2025 | Colocando requisitos e embed figma | [Thales Euflauzino](https://github.com/thaleseuflauzino) | | 
