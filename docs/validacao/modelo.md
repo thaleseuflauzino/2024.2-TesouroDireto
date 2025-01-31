@@ -36,9 +36,10 @@ Os integrantes desenvolveram, de acordo com a tabela 2, um protótipo de alta fi
 |  [Thales Euflauzino](https://github.com/thaleseuflauzino) |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF08">RNF08</a>  |	O perfil de recomendação de investimentos deve ser acessível a partir de 3 cliques de qualquer parte do aplicativo. |
 |  [Víctor Schmidt](https://github.com/moonshinerd)         |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF33">RF33</a>    | 	O aplicativo deverá permitir que o usuário faça cadastro na aplicação criando uma conta própria no sistema.|
 |  [Víctor Schmidt](https://github.com/moonshinerd)         |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF25">RF25</a>    | 	A tela de metas e sonhos deverá ser capaz de simular a evolução das metas|
-|  [Víctor Rodrigues](https://github.com/ViictorHugoo)      |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF40">RF40</a>    |	Cada meta deve possuir uma barra de progresso representando o progresso individual de conclusão da meta. |
 |  [Víctor Rodrigues](https://github.com/ViictorHugoo)      |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF26">RF26</a>    | 	O aplicativo deve apresentar um dashboard com dados de rentabilidade dos títulos adquiridos e taxa de inflação.|
+|  [Víctor Rodrigues](https://github.com/ViictorHugoo)      |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF40">RF40</a>    |	Cada meta deve possuir uma barra de progresso representando o progresso individual de conclusão da meta. |
 |  [Víctor Rodrigues](https://github.com/ViictorHugoo)      | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF16">RF16</a>     | Disponibilizar um recurso educativo com vídeos e artigos sobre como investir no Tesouro Direto. | 
+
 <font size="3"><p style="text-align: center">Autor:<a href="https://github.com/thaleseuflauzino"> Thales Euflauzino</a>, 2025</p></font>
 
 
