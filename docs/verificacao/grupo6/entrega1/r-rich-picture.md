@@ -24,18 +24,18 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | Há uma legenda explicando os símbolos utilizados no diagrama? | - | 
-| 7 | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato? | - | 
-| 8 | O Rich Picture conta uma história clara e compreensível? | - | 
-| 9 | O fluxo de dados está claro? quem está processando qual dado e para qual propósito, por exemplo? | - |
-| 10 | O Rich Picture tem todas as palavras chaves necessárias do projeto? | - |
-| 11 | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?  | - |
-| 12 | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"?  | - |
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | *Não |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | Há uma legenda explicando os símbolos utilizados no diagrama? | Sim | 
+| 7 | Todos os 5 componentes de um “Rich Picture” estão presentes no artefato? | Sim | 
+| 8 | O Rich Picture conta uma história clara e compreensível? | Sim | 
+| 9 | O fluxo de dados está claro? quem está processando qual dado e para qual propósito, por exemplo? | Sim |
+| 10 | O Rich Picture tem todas as palavras chaves necessárias do projeto? | Sim |
+| 11 | O Rich Picture utiliza um storyboard para descrever o fluxo de, por exemplo, atividades dos usuários?  | Sim |
+| 12 | O Rich Picture contém uma representação visual clara da delimitação do sistema, ou seja, da sua "área de responsabilidade"?  | Sim |
 
 _Autores: Equipe do Projeto, 2024._
 
@@ -43,7 +43,7 @@ _Autores: Equipe do Projeto, 2024._
 
 ## Problemas encontrados
 
-Não foram encontrados problemas no artefato.
+- *Uma das tabelas não está chamada dentro do texto
 
 ## Bibliografia
 

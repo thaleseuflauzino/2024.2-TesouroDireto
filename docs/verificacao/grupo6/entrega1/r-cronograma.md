@@ -24,15 +24,15 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | o cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | - | 
-| 7 | o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? | - |
-| 8 | o cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | - |
-| 9 | Há cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | - |
+| 1 | O histórico de versão padronizado? | *Não |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Não |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | **Incompleto |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | o cronograma do planejamento apresenta todas as atividades de todas as etapas para cada integrante com as datas de início e fim das entrega dos artefatos e com o período da revisão deles? | Sim | 
+| 7 | o cronograma do planejamento apresenta um período de gravação da apresentação de cada etapa? | Sim |
+| 8 | o cronograma prever um período de revisão/ajustes nos artefatos devidos as considerações dos monitores/professor? | Sim |
+| 9 | Há cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade? | Sim |
 
 _Autores: Equipe do Projeto, 2024._
 
@@ -40,7 +40,8 @@ _Autores: Equipe do Projeto, 2024._
 
 ## Problemas encontrados
 
-Não foram encontrados problemas no artefato.
+- *Está quebrado 
+- **Não está visivel
 
 ## Bibliografia
 

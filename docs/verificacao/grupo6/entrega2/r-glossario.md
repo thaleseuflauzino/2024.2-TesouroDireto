@@ -24,16 +24,16 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | Todos os termos essenciais ao projeto estão incluídos no glossário? | - |
-| 7 | As definições dos termos são claras e livres de ambiguidade? | - |
-| 8 | O glossário está organizado de maneira que facilite a consulta (ex.: por ordem alfabética)? | - |
-| 9 | Há rastreabilidade entre os termos do glossário e os requisitos ou artefatos relacionados? | - |
-| 10 | O glossário inclui exemplos práticos ou contextuais para termos complexos? | - |
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | *Não |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | Todos os termos essenciais ao projeto estão incluídos no glossário? | Sim |
+| 7 | As definições dos termos são claras e livres de ambiguidade? | Sim |
+| 8 | O glossário está organizado de maneira que facilite a consulta (ex.: por ordem alfabética)? | **Não |
+| 9 | Há rastreabilidade entre os termos do glossário e os requisitos ou artefatos relacionados? | ***Não |
+| 10 | O glossário inclui exemplos práticos ou contextuais para termos complexos? | ** **Não |
 
 _Autores: Equipe do Projeto, 2024._
 
@@ -41,7 +41,10 @@ _Autores: Equipe do Projeto, 2024._
 
 ## Problemas encontrados
 
-Não foram encontrados problemas no artefato.
+- *As tabelas estão com números incorretos
+- **Não está organizado em nenhuma ordem
+- ***Não há
+- ** **Não existem exemplos
 
 ## Bibliografia
 

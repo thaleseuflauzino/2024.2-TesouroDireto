@@ -24,23 +24,23 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 |Há especificações claras dos cenários para o projeto? | - |
-| 7 |Os cenários possuem os elementos básicos, como título, metas/objetivos, contexto, atores, recursos, exceções e episódios? | - |
-| 8 |O título está presente nos cenários? | - |
-| 9 |Os cenários descrevem claramente a situação de uso do sistema, incluindo o contexto e os objetivos do usuário? | - |
-| 10 |Os usuários, suas metas e suas ações estão bem definidos e consistentes com o público-alvo do sistema? | - |
-| 11 |Os cenários descrevem apenas um único caminho específico feito por um ator específico realizando ações específicas? | - |
-| 12 |O cenário é realista e baseado em informações levantadas durante o processo de elicitação de requisitos? | - |
-| 13 |Os cenários descrevem o comportamento e as experiências dos atores, incluindo as mudanças que ocorrem no ambiente? | - |
-| 14 |Há identificação de possíveis problemas ou desafios enfrentados pelo usuário no cenário descrito? | - |
-| 15 |Os cenários representam as atividades principais que os atores desejam realizar no aplicativo? | - |
-| 16 |Os cenários tratam as exceções em casos necessários? | - |
-| 17 |Os cenários foram validados por stakeholders e usuários para garantir que representam situações reais e relevantes? | - |
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | *Não |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 |Há especificações claras dos cenários para o projeto? | Sim |
+| 7 |Os cenários possuem os elementos básicos, como título, metas/objetivos, contexto, atores, recursos, exceções e episódios? | Sim |
+| 8 |O título está presente nos cenários? | Sim |
+| 9 |Os cenários descrevem claramente a situação de uso do sistema, incluindo o contexto e os objetivos do usuário? | Sim |
+| 10 |Os usuários, suas metas e suas ações estão bem definidos e consistentes com o público-alvo do sistema? | Sim |
+| 11 |Os cenários descrevem apenas um único caminho específico feito por um ator específico realizando ações específicas? | Sim |
+| 12 |O cenário é realista e baseado em informações levantadas durante o processo de elicitação de requisitos? | Sim |
+| 13 |Os cenários descrevem o comportamento e as experiências dos atores, incluindo as mudanças que ocorrem no ambiente? | Sim |
+| 14 |Há identificação de possíveis problemas ou desafios enfrentados pelo usuário no cenário descrito? | Sim |
+| 15 |Os cenários representam as atividades principais que os atores desejam realizar no aplicativo? | Sim |
+| 16 |Os cenários tratam as exceções em casos necessários? | Sim |
+| 17 |Os cenários foram validados por stakeholders e usuários para garantir que representam situações reais e relevantes? | **Não |
 
 _Autores: Equipe do Projeto, 2024._
 
@@ -48,7 +48,9 @@ _Autores: Equipe do Projeto, 2024._
 
 ## Problemas encontrados
 
-Não foram encontrados problemas no artefato.
+- *A Tabela 5 não está referenciada no texto.
+
+- ** Não há vídeo de validação dos cenários.
 
 ## Bibliografia
 

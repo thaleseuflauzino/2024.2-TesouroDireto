@@ -24,22 +24,17 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | O backlog possui épicos e temas bem definidos e descritos? | - |
-| 7 | Os itens do backlog são gerados, refinados e organizados de forma a garantir que ele possa ser continuamente atualizado pela equipe? | - |
-| 8 | O backlog é utilizado para definir novas funcionalidades, modificar funcionalidades existentes e corrigir bugs prioritariamente? | - |
-| 9 | As fontes de origem dos NFRs (ex.: normas técnicas, stakeholders, domínios específicos) foram documentadas? | - |
-| 10 | Foi definida a classificação dos NFRs (ex.: desempenho, usabilidade, acessibilidade, segurança)? | - |
-| 11 | O Product Backlog é uma lista contendo todas as funcionalidades desejadas para o produto? | - |
-| 12 | O Product Backlog foi definido por um Product Owner (PO)? | - |
-| 13 | O Product Backlog é claramente definido como uma lista de todas as funcionalidades desejadas para o produto? | - |
-| 14 | O Product Owner é identificado como o responsável pela definição e priorização do conteúdo do Product Backlog? | - |
-| 15 | Os itens do Product Backlog estão descritos de forma clara e compreensível para toda a equipe? | - |
-
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | O backlog possui épicos e temas bem definidos e descritos? | Sim |
+| 7 | Os itens do backlog são gerados, refinados e organizados de forma a garantir que ele possa ser continuamente atualizado pela equipe? | Sim |
+| 8 | O backlog é utilizado para definir novas funcionalidades, modificar funcionalidades existentes e corrigir bugs prioritariamente? | Sim |
+| 9 | O Product Backlog é uma lista contendo todas as funcionalidades desejadas para o produto? | *Não |
+| 10 | O Product Backlog foi definido por um Product Owner (PO)? | **Não |
+| 11 | O Product Owner é identificado como o responsável pela definição e priorização do conteúdo do Product Backlog? | **Não |
 
 _Autores: Equipe do Projeto, 2024._
 
@@ -47,7 +42,9 @@ _Autores: Equipe do Projeto, 2024._
 
 ## Problemas encontrados
 
-Não foram encontrados problemas no artefato.
+- *Não tem as features no Product Backlog.
+
+- ** Não há vídeo da realização do Product Backlog com usuário/stakeholder.
 
 ## Bibliografia
 

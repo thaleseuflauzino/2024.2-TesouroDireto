@@ -24,15 +24,15 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | Os requisitos foram ligados aos artefatos correspondentes (na matriz geral)? | - |
-| 7 | Os requisitos são rastreáveis ao longo de todo o ciclo de vida do sistema? | - |
-| 8 | O artefato esta conectado entre si por meio de hyperlinks? | - |
-| 9 | Na matriz de rastreamento, os artefatos iniciais estão representados nas linhas e os artefatos-alvo nas colunas? | - |
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | Os requisitos foram ligados aos artefatos correspondentes (na matriz geral)? | Sim |
+| 7 | Os requisitos são rastreáveis ao longo de todo o ciclo de vida do sistema? | *Não |
+| 8 | O artefato esta conectado entre si por meio de hyperlinks? | **Não |
+| 9 | Na matriz de rastreamento, os artefatos iniciais estão representados nas linhas e os artefatos-alvo nas colunas? | Sim |
 
 
 _Autores: Equipe do Projeto, 2024._
@@ -41,7 +41,9 @@ _Autores: Equipe do Projeto, 2024._
 
 ## Problemas encontrados
 
-Não foram encontrados problemas no artefato.
+- *A rastreabilidade não vai direto para a tabela de requisitos e a primeira coluna da matriz também não é rastreável.
+
+- ** A rastreabilidade só joga pro início do artefato.
 
 ## Bibliografia
 

@@ -24,13 +24,13 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | Possui o motivo de escolha dos aplicativos? | - |
-| 7 | Foi identificado por quem cada aplicativo foi escolhido? | - | 
+| 1 | O histórico de versão padronizado? | *Não |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | Possui o motivo de escolha dos aplicativos? | Sim |
+| 7 | Foi identificado por quem cada aplicativo foi escolhido? | Sim | 
 
 _Autores: Equipe do Projeto, 2024._
 
@@ -38,7 +38,7 @@ _Autores: Equipe do Projeto, 2024._
 
 ## Problemas encontrados
 
-Não foram encontrados problemas no artefato.
+- *No histórico temos que 1.4 -> 2.0 sem uma mudança justificavel para esse pulo.
 
 ## Bibliografia
 

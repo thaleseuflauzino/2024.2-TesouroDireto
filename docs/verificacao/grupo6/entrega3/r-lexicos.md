@@ -24,15 +24,15 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | Há especificações dos léxicos? | - |
-| 7 | Há definição do usuário nos léxicos? | - |
-| 8 | Os léxicos possuem ligações entre si (hiperlinks)? | - |
-| 9 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? | - |
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | Há especificações dos léxicos? | Sim |
+| 7 | Há definição do usuário nos léxicos? | Sim |
+| 8 | Os léxicos possuem ligações entre si (hiperlinks)? | *Não |
+| 9 | Os léxicos utilizam a estrutura de dicionário (verbo, objeto, estado)? | Sim |
 
 _Autores: Equipe do Projeto, 2024._
 
@@ -40,7 +40,7 @@ _Autores: Equipe do Projeto, 2024._
 
 ## Problemas encontrados
 
-Não foram encontrados problemas no artefato.
+- *Possui o hyperlink, porém não está funcionando.
 
 ## Bibliografia
 
