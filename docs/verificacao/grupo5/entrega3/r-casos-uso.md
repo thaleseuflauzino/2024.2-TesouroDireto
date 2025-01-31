@@ -24,20 +24,20 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | Há especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição, Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)? | - |
-| 7 | Há atores principais e secundários no diagrama de caso de uso? | - |
-| 8 | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? | - |
-| 9 | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? | - |
-| 10 | No diagrama de caso de uso há ao menos um caso de uso com pontos de extensão? | - |
-| 11 | Os relacionamentos estão presentes no diagrama de caso de uso? | - |
-| 12 | Os casos de uso estão em formato oval na horizontal? | - |
-| 13 | Os fluxos do diagrama de casos de uso são divididos em: Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção? | - |
-| 14 | O diagrama de caso de uso dá uma visão geral do relacionamento entre casos de uso, atores e sistemas? | - |
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | Há especificação do diagrama de caso de uso (com Nome, Descrição, Atores, Pré-Condição, Pós-Condição, Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção etc.)? | Sim |
+| 7 | Há atores principais e secundários no diagrama de caso de uso? | Sim |
+| 8 | O ator principal está do lado esquerdo do sistema no diagrama de caso de uso? | Sim |
+| 9 | Os atores estão fora da caixa de limite do sistema no diagrama de caso de uso? | Sim |
+| 10 | No diagrama de caso de uso há ao menos um caso de uso com pontos de extensão? | Sim |
+| 11 | Os relacionamentos estão presentes no diagrama de caso de uso? | Sim |
+| 12 | Os casos de uso estão em formato oval na horizontal? | Sim |
+| 13 | Os fluxos do diagrama de casos de uso são divididos em: Fluxo Principal, Fluxo Alternativo e Fluxo de Exceção? | Sim |
+| 14 | O diagrama de caso de uso dá uma visão geral do relacionamento entre casos de uso, atores e sistemas? | Sim |
 
 _Autores: Equipe do Projeto, 2024._
 

@@ -24,15 +24,15 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | O grupo de foco avalia as atitudes, opiniões e impressões dos usuários? | - |
-| 7 | Nas técnica, foi realizado termo de consentimento? | - |
-| 8 | O local da entrevista foi realizado em um ambiente reservado ou compartilhado com baixa chance de interrupções? | - |
-| 9 | Foi feito um roteiro para a entrevista visando conseguir um melhor resultado? | - |
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Incompleto |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | O grupo de foco avalia as atitudes, opiniões e impressões dos usuários? | Incompleto |
+| 7 | Nas técnica, foi realizado termo de consentimento? | Sim |
+| 8 | O local da entrevista foi realizado em um ambiente reservado ou compartilhado com baixa chance de interrupções? | Sim |
+| 9 | Foi feito um roteiro para a entrevista visando conseguir um melhor resultado? | Sim |
 
 _Autores: Equipe do Projeto, 2024._
 

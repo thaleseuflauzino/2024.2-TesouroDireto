@@ -24,17 +24,17 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | Existe uma priorização para cada requisito documentado? | - |
-| 7 | O artefato resultante do método In or Out reflete adequadamente os objetivos do projeto, considerando apenas os requisitos essenciais para o primeiro lançamento? | - |
-| 8 | Na técnica In or Out, os requisitos “in” são os requisitos mínimos para atingir um primeiro release viável? | - |
-| 9 | Os critérios de inclusão (“in”) e exclusão (“out”) foram claramente definidos e documentados? | - |
-| 10 | Os requisitos excluídos (“out”) foram registrados com justificativas claras e documentadas para possíveis revisões? | - |
-| 11 | Os stakeholders participantes foram devidamente identificados e envolvidos no processo de priorização? | - |
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | Existe uma priorização para cada requisito documentado? | Sim |
+| 7 | O artefato resultante do método In or Out reflete adequadamente os objetivos do projeto, considerando apenas os requisitos essenciais para o primeiro lançamento? | Sim |
+| 8 | Na técnica In or Out, os requisitos “in” são os requisitos mínimos para atingir um primeiro release viável? | Sim |
+| 9 | Os critérios de inclusão (“in”) e exclusão (“out”) foram claramente definidos e documentados? | Sim |
+| 10 | Os requisitos excluídos (“out”) foram registrados com justificativas claras e documentadas para possíveis revisões? | Não se aplica |
+| 11 | Os stakeholders participantes foram devidamente identificados e envolvidos no processo de priorização? | Sim |
 
 _Autores: Equipe do Projeto, 2024._
 

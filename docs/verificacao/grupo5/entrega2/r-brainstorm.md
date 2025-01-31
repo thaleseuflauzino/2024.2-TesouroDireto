@@ -24,18 +24,18 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | O brainstorming coleta uma lista priorizada de necessidades e desejos percebidos dos usuários? | - |
-| 7 | A sessão contou com um moderador responsável por conduzir a atividade de forma eficiente, garantindo o cumprimento dos objetivos e a participação equilibrada de todos os envolvidos? | - |
-| 8 | Houve uma pergunta norteadora, formulada de forma a direcionar a discussão para identificar conteúdo, tarefas ou características específicas do produto? | - | 
-| 9 | A sessão de brainstorming contou com a participação de um número ideal de usuários, entre 8 e 12? | - |
-| 10 | Nas técnica, foi realizado termo de consentimento? | - |
-| 11 | O local da entrevista foi realizado em um ambiente reservado ou compartilhado com baixa chance de interrupções? | - |
-| 12 | Foi feito um roteiro para a entrevista visando conseguir um melhor resultado? | - | 
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Incompleto |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | O brainstorming coleta uma lista priorizada de necessidades e desejos percebidos dos usuários? | Sim |
+| 7 | A sessão contou com um moderador responsável por conduzir a atividade de forma eficiente, garantindo o cumprimento dos objetivos e a participação equilibrada de todos os envolvidos? | Sim |
+| 8 | Houve uma pergunta norteadora, formulada de forma a direcionar a discussão para identificar conteúdo, tarefas ou características específicas do produto? | Sim | 
+| 9 | A sessão de brainstorming contou com a participação de um número ideal de usuários, entre 8 e 12? | Sim |
+| 10 | Nas técnica, foi realizado termo de consentimento? | Sim |
+| 11 | O local da entrevista foi realizado em um ambiente reservado ou compartilhado com baixa chance de interrupções? | Sim |
+| 12 | Foi feito um roteiro para a entrevista visando conseguir um melhor resultado? | Sim | 
 
 _Autores: Equipe do Projeto, 2024._
 

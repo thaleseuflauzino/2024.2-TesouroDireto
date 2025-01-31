@@ -49,10 +49,10 @@ A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
-|  | Verificação Matriz de Rastreabilidade |  |
-|  | Verificação Foward-From |  |
-|  | Verificação Backward-From |  |
-|  | Adição dos resultados.       |  |
+| 31/01/2025 | Verificação Matriz de Rastreabilidade | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Foward-From | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Backward-From | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Adição dos resultados.       | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
 
 _Autor: [Víctor Rodrigues](https://github.com/ViictorHugoo), 2025_
 

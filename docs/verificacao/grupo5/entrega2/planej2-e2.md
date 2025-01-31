@@ -57,19 +57,19 @@ A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
-|  | Verificação Brainstorm |  |
-|  | Verificação Grupo de Foco |  |
-|  | Verificação Introspecção |  |
-|  | Verificação Personas |  |
-|  | Verificação Glossário |  |
-|  | Verificação Priorização 100$ |  |
-|  | Verificação Priorização In or Out |  |
-|  | Verificação Priorização Three Level Scale |  |
-|  | Verificação Perfil de Usuário |  |
-|  | Verificação Questionário |  |
-|  | Adição dos resultados.       |  |
+| 31/01/2025 | Verificação Brainstorm | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Grupo de Foco | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Introspecção | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Personas | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Glossário | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Priorização 100$ | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Priorização In or Out | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Priorização Three Level Scale | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Perfil de Usuário | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Questionário | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Adição dos resultados.       | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
 
-_Autor: [Víctor Rodrigues](https://github.com/ViictorHugoo), 2025_
+_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2025_
 
 </center>
 

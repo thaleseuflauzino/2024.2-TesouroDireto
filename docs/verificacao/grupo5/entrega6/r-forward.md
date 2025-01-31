@@ -24,15 +24,15 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | Existem elos do tipo: Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação? | - |
-| 7 | As informações rastreadas foram classificadas nos quatro níveis a seguir? Ambiental, Organizacional, Gerencial e Desenvolvimento? | - |
-| 8 | O artefato esta conectado entre si por meio de hyperlinks? | - |
-| 9 | Forward From: liga os requisitos a artefatos de desenho e implementação? | - |
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | Existem elos do tipo: Satisfação, Recurso, Responsabilidade, Representação, Alocado e Agregação? | Sim |
+| 7 | As informações rastreadas foram classificadas nos quatro níveis a seguir? Ambiental, Organizacional, Gerencial e Desenvolvimento? | Não |
+| 8 | O artefato está conectado entre si por meio de hyperlinks? | Sim |
+| 9 | Forward From: liga os requisitos a artefatos de desenho e implementação? | Sim |
 
 
 _Autores: Equipe do Projeto, 2024._

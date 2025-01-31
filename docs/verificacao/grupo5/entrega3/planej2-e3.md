@@ -53,14 +53,14 @@ A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
-|  | Verificação Léxicos |  |
-|  | Verificação Cenários |  |
-|  | Verificação Casos de Uso |  |
-|  | Verificação Validação dos Casos de Uso |  |
-|  | Verificação Especificação Suplementar |  |
-|  | Adição dos resultados.       |  |
+| 31/01/2025 | Verificação Léxicos | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Cenários | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Casos de Uso | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Validação dos Casos de Uso | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Especificação Suplementar | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Adição dos resultados.       | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
 
-_Autor: [Víctor Rodrigues](https://github.com/ViictorHugoo), 2025_
+_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2025_
 
 </center>
 

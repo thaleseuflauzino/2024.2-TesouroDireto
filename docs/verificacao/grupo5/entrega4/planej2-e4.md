@@ -51,10 +51,10 @@ A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
-|  | Verificação Backlog |  |
-|  | Verificação FR Framework |  |
-|  | Verificação Histórias do Usuário |  |
-|  | Adição dos resultados.       |  |
+| 31/01/2025 | Verificação Backlog | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação FR Framework | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Histórias do Usuário | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Adição dos resultados.       | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
 
 _Autor: [Víctor Rodrigues](https://github.com/ViictorHugoo), 2025_
 

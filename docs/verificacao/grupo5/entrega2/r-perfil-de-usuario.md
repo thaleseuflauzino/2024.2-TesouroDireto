@@ -24,13 +24,13 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | A Especificação do Perfil do usuário possui informação de: idade (criança, jovem, adulto, terceira idade etc.); experiência (leigo/ novato, especialista); atitudes (tecnófilos, tecnófobos); e tarefas primárias (compra, venda) | - |
-| 7 | O perfil de usuário apresenta o nivel de afinidade do usuário com a tecnologia? | - |
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | A Especificação do Perfil do usuário possui informação de: idade (criança, jovem, adulto, terceira idade etc.); experiência (leigo/ novato, especialista); atitudes (tecnófilos, tecnófobos); e tarefas primárias (compra, venda) | Sim |
+| 7 | O perfil de usuário apresenta o nivel de afinidade do usuário com a tecnologia? | Sim |
 
 _Autores: Equipe do Projeto, 2024._
 

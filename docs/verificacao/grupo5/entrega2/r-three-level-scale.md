@@ -24,15 +24,15 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | Existe uma priorização para cada requisito documentado? | - |
-| 7 | Os requisitos de baixa prioridade são aqueles que algum stakeholder define como urgente, mas na real ele não é importante? | - |
-| 8 | Na técnica de priorização Three-Level Scale, os requisitos foram priorizados em alta, média ou baixa prioridade? | - |
-| 9 | Os stakeholders participantes foram devidamente identificados e envolvidos no processo de priorização? | - |
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Incompleto |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | Existe uma priorização para cada requisito documentado? | Sim |
+| 7 | Os requisitos de baixa prioridade são aqueles que algum stakeholder define como urgente, mas na real ele não é importante? | Não |
+| 8 | Na técnica de priorização Three-Level Scale, os requisitos foram priorizados em alta, média ou baixa prioridade? | Sim |
+| 9 | Os stakeholders participantes foram devidamente identificados e envolvidos no processo de priorização? | Sim |
 
 _Autores: Equipe do Projeto, 2024._
 
