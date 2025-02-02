@@ -24,25 +24,39 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | Existe uma priorização para cada requisito documentado? | - |
-| 7 | O artefato resultante do método In or Out reflete adequadamente os objetivos do projeto, considerando apenas os requisitos essenciais para o primeiro lançamento? | - |
-| 8 | Na técnica In or Out, os requisitos “in” são os requisitos mínimos para atingir um primeiro release viável? | - |
-| 9 | Os critérios de inclusão (“in”) e exclusão (“out”) foram claramente definidos e documentados? | - |
-| 10 | Os requisitos excluídos (“out”) foram registrados com justificativas claras e documentadas para possíveis revisões? | - |
-| 11 | Os stakeholders participantes foram devidamente identificados e envolvidos no processo de priorização? | - |
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | Existe uma priorização para cada requisito documentado? | Sim |
+| 7 | O artefato resultante do método In or Out reflete adequadamente os objetivos do projeto, considerando apenas os requisitos essenciais para o primeiro lançamento? | Sim |
+| 8 | Na técnica In or Out, os requisitos “in” são os requisitos mínimos para atingir um primeiro release viável? | Sim |
+| 9 | Os critérios de inclusão (“in”) e exclusão (“out”) foram claramente definidos e documentados? | Sim |
+| 10 | Os requisitos excluídos (“out”) foram registrados com justificativas claras e documentadas para possíveis revisões? | Não se aplica |
+| 11 | Os stakeholders participantes foram devidamente identificados e envolvidos no processo de priorização? | Sim |
 
 _Autores: Equipe do Projeto, 2024._
 
 </center>
 
+### Gravação da Inspeção 
+
+Toda a inspeção e o preenchimento da lista de verificação foram gravados e podem ser vistos no Vídeo 1.
+
+<center>
+
+**Vídeo 1** - Verificação por Inspeção.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gw7qIcnbcg?si=omRwo94d4EVw_1JK&amp;start=2458" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2025_
+
+</center>
+
 ## Problemas encontrados
 
-Não foram encontrados problemas no artefato.
+- ID 10 - Considerado não aplicável, pois os mesmos requisistos passam por validações diferentes o que torna o out não excluitivo. 
 
 ## Bibliografia
 
@@ -52,4 +66,5 @@ Não foram encontrados problemas no artefato.
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
+| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
+| `1.1` | 31/01/2025 | Adição de resultados  | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
