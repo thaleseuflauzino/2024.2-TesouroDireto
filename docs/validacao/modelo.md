@@ -14,10 +14,13 @@ O protótipo de alta fidelidade foi desenvolvido utilizando o software Figma, um
 
 <font size="3"><p style="text-align: center"><b>Tabela 1:</b> Cronograma de entrevista</p></font>
 
-| Entrevistador | Usuário | Data | Horário | Local |
-| ------------- | ------- | ---- | ------- | ----- |
+| Entrevistador | Usuário | Data | 
+| ------------- | ------- | ---- |
+| [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd) | Marcus | 30/01/2025 | 
+| [Victor Rodrigues](https://github.com/ViictorHugoo) | Kauan Dias | 31/01/2025 | 
+| [Júlia Takaki](https://github.com/juliatakaki) | Renan Pariz | 02/02/2025 | 
 
-<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/"></a>, 2025</p></font>
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo"> Victor Rodrigues</a>, 2025</p></font>
 
 </center>
 
@@ -36,9 +39,9 @@ Os integrantes desenvolveram, de acordo com a tabela 2, um protótipo de alta fi
 |  [Thales Euflauzino](https://github.com/thaleseuflauzino) |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF08">RNF08</a>  |	O perfil de recomendação de investimentos deve ser acessível a partir de 3 cliques de qualquer parte do aplicativo. |
 |  [Víctor Schmidt](https://github.com/moonshinerd)         |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF33">RF33</a>    | 	O aplicativo deverá permitir que o usuário faça cadastro na aplicação criando uma conta própria no sistema.|
 |  [Víctor Schmidt](https://github.com/moonshinerd)         |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF25">RF25</a>    | 	A tela de metas e sonhos deverá ser capaz de simular a evolução das metas|
-|  [Víctor Rodrigues](https://github.com/ViictorHugoo)      |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF26">RF26</a>    | 	O aplicativo deve apresentar um dashboard com dados de rentabilidade dos títulos adquiridos e taxa de inflação.|
-|  [Víctor Rodrigues](https://github.com/ViictorHugoo)      |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF40">RF40</a>    |	Cada meta deve possuir uma barra de progresso representando o progresso individual de conclusão da meta. |
-|  [Víctor Rodrigues](https://github.com/ViictorHugoo)      | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF16">RF16</a>     | Disponibilizar um recurso educativo com vídeos e artigos sobre como investir no Tesouro Direto. | 
+|  [Victor Rodrigues](https://github.com/ViictorHugoo)      |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF26">RF26</a>    | 	O aplicativo deve apresentar um dashboard com dados de rentabilidade dos títulos adquiridos e taxa de inflação.|
+|  [Victor Rodrigues](https://github.com/ViictorHugoo)      |  <a href="../../elicitacao/grupo5/requisitos/#anchor_RF40">RF40</a>    |	Cada meta deve possuir uma barra de progresso representando o progresso individual de conclusão da meta. |
+|  [Victor Rodrigues](https://github.com/ViictorHugoo)      | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF16">RF16</a>     | Disponibilizar um recurso educativo com vídeos e artigos sobre como investir no Tesouro Direto. | 
 
 <font size="3"><p style="text-align: center">Autor:<a href="https://github.com/thaleseuflauzino"> Thales Euflauzino</a>, 2025</p></font>
 
@@ -67,19 +70,21 @@ A validação é apresentada no Vídeo 1.
 
 <font size="3"><p style="text-align: center"><b>Video 1:</b> Entrevista de Validação </p></font>
 
-<<video>>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g4xRHRPoW9g?si=fLVr_F6tehnAZl4B" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/"></a>, 2025</p></font>
+<font size="3"><p style="text-align: center">Autor: <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a>, 2025</p></font>
 
 </center>
 
 ## Resultados Obtidos
 
-Relato da entrevista, colocar problemas encontrados ou que tudo ocorreu bem.
+Usuários validaram todos os requisistos positivamente. 
 
 
 ## Histórico de Versões
 
 | Versão | Data       | Descrição | Autor     |       Revisor         |
 | ------ | ---------- | --------- | --------- | --------------------- |
-| `1.0` | 30/01/2025 | Colocando requisitos e embed figma | [Thales Euflauzino](https://github.com/thaleseuflauzino) | | 
+| `1.0` | 26/01/2025 | Criação e definição inicial | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.1` | 30/01/2025 | Colocando requisitos e embed figma | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) | 
+| `1.2` | 02/02/2025 | Cronograma e Video | [Victor Rodrigues](https://github.com/ViictorHugoo) | | 
