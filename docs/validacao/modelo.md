@@ -87,4 +87,4 @@ Usuários validaram todos os requisistos positivamente.
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 26/01/2025 | Criação e definição inicial | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.1` | 30/01/2025 | Colocando requisitos e embed figma | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) | 
-| `1.2` | 02/02/2025 | Cronograma e Video | [Victor Rodrigues](https://github.com/ViictorHugoo) | | 
+| `1.2` | 02/02/2025 | Cronograma e Video | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) | 
