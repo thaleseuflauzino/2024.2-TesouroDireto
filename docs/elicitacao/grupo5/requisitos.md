@@ -103,7 +103,7 @@ _Legenda das Tabelas:_
 | [Júlia Takaki](https://github.com/juliatakaki)     | [RF18](#anchor_RF18)                                   | [RNF06](#anchor_RNF06)                                 |
 | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [RF15](#anchor_RF15)                               | [RNF08](#anchor_RNF08)                                  |
 | [Víctor Schmidt](https://github.com/moonshinerd)   | [RF25](#anchor_RF25) e [RF33](#anchor_RF33)                 |             |
-| [Víctor Rodrigues](https://github.com/ViictorHugoo)| [RF26](#anchor_RF26) e [RF40](#anchor_RF40) | -                                  |
+| [Víctor Rodrigues](https://github.com/ViictorHugoo)| [RF16](#anchor_RF16), [RF26](#anchor_RF26) e [RF40](#anchor_RF40) | -                                  |
 
 <div>
 <font size="3"><p style="text-align: center"><b>Autor:</b> <a href="https://www.github.com/moonshinerd">Víctor Schmidt, 2024</a></p></font>
