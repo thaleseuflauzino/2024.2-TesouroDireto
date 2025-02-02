@@ -40,9 +40,23 @@ _Autores: Equipe do Projeto, 2024._
 
 </center>
 
+### Gravação da Inspeção 
+
+Toda a inspeção e o preenchimento da lista de verificação foram gravados e podem ser vistos no Vídeo 1.
+
+<center>
+
+**Vídeo 1** - Verificação por Inspeção.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gw7qIcnbcg?si=omRwo94d4EVw_1JK&amp;start=2458" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2025_
+
+</center>
+
 ## Problemas encontrados
 
-Não foram encontrados problemas no artefato.
+- ID 10 - Considerado não aplicável, pois os mesmos requisistos passam por validações diferentes o que torna o out não excluitivo. 
 
 ## Bibliografia
 
@@ -52,4 +66,5 @@ Não foram encontrados problemas no artefato.
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
+| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
+| `1.1` | 31/01/2025 | Adição de resultados  | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki) | |

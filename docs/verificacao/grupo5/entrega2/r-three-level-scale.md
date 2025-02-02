@@ -27,10 +27,10 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 | 1 | O histórico de versão padronizado? | Sim |
 | 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
 | 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Incompleto |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
 | 5 | Um texto fazendo uma introdução do artefatos? | Sim |
 | 6 | Existe uma priorização para cada requisito documentado? | Sim |
-| 7 | Os requisitos de baixa prioridade são aqueles que algum stakeholder define como urgente, mas na real ele não é importante? | Não |
+| 7 | Os requisitos de baixa prioridade são aqueles que algum stakeholder define como urgente, mas não importante? | Não |
 | 8 | Na técnica de priorização Three-Level Scale, os requisitos foram priorizados em alta, média ou baixa prioridade? | Sim |
 | 9 | Os stakeholders participantes foram devidamente identificados e envolvidos no processo de priorização? | Sim |
 
@@ -38,9 +38,23 @@ _Autores: Equipe do Projeto, 2024._
 
 </center>
 
+### Gravação da Inspeção 
+
+Toda a inspeção e o preenchimento da lista de verificação foram gravados e podem ser vistos no Vídeo 1.
+
+<center>
+
+**Vídeo 1** - Verificação por Inspeção.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gw7qIcnbcg?si=y0d8YUtoCb6tSQJy&amp;start=2681" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2025_
+
+</center>
+
 ## Problemas encontrados
 
-Não foram encontrados problemas no artefato.
+- ID 7 - Não há registros sobre.
 
 ## Bibliografia
 
@@ -50,4 +64,5 @@ Não foram encontrados problemas no artefato.
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
+| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
+| `1.1` | 31/01/2025 | Adição de resultados  | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki) | |

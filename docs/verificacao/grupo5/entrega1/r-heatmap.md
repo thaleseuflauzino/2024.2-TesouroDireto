@@ -36,9 +36,23 @@ _Autores: Equipe do Projeto, 2024._
 
 </center>
 
+### Gravação da Inspeção 
+
+Toda a inspeção e o preenchimento da lista de verificação foram gravados e podem ser vistos no Vídeo 1.
+
+<center>
+
+**Vídeo 1** - Verificação por Inspeção.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gw7qIcnbcg?si=VE_oCncyZB7af_s8&amp;start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2025_
+
+</center>
+
 ## Problemas encontrados
 
-Não foram encontrados problemas no artefato.
+ID 5 - Não há qualquer referencia ou bibliografia no artefato.
 
 ## Bibliografia
 
@@ -49,4 +63,5 @@ Tesouro Direto. Heatmap, disponível em: https://requisitos-de-software.github.i
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
+| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
+| `1.1` | 31/01/2025 | Adição de resultados  | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki) | |
