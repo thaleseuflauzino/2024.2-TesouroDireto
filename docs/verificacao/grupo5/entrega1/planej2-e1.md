@@ -203,4 +203,4 @@ _Autores: Equipe do Projeto, 2025._
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
-| `1.1` | 31/01/2025 | Cronograma  | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki) | |
+| `1.1` | 31/01/2025 | Cronograma  | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki) |  [Thales Euflauzino](https://github.com/thaleseuflauzino)|
