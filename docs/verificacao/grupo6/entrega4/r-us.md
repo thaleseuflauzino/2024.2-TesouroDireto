@@ -48,6 +48,10 @@ _Autores: Equipe do Projeto, 2024._
 ## Problemas encontrados
 
 - *Não tem gravação da criação das Histórias do Usuário
+  
+## Gravação da Inspeção
+
+O link do momento onde fazemos a inspeção dos artefatos da etapa 4 está disponível [aqui](https://youtu.be/Ya5oS1VJNi8?t=2691) 
 
 ## Bibliografia
 
@@ -58,3 +62,4 @@ _Autores: Equipe do Projeto, 2024._
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 27/01/2025 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+| `1.1` | 27/01/2025 | Adição dos Resultados  | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Schmidt](https://github.com/moonshinerd) |

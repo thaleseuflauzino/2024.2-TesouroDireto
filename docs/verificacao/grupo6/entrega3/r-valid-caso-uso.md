@@ -39,6 +39,10 @@ _Autores: Equipe do Projeto, 2024._
 
 Não foram encontrados problemas no artefato.
 
+## Gravação da Inspeção
+
+O link do momento onde fazemos a inspeção dos artefatos da etapa 3 está disponível [aqui](https://youtu.be/Ya5oS1VJNi8?t=1891) 
+
 ## Bibliografia
 
 > Meu INSS. Validação de Casos de Uso, disponível em: https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/. Acesso em: 27 de janeiro de 2025.
@@ -48,3 +52,4 @@ Não foram encontrados problemas no artefato.
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 27/01/2025 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+| `1.1` | 27/01/2025 | Adição dos Resultados  | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Schmidt](https://github.com/moonshinerd) |

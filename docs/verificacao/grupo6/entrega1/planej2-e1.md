@@ -50,14 +50,14 @@ A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
-|  | Verificação Heatmap |  |
-|  | Verificação Lista de Apps Avaliados |  |
-|  | Verificação App Escolhido |  |
-|  | Verificação Rich Picture |  |
-|  | Verificação Cronograma |  |
-|  | Adição dos resultados.       |  |
+| 27/01/2024  | Verificação Heatmap | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| 27/01/2024 | Verificação Lista de Apps Avaliados | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| 27/01/2024 | Verificação App Escolhido | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| 27/01/2024 | Verificação Rich Picture | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| 27/01/2024 | Verificação Cronograma | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| 27/01/2024 | Adição dos resultados.       | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 
-_Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2025_
+_Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2025_
 
 </center>
 
@@ -202,4 +202,4 @@ _Autores: Equipe do Projeto, 2025._
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 26/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
+| `1.0` | 26/01/2025 | Criação do documento  | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |

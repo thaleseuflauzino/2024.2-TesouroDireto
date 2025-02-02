@@ -53,14 +53,14 @@ A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
-|  | Verificação Léxicos |  |
-|  | Verificação Cenários |  |
-|  | Verificação Casos de Uso |  |
-|  | Verificação Validação dos Casos de Uso |  |
-|  | Verificação Especificação Suplementar |  |
-|  | Adição dos resultados.       |  |
+| 27/01/2024 | Verificação Léxicos | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|27/01/2024  | Verificação Cenários | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| 27/01/2024 | Verificação Casos de Uso |[Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino)  |
+| 27/01/2024 | Verificação Validação dos Casos de Uso | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| 27/01/2024 | Verificação Especificação Suplementar | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| 27/01/2024 | Adição dos resultados.       |  [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino)|
 
-_Autor: [Víctor Rodrigues](https://github.com/ViictorHugoo), 2025_
+_Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2025_
 
 </center>
 

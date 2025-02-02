@@ -51,12 +51,12 @@ A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
-|  | Verificação Backlog |  |
-|  | Verificação FR Framework |  |
-|  | Verificação Histórias do Usuário |  |
-|  | Adição dos resultados.       |  |
+|27/01/2024  | Verificação Backlog |[Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino)  |
+| 27/01/2024 | Verificação FR Framework | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|27/01/2024  | Verificação Histórias do Usuário |  [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino)|
+| 27/01/2024 | Adição dos resultados.       |[Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino)  |
 
-_Autor: [Víctor Rodrigues](https://github.com/ViictorHugoo), 2025_
+_Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2025_
 
 </center>
 

@@ -39,6 +39,10 @@ _Autores: Equipe do Projeto, 2024._
 ## Problemas encontrados
 
 - *No histórico temos que 1.4 -> 2.0 sem uma mudança justificavel para esse pulo.
+  
+## Gravação da Inspeção
+
+O link do momento onde fazemos a inspeção dos artefatos da etapa 1 está disponível [aqui](https://youtu.be/Ya5oS1VJNi8?t=34) 
 
 ## Bibliografia
 
@@ -50,3 +54,4 @@ Tesouro Direto. Lista de Apps Avaliados, disponível em: https://requisitos-de-s
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 27/01/2025 | Criação do documento  | [Victor Schmidt](https://github.com/moonshinerd) |  |
+| `1.1` | 27/01/2025 | Adição dos Resultados  | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Schmidt](https://github.com/moonshinerd) |  |

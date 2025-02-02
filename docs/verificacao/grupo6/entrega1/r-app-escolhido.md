@@ -40,6 +40,10 @@ _Autores: Equipe do Projeto, 2024._
 
 - *O termo de uso deve ter a data de acesso, para que se for alterado os termos ficar salvo.
 
+## Gravação da Inspeção
+
+O link do momento onde fazemos a inspeção dos artefatos da etapa 1 está disponível [aqui](https://youtu.be/Ya5oS1VJNi8?t=34) 
+
 ## Bibliografia
 
 > Meu INSS. App Escolhido, disponível em: https://requisitos-de-software.github.io/2024.2-MeuINSS/planejamento_do_projeto/app-selecionado/. Acesso em: 28 de janeiro de 2025.
@@ -48,4 +52,5 @@ _Autores: Equipe do Projeto, 2024._
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 28/01/2025 | Criação do documento  | [Victor Schmidt](https://github.com/moonshinerd) |  |
+| `1.0` | 27/01/2025 | Criação do documento  | [Victor Schmidt](https://github.com/moonshinerd) |  |
+| `1.1` | 27/01/2025 | Adição dos Resultados  | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Schmidt](https://github.com/moonshinerd) |  |

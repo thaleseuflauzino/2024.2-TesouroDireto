@@ -54,19 +54,19 @@ A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
-|  | Verificação Brainstorm |  |
-|  | Verificação Grupo de Foco |  |
-|  | Verificação Introspecção |  |
-|  | Verificação Personas |  |
-|  | Verificação Glossário |  |
-|  | Verificação Priorização 100$ |  |
-|  | Verificação Priorização In or Out |  |
-|  | Verificação Priorização Three Level Scale |  |
-|  | Verificação Perfil de Usuário |  |
-|  | Verificação Questionário |  |
-|  | Adição dos resultados.       |  |
+|27/01/2024| Verificação Brainstorm | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|27/01/2024| Verificação Grupo de Foco | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|27/01/2024| Verificação Introspecção | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|27/01/2024| Verificação Personas | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|27/01/2024| Verificação Glossário | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|27/01/2024| Verificação Priorização 100$ | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|27/01/2024| Verificação Priorização In or Out |[Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino)|
+|27/01/2024| Verificação Priorização Three Level Scale | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|27/01/2024| Verificação Perfil de Usuário |[Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|27/01/2024| Verificação Questionário |[Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino)|
+|27/01/2024| Adição dos resultados.       | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 
-_Autor: [Víctor Rodrigues](https://github.com/ViictorHugoo), 2025_
+_Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2025_
 
 </center>
 
