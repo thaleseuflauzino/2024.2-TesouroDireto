@@ -50,14 +50,14 @@ A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
-|  | Verificação Heatmap |  |
-|  | Verificação Lista de Apps Avaliados |  |
-|  | Verificação App Escolhido |  |
-|  | Verificação Rich Picture |  |
-|  | Verificação Cronograma |  |
-|  | Adição dos resultados.       |  |
+| 31/01/2025 | Verificação Heatmap | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Lista de Apps Avaliados | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação App Escolhido | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Rich Picture | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Verificação Cronograma | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 31/01/2025 | Adição dos resultados.       | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
 
-_Autor: [Víctor Rodrigues](https://github.com/ViictorHugoo), 2025_
+_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2025_
 
 </center>
 
@@ -202,4 +202,5 @@ _Autores: Equipe do Projeto, 2025._
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 26/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
+| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
+| `1.1` | 31/01/2025 | Cronograma  | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki) |  [Thales Euflauzino](https://github.com/thaleseuflauzino)|

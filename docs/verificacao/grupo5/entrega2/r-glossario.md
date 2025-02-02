@@ -24,24 +24,39 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | Todos os termos essenciais ao projeto estão incluídos no glossário? | - |
-| 7 | As definições dos termos são claras e livres de ambiguidade? | - |
-| 8 | O glossário está organizado de maneira que facilite a consulta (ex.: por ordem alfabética)? | - |
-| 9 | Há rastreabilidade entre os termos do glossário e os requisitos ou artefatos relacionados? | - |
-| 10 | O glossário inclui exemplos práticos ou contextuais para termos complexos? | - |
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | Todos os termos essenciais ao projeto estão incluídos no glossário? | Sim |
+| 7 | As definições dos termos são claras e livres de ambiguidade? | Sim |
+| 8 | O glossário está organizado de maneira que facilite a consulta (ex.: por ordem alfabética)? | Não |
+| 9 | Há rastreabilidade entre os termos do glossário e os requisitos ou artefatos relacionados? | Não |
+| 10 | O glossário inclui exemplos práticos ou contextuais para termos complexos? | Sim |
 
 _Autores: Equipe do Projeto, 2024._
 
 </center>
 
+### Gravação da Inspeção 
+
+Toda a inspeção e o preenchimento da lista de verificação foram gravados e podem ser vistos no Vídeo 1.
+
+<center>
+
+**Vídeo 1** - Verificação por Inspeção.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gw7qIcnbcg?si=_4s5F7O_dVn-wYXz&amp;start=2013" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2025_
+
+</center>
+
 ## Problemas encontrados
 
-Não foram encontrados problemas no artefato.
+- ID 8 - Itens aparentam não estar organizados em algum padrão, dificultado a consulta por itens especificos.
+- ID 9 - Não há qualquer rastreabilidade entre os itens do glossário e também não há com artefatos relacionados
 
 ## Bibliografia
 
@@ -51,4 +66,5 @@ Não foram encontrados problemas no artefato.
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
+| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
+| `1.1` | 31/01/2025 | Adição de resultados  | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
