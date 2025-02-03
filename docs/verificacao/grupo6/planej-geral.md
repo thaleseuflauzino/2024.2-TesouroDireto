@@ -34,11 +34,11 @@ _Fonte: SOMMERVILLE (2007)._<a id="anchor_4" href="#REF4"><sup>4</sup></a>
 
 | Rastreabilidade | Etapa |
 | --------------- | ----- |
-|<a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/verificacao/grupo6/entrega1/planej2-e1/">Planejamento 1</a> | Etapa 1 |
-|<a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/verificacao/grupo6/entrega2/planej2-e2/">Planejamento 2</a> |Etapa 2 |
-|<a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/verificacao/grupo6/entrega3/planej2-e3/">Planejamento 3</a> |Etapa 3 |
-|<a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/verificacao/grupo6/entrega4/planej2-e4/">Planejamento 4</a> |Etapa 4 |
-|<a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/verificacao/grupo6/entrega6/planej2-e6/">Planejamento 6</a> |Etapa 6 |
+|[Planejamento 1](../grupo6/entrega1/planej2-e1.md) | Etapa 1 |
+|[Planejamento 2](../grupo6/entrega2/planej2-e2.md) |Etapa 2 |
+|[Planejamento 3](../grupo6/entrega3/planej2-e3.md) |Etapa 3 |
+|[Planejamento 4](../grupo6/entrega4/planej2-e4.md) |Etapa 4 |
+|[Planejamento 6](../grupo6/entrega6/planej2-e6.md)|Etapa 6 |
 
 ## Gravação da Inspeção
 
