@@ -99,6 +99,7 @@ _Autores: Equipe do Projeto, 2025._
 <center>
 
 **Tabela 3** - Lista de Verificação do Perfil de Usuário.
+
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
 | 6 | A Especificação do Perfil do usuário possui informação de: idade (criança, jovem, adulto, terceira idade etc.); experiência (leigo/ novato, especialista); atitudes (tecnófilos, tecnófobos); e tarefas primárias (compra, venda) | - |
@@ -202,8 +203,9 @@ _Autores: Equipe do Projeto, 2025._
 <center>
 
 **Tabela 9** - Lista de Verificação do Glossário.
+
 |        ID        | Descrição                                                                                                           | Avaliação  |
-| :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
+| :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: |
 | 6 | Todos os termos essenciais ao projeto estão incluídos no glossário? | - |
 | 7 | As definições dos termos são claras e livres de ambiguidade? | - |
 | 8 | O glossário está organizado de maneira que facilite a consulta (ex.: por ordem alfabética)? | - |

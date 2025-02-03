@@ -73,7 +73,7 @@ Com o intuito de melhor organizar a verificação, a lista de verificação ser�
 
 **Tabela 2** - Lista de Verificação dos Itens do Planejamento Geral do projeto .
 
-|        ID        | Descrição                                  | Avaliação  | Fonte | Imagem de Referência|
+|        ID        | Descrição                                  | Avaliação  |
 | :--------------: | ------------------------------------------ | :--------: |
 | 1 | O histórico de versão padronizado? | - |
 | 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
