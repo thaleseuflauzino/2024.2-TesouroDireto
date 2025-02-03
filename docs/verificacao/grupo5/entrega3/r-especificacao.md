@@ -29,8 +29,9 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 | 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
 | 5 | Um texto fazendo uma introdução do artefatos? | Sim |
 | 6 | O artefato segue o modelo FURPS+? | Sim |
-| 7 | O documento especifica o tempo de Sim/Não/Incompleto, no desempenho? | Sim |
+| 7 | O documento especifica o tempo de resposta, no desempenho? | Sim |
 | 8 | O documento especifica em qual plataforma o aplicativo pode ser executado? | Sim |
+
 
 _Autores: Equipe do Projeto, 2024._
 

@@ -2,12 +2,12 @@
 
 ## Introdução
 
-O artefato visa apresentar o planejamento para a verificação de cada artefato da etapa 6 do projeto do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto).
+O artefato visa apresentar o planejamento para a verificação de cada artefato da etapa 6 do projeto do [grupo 6](https://github.com/Requisitos-de-Software/2024.2-MeuINSS).
 
 
 ## Objetivos
 
-O objetivo deste documento é verificar se os artefatos produzidos para entrega 6 do [grupo](https://github.com/Requisitos-de-Software/2024.2-TesouroDireto) possuem os itens e o padrão exigidos. É importante citar que essa verificação em momento nenhum busca diminuir os membros responsáveis seu trabalho, apenas aplicar os conceitos de verificação.
+O objetivo deste documento é verificar se os artefatos produzidos para entrega 6 do [grupo 6](https://github.com/Requisitos-de-Software/2024.2-MeuINSS) possuem os itens e o padrão exigidos. É importante citar que essa verificação em momento nenhum busca diminuir os membros responsáveis seu trabalho, apenas aplicar os conceitos de verificação.
 
 ## Metodologia
 
@@ -35,9 +35,10 @@ _Fonte: SOMMERVILLE (2007)._ <a id="anchor_5" href="#REF5"><sup>1</sup></a>
 
 Os artefatos alvos dessa verificação são:
 
-- [Matriz de Rastreabilidade](../../../pos-rastreabilidade/matriz-rastreabilidade.md) na versão 1.2 de data 16/01/2025, produzido por [Todos integrantes](../../../../) com revisão de [Todos integrantes](../../../../).
-- [Foward-From](../../../pos-rastreabilidade/forward-from.md) na versão 1.5 de data 16/01/2025, produzido por [Todos integrantes](../../../../), com revisão de [Todos integrantes](../../../../).
-- [Backward-From](../../../pos-rastreabilidade/backward-from.md) na versão 1.4 de data 14/01/2025, produzido por [Todos integrantes](../../../../) com revisão de [Todos integrantes](../../../../).
+- [Matriz de Rastreabilidade](https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/matriz/) na versão 1.6 de data 19/01/2025, produzido por [Todos integrantes](../../../../) com revisão de [Maurício Ferreira](https://github.com/mauricio-araujoo), [Ana Catarina Santos](https://github.com/an4catarina) e [Nicolas Bomfim](https://github.com/nickgehjk)
+- [Foward-From](https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/foward/) na versão 1.0 de data 19/01/2025, produzido por [Júlia Fortunato](https://github.com/julia-fortunato), [Cristiano Morais](https://github.com/CristianoMoraiss) e [Maurício Ferreira](https://github.com/mauricio-araujoo), com revisão de [Ana Catarina Santos](https://github.com/an4catarina).
+- [Backward-From](https://requisitos-de-software.github.io/2024.2-MeuINSS/rastreabilidade/backward-from/) na versão 1.0 de data 19/01/2025, produzido por [Ana Catarina Santos](https://github.com/an4catarina) e [Nicolas Bomfim](https://github.com/nickgehjk) com revisão de [Maurício Ferreira](https://github.com/mauricio-araujoo).
+
 ### Cronograma
 
 A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
@@ -49,12 +50,12 @@ A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
-| 31/01/2025 | Verificação Matriz de Rastreabilidade | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| 31/01/2025 | Verificação Foward-From | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| 31/01/2025 | Verificação Backward-From | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| 31/01/2025 | Adição dos resultados.       | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+|  27/01/2024| Verificação Matriz de Rastreabilidade | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| 27/01/2024 | Verificação Foward-From |[Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino)  |
+| 27/01/2024 | Verificação Backward-From |  [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino)|
+| 27/01/2024| Adição dos resultados.       |  [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino)|
 
-_Autor: [Víctor Rodrigues](https://github.com/ViictorHugoo), 2025_
+_Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2025_
 
 </center>
 
@@ -148,5 +149,4 @@ _Autores: Equipe do Projeto, 2025._
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
-| `1.1` | 31/01/2025 | Cronograma  | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki) | |
+| `1.0` | 17/01/2025 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)  | [Victor Rodrigues](https://github.com/ViictorHugoo) |

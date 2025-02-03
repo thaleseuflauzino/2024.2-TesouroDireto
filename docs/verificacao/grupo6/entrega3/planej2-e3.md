@@ -1,4 +1,4 @@
-# Planejamento da Verificação da Etapa 2 do Grupo
+# Planejamento da Verificação da Etapa 3 do Grupo
 
 ## Introdução
 
@@ -35,11 +35,11 @@ _Fonte: SOMMERVILLE (2007)._ <a id="anchor_5" href="#REF5"><sup>5</sup></a>
 
 Os artefatos alvos dessa verificação são:
 
-- [Léxicos](../../../modelagem-pt1/lexicos.md) na versão 1.6 de data 11/12/2024, produzido por [Thales Euflauzino](https://github.com/thaleseuflauzino) com revisão de [Maria Helena](https://github.com/MariaCHelena).
-- [Cenários](../../../modelagem-pt1/cenarios.md) na versão 1.8 de data 16/01/2025, produzido por [Victor Rodrigues](https://github.com/ViictorHugoo) e [Maria Helena](https://github.com/ViictorHugoo), com revisão dos mesmos
-- [Casos de Uso](../../../modelagem-pt1/casos-de-uso.md) na versão 1.7 de data 16/01/2025, produzido por [Víctor Schmidt](https://github.com/moonshinerd) com revisão de [Victor Rodrigues](https://github.com/ViictorHugoo).
-- [Validação dos Casos de Uso](../../../modelagem-pt1/validacaoCasodeUso.md) na versão 1.0 de data 06/12/2024, produzido por [Victor Rodrigues](https://github.com/ViictorHugoo) com revisão de [Víctor Schmidt](https://github.com/moonshinerd).
-- [Especificação Suplementar](../../../modelagem-pt1/especificacao-suplementar.md) na versão 1.8 de data 16/01/2025, produzido por [Maria Helena](https://github.com/MariaCHelena) e [Júlia Takaki](https://github.com/juliatakaki), com revisão das mesmas.
+- [Léxicos](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/lexicos) na versão 1.3 de data 08/12/2024, produzido por [Todos integrantes](https://requisitos-de-software.github.io/2024.2-MeuINSS/) com revisão de [Nicolas Bomfim](https://github.com/nickgehjk) e [Julia Fortunato](https://github.com/julia-fortunato).
+- [Cenários](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/cenarios/) na versão 1.4 de data 08/12/2024, produzido por [Todos integrantes](https://requisitos-de-software.github.io/2024.2-MeuINSS/), com revisão de [Todos integrantes](https://requisitos-de-software.github.io/2024.2-MeuINSS/).
+- [Casos de Uso](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/casosdeuso/) na versão 1.4 de data 08/12/2024, produzido por [Todos integrantes](https://requisitos-de-software.github.io/2024.2-MeuINSS/) com revisão de [Julia Fortunato](https://github.com/julia-fortunato) e [Ana Catarina](https://github.com/an4catarina).
+- [Validação dos Casos de Uso](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/validacaoCasodeUso/) na versão 1.0 de data 08/12/2024, produzido por [Julia Fortunato](https://github.com/julia-fortunato) com revisão de [Ana Catarina](https://github.com/an4catarina).
+- [Especificação Suplementar](https://requisitos-de-software.github.io/2024.2-MeuINSS/modelagem_parte1/especificacaosuplementar/) na versão 1.2 de data 08/12/2024, produzido por [Cristiano Morais](https://github.com/CristianoMoraiss), [Maurício Ferreira](https://github.com/mauricio-araujoo) e [Julia Fortunato](https://github.com/julia-fortunato), com revisão de [Julia Fortunato](https://github.com/julia-fortunato), [Ana Catarina](https://github.com/an4catarina) e [Maurício Ferreira](https://github.com/mauricio-araujoo).
 
 
 ### Cronograma
@@ -53,14 +53,14 @@ A tabela 1 a seguir, apresenta o cronograma das atividades a serem realizadas.
 
 | Data       | Descrição                    | Responsável                                 |
 | ---------- | ---------------------------- | ------------------------------------------- |
-| 31/01/2025 | Verificação Léxicos | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| 31/01/2025 | Verificação Cenários | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| 31/01/2025 | Verificação Casos de Uso | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| 31/01/2025 | Verificação Validação dos Casos de Uso | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| 31/01/2025 | Verificação Especificação Suplementar | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
-| 31/01/2025 | Adição dos resultados.       | [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo) |
+| 27/01/2024 | Verificação Léxicos | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+|27/01/2024  | Verificação Cenários | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| 27/01/2024 | Verificação Casos de Uso |[Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino)  |
+| 27/01/2024 | Verificação Validação dos Casos de Uso | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| 27/01/2024 | Verificação Especificação Suplementar | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| 27/01/2024 | Adição dos resultados.       |  [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino)|
 
-_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2025_
+_Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2025_
 
 </center>
 
@@ -214,5 +214,4 @@ _Autores: Equipe do Projeto, 2025._
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
-| `1.1` | 31/01/2025 | Cronograma  | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki) | |
+| `1.0` | 27/01/2025 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
