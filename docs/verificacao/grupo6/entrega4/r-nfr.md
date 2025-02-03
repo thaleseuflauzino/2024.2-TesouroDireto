@@ -71,5 +71,5 @@ O link do momento onde fazemos a inspeção dos artefatos da etapa 4 está dispo
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 27/01/2025 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
-| `1.1` | 27/01/2025 | Adição dos Resultados  | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Schmidt](https://github.com/moonshinerd) |
+| `1.0` | 27/01/2025 | Criação do documento  | [Victor Schmidt](https://github.com/moonshinerd) |  |
+| `1.1` | 27/01/2025 | Adição dos Resultados  | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Schmidt](https://github.com/moonshinerd) | [Victor Rodrigues](https://github.com/ViictorHugoo) |

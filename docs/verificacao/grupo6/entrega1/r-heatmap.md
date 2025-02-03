@@ -54,4 +54,4 @@ Meu INSS. Heatmap, disponível em: https://requisitos-de-software.github.io/2024
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 27/01/2025 | Criação do documento  | [Victor Schmidt](https://github.com/moonshinerd) |  |
-| `1.1` | 27/01/2025 | Adição dos Resultados  | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Schmidt](https://github.com/moonshinerd) |  |
+| `1.1` | 27/01/2025 | Adição dos Resultados  | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Victor Schmidt](https://github.com/moonshinerd) | [Victor Rodrigues](https://github.com/ViictorHugoo) |

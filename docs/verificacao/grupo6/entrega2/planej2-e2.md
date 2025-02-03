@@ -298,6 +298,6 @@ _Autores: Equipe do Projeto, 2025._
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 27/01/2025 | Criação do documento  | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+| `1.0` | 27/01/2025 | Criação do documento  | [Victor Schmidt](https://github.com/moonshinerd) e [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 
 

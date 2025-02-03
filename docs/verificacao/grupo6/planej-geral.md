@@ -65,4 +65,4 @@ _Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino)_
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 02/02/2025 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) |  |
+| `1.0` | 02/02/2025 | Criação do documento  | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
