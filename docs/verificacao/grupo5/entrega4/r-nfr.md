@@ -24,36 +24,52 @@ Os dados serão organizados e apresentados em formato de checklist na tabela 1, 
 
 |        ID        | Descrição                                                                                                           | Avaliação  |
 | :--------------: | ------------------------------------------------------------------------------------------------------------------- | :--------: | 
-| 1 | O histórico de versão padronizado? | - |
-| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | - |
-| 3 | Referências bibliográficas e/ou bibliografia do artefato? | - |
-| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | - |
-| 5 | Um texto fazendo uma introdução do artefatos? | - |
-| 6 | Os requisitos não funcionais foram representados como softgoals no modelo? | - |
-| 7 | A definição do RNF e as fontes de evidência na literatura? | - |
-| 8 | Há cartão de especificação do RNF? | - |
-| 9 | Os softgoals condizem com o contexto? | - |
-| 10 | Softgoals representam metas bem definidas? | - |
-| 11 | Os impactos foram corretamente propagados? | - |
-| 12 | Os operadores de decomposição (e.g., AND, OR) foram utilizados para detalhar os softgoals? | - |
-| 13 | Conflitos entre requisitos não funcionais foram identificados e estratégias de mitigação documentadas? | - |
-| 14 | Os softgoals foram divididos em tipos (NFR, Operacionalização ou Afirmação)? | - |
-| 15 | Os softgoals foram decompostos em sub-softgoals mais específicos, quando necessário? | - |
-| 16 | Os refinamentos (decomposição, operacionalização, afirmação) foram aplicados corretamente? | - |
-| 17 | O NFR ajuda os desenvolvedores a implementar soluções personalizadas baseadas nas características do domínio e do sistema em questão? | - |
-| 18 | Os catálogos organizam o conhecimento sobre requisitos funcionais específicos, interdependências e trade-offs? | - |
-| 19 | No softgoal NFR (nuvens claras), softgoals de operacionalização (nuvens com linhas grossas) e no softgoal de afirmação (nuvens com linhas tracejadas) seguem o padrão? | - |
-| 20 | O NFR Framework é focado nos requisitos não funcionais? | - |
-| 21 | O NFR Framework tem os 3 tipos de softgoal? | - |
-| 22 | Os softgoals foram avaliados? | - |
+| 1 | O histórico de versão padronizado? | Sim |
+| 2 | O(s) autor(es) e o(s) revisor(es) para o artefato? | Sim |
+| 3 | Referências bibliográficas e/ou bibliografia do artefato? | Sim |
+| 4 | As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim |
+| 5 | Um texto fazendo uma introdução do artefatos? | Sim |
+| 6 | Os requisitos não funcionais foram representados como softgoals no modelo? | Sim |
+| 7 | Há definição do NFR e as fontes de evidência na literatura? | Sim |
+| 8 | Há cartão de especificação do NFR? | Sim |
+| 9 | Os softgoals condizem com o contexto? | Sim |
+| 10 | Softgoals representam metas bem definidas? | Sim |
+| 11 | Os impactos foram corretamente propagados? | Sim |
+| 12 | Os operadores de decomposição (e.g., AND, OR) foram utilizados para detalhar os softgoals? | Sim |
+| 13 | Conflitos entre requisitos não funcionais foram identificados e estratégias de mitigação documentadas? | Não se aplica |
+| 14 | Os softgoals foram divididos em tipos (NFR, Operacionalização ou Afirmação)? | Incompleto |
+| 15 | Os softgoals foram decompostos em sub-softgoals mais específicos, quando necessário? | Sim |
+| 16 | Os refinamentos (decomposição, operacionalização, afirmação) foram aplicados corretamente? | Sim |
+| 17 | O NFR ajuda os desenvolvedores a implementar soluções personalizadas baseadas nas características do domínio e do sistema em questão? | Sim |
+| 18 | Os catálogos organizam o conhecimento sobre requisitos funcionais específicos, interdependências e trade-offs? | Sim |
+| 19 | O softgoals NFR (nuvens claras), softgoals de operacionalização (nuvens com linhas grossas) e no softgoal de afirmação (nuvens com linhas tracejadas) seguem o padrão? | Sim |
+| 20 | O NFR Framework é focado nos requisitos não funcionais? | Sim |
+| 21 | O NFR Framework tem os 3 tipos de softgoal? | Não se aplica |
+| 22 | Os softgoals foram avaliados? | Sim |
 
 _Autores: Equipe do Projeto, 2024._
 
 </center>
 
+### Gravação da Inspeção 
+
+Toda a inspeção e o preenchimento da lista de verificação foram gravados e podem ser vistos no Vídeo 1.
+
+<center>
+
+**Vídeo 1** - Verificação por Inspeção.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3gw7qIcnbcg?si=tHTTepf2b6gvnvw7&amp;start=4339" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2025_
+
+</center>
+
 ## Problemas encontrados
 
-Não foram encontrados problemas no artefato.
+- ID 13 - Não há conflitos entre os requisitos.
+- ID 14 - Faltou uma legenda/imagem para representar qual softgoal era de qual tipo.
+- ID 21 - O grupo não julgou necessário a existência de softgoals dos 3 tipos.
 
 ## Bibliografia
 
@@ -63,4 +79,5 @@ Não foram encontrados problemas no artefato.
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
+| `1.0` | 27/01/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Julia Takaki](https://github.com/juliatakaki) |
+| `1.1` | 31/01/2025 | Adição de resultados  | [Victor Rodrigues](https://github.com/ViictorHugoo) e [Julia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
