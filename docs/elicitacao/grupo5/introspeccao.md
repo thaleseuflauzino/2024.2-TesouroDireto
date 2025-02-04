@@ -6,10 +6,10 @@ Este artefato tem como objetivo realizar uma introspecção para a elicitação 
 
 ## Metodologia
 
-A técnica de introspecção foi aplicada individualmente por [Víctor Schmidt](https://github.com/moonshinerd) no período de 09/11/2024 a 16/11/2024. Após essa etapa, os requisitos identificados foram organizados em duas tabelas: Tabela 1 para Requisitos Funcionais e Tabela 2 para Requisitos Não-Funcionais. Concluído o levantamento, revisamos o aplicativo do Tesouro Direto selecionado pelo grupo, verificando a presença ou ausência dos requisitos elicitados.
+A técnica de introspecção foi aplicada individualmente por [Víctor Schmidt](https://github.com/moonshinerd) no período de 09/11/2024 a 16/11/2024. Na visão de um usuário fictício, ou seja, difere de um usuário real. Após essa etapa, os requisitos identificados foram organizados em duas tabelas: Tabela 1 para Requisitos Funcionais e Tabela 2 para Requisitos Não-Funcionais. Concluído o levantamento, revisamos o aplicativo do Tesouro Direto selecionado pelo grupo, verificando a presença ou ausência dos requisitos elicitados.
 
 ### Introspecção do Autor
-Para aplicar essa metodologia, imaginei-me em uma situação onde eu, como usuário, desejasse investir no Tesouro Direto e acessasse o aplicativo para realizar essa tarefa. Sem visualizar o aplicativo, procurei listar todas as funções essenciais que ele deveria oferecer para tornar o processo de investimento mais simples e eficiente. Além disso, considerei as dificuldades comuns que um investidor iniciante poderia enfrentar e como o aplicativo deveria abordar esses desafios, proporcionando soluções intuitivas e funcionais.
+Para aplicar essa metodologia, imaginei-me em uma situação onde eu, como usuário fictício, desejasse investir no Tesouro Direto e acessasse o aplicativo para realizar essa tarefa. Sem visualizar o aplicativo, procurei listar todas as funções essenciais que ele deveria oferecer para tornar o processo de investimento mais simples e eficiente. Além disso, considerei as dificuldades comuns que um investidor iniciante poderia enfrentar e como o aplicativo deveria abordar esses desafios, proporcionando soluções intuitivas e funcionais.
 
 Esse processo de introspecção para elicitação de requisitos consiste justamente em colocar-se no lugar do usuário sem a referência visual direta do produto, buscando compreender quais funcionalidades (tanto funcionais quanto não funcionais) são fundamentais. No contexto do aplicativo do [Tesouro Direto](https://www.tesourodireto.com.br/), essa abordagem me permitiu estruturar uma visão clara dos recursos necessários, levando em conta a experiência do usuário e o conhecimento prévio de funcionalidades encontradas em aplicativos semelhantes.
 
@@ -83,3 +83,4 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 15/11/2024  | Estruturação Inicial | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.1` | 12/12/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)| 
+| `1.2` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) |   | 

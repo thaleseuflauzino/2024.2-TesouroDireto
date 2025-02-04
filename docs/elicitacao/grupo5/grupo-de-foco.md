@@ -10,6 +10,7 @@ A técnica do Grupo de Foco foi empregada para conduzir a análise. A reunião c
 
 <br>
 <center>
+
 **Tabela 1** - Nome completo e idade dos participantes.
 
 | Nome   | Idade |
@@ -18,7 +19,7 @@ A técnica do Grupo de Foco foi empregada para conduzir a análise. A reunião c
 | Victor Hugo dos Santos Bernardes | 23 |
 | Marcos Augusto Oliveira Goulart | 20 |
 
-_Autor: Elaborado por [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024_
+_Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024_
 
 </center>
 
@@ -89,12 +90,20 @@ Para abrir o documento completo do termo de consentimento, [clique aqui](../../.
 
 ## Requisitos coletados
 
-##### Legenda das Tabelas:
-- **RFx**: Requisito Funcional número x;
-- **RNFx**: Requisito Não Funcional número x;
-- **GFx**: Requisito do grupo de foco número x;
+As tabelas 2 e 3, apresentadas a seguir, descrevem os requisitos funcionais e também os não-funcionais que foram elicitados.
+
+**Legenda das Tabelas:**
+
+> **RFx**: Requisito Funcional número x;
+> 
+> **RNFx**: Requisito Não Funcional número x;
+> 
+> **GFx**: Requisito do grupo de foco número x;
 
 ### Requisitos Funcionais
+<center>
+
+**Tabela 2** - Requisitos Funcionais
 
 | Tipo   | Descrição                                                                 | ID   | Elaborado (Sim/Não) |
 |--------|---------------------------------------------------------------------------|------|---------------------|
@@ -104,7 +113,15 @@ Para abrir o documento completo do termo de consentimento, [clique aqui](../../.
 | RF4   | O aplicativo deverá possuir uma ferramenta para comparar o investimento escolhido com outros tipos de investimento.  | <a id="anchor_GF04""></a>GF04 | Não   |
 | RF5   | O aplicativo deverá possuir a funcionalidade de alternar entre modo claro e escuro. | <a id="anchor_GF05""></a>GF05 | Não   |
 
+_Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024_
+
+</center>
+
 ### Requisitos não funcionais
+
+<center>
+
+**Tabela 3** - Requisitos Funcionais
 
 | Tipo   | Descrição                                                                 | ID   | Elaborado (Sim/Não) |
 |--------|---------------------------------------------------------------------------|------|---------------------|
@@ -112,6 +129,9 @@ Para abrir o documento completo do termo de consentimento, [clique aqui](../../.
 | RNF2   | O aplicativo deverá ser responsivo para todos os dispositivos mobile. | <a id="anchor_GF07""></a>GF07 | Não   |
 | RNF3   | A navegação no aplicativo deverá ser focada em integrar as funcionalidades do aplicativo de modo intuitivo e compreensivo. | <a id="anchor_GF08""></a>GF08 | Não   |
 
+_Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024_
+
+</center>
 
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) **Interação Humano-Computador e Experiência do usuário.** Cap 7. Autopublicação. ISBN: 978-65-00-19677-1.
@@ -123,3 +143,4 @@ Para abrir o documento completo do termo de consentimento, [clique aqui](../../.
 | `1.0` | 19/11/2024  | Estruturação Inicial | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)   |
 | `1.1` | 21/11/2024  | Elicitação de Requisitos | [Maria Helena](https://github.com/MariaCHelena) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.2` | 12/12/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)| 
+| `1.3` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) |   | 

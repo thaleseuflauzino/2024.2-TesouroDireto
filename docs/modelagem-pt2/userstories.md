@@ -53,7 +53,7 @@ Não somente isso, mas tendo como base o modelo de documentação de histórias 
 
 ## Vídeo 1 - Entrevista com o Product Owner  
 
-Este vídeo apresenta a entrevista conduzida exclusivamente com o _Product Owner_ Adrian. Durante a gravação, Adrian respondeu a diversas perguntas formuladas por nossa equipe, contribuindo para a construção do backlog e para as histórias de usuário.  
+O vídeo 1, apresentado abaixo, contém a entrevista conduzida exclusivamente com o _Product Owner_ Adrian. Durante a gravação, Adrian respondeu a diversas perguntas formuladas por nossa equipe, contribuindo para a construção do backlog e para as histórias de usuário.  
 
 O uso de sua imagem foi previamente autorizado, e sua declaração de consentimento pode ser vista no início do vídeo.  
 
@@ -66,6 +66,8 @@ O uso de sua imagem foi previamente autorizado, e sua declaração de consentime
 _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_  
 
 ## Histórias de Usuário
+
+As tabelas de usuário foram elaboradas seguindo o padrão presente na Tabela 1, e as Tabelas de 2 a 42 são as Histórias de Usuário de fato.
 
 ### <a id="anchor_US01" style="visibility: hidden"></a>US01 - Visualizar a lista de títulos públicos disponíveis
 
@@ -1949,3 +1951,4 @@ _Autor: [Victor Rodrigues](https://github.com/ViictorHugoo)_
 | `1.0`  | 13/12/2024 | Criação do documento | [Maria Helena](https://github.com/MariaCHelena) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.1`  | 15/12/2024 | Adição de US | [Victor Rodrigues](https://github.com/ViictorHugoo), [Maria Helena](https://github.com/MariaCHelena), [Júlia Takaki](https://github.com/juliatakaki), [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Víctor Schmidt](https://github.com/moonshinerd) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.2`  | 17/12/2024 | Adição de novas histórias de usuário | [Maria Helena](https://github.com/MariaCHelena) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.3` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) |   | 
