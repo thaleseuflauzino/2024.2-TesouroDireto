@@ -168,10 +168,10 @@ As tabelas de 2 a 3 apresentam os cronogramas planejados e executados da Entrega
     <tbody>
       <tr>
         <td>Heatmap</td>
-        <td>Victor Rodrigues</td>
-        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
-        <td>22/10</td>
-        <td>22/10</td>
+        <td>Victor Rodrigues e Thales Euflauzino</td>
+        <td>Victor Rodrigues, Victor Schmidt e Thales Euflauzino</td>
+        <td>28/10</td>
+        <td>31/10</td>
       </tr>
       <tr>
         <td>Integrantes da Equipe</td>
@@ -196,10 +196,10 @@ As tabelas de 2 a 3 apresentam os cronogramas planejados e executados da Entrega
       </tr>
       <tr>
         <td>Cronograma Planejado</td>
-        <td>Maria Helena</td>
-        <td>Victor Schmidt</td>
-        <td>23/10</td>
-        <td>24/10</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino e Maria Helena</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
+        <td>28/10</td>
+        <td>02/11</td>
       </tr>
       <tr>
         <td>Lista de Apps Avaliados</td>
@@ -210,8 +210,8 @@ As tabelas de 2 a 3 apresentam os cronogramas planejados e executados da Entrega
       </tr>
       <tr>
         <td>App Escolhido</td>
-        <td>Júlia Takaki e Victor Rodrigues</td>
-        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
+        <td>Júlia Takaki, Thales Euflauzino e Victor Rodrigues</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino</td>
         <td>28/10</td>
         <td>28/10</td>
       </tr>
@@ -224,17 +224,17 @@ As tabelas de 2 a 3 apresentam os cronogramas planejados e executados da Entrega
       </tr>
       <tr>
         <td>Ferramentas Utilizadas para o Projeto</td>
-        <td>Júlia Takaki</td>
-        <td>Victor Rodrigues e Thales Euflauzino</td>
-        <td>23/10</td>
-        <td>28/10</td>
+        <td>Júlia Takaki, Victor Rodrigues e Thales Euflauzino </td>
+        <td>Júlia Takaki, Victor Rodrigues e Thales Euflauzino</td>
+        <td>29/10</td>
+        <td>29/10</td>
       </tr>
       <tr>
         <td>Rich Picture do Projeto</td>
-        <td>Júlia Takaki</td>
-        <td>Thales Euflauzino</td>
-        <td>23/10</td>
-        <td>28/10</td>
+        <td>Júlia Takaki e Thales Euflauzino</td>
+        <td>Thales Euflauzino e Victor Schmidt   </td>
+        <td>29/10</td>
+        <td>02/11</td>
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
