@@ -2,7 +2,7 @@
 
 ## Introdução
 
-No início da disciplina, os integrantes apresentaram [aplicativos candidatos] e justificaram suas escolhas. Posteriormente, cada membro defendeu seu aplicativo sugerido, uma revisão foi realizada com base em critérios específicos para se chegar a um consenso. Este documento resume as motivações dessa escolha.
+No início da disciplina, os integrantes apresentaram [aplicativos candidatos]() e justificaram suas escolhas. Posteriormente, cada membro defendeu seu aplicativo sugerido, uma revisão foi realizada com base em critérios específicos para se chegar a um consenso. Este documento resume as motivações dessa escolha.
 
 ## Critérios para escolha
 
@@ -33,6 +33,18 @@ Para realizar o projeto em conformidade com as normas legais, verificamos os ter
 ## Conclusão
 
 A escolha do Tesouro Direto como aplicativo para o projeto foi estratégica, levando em consideração sua complexidade média, o público-alvo amplo e a oportunidade de explorar funcionalidades relevantes dentro do escopo da disciplina. O Tesouro Direto oferece uma plataforma rica em requisitos funcionais e não funcionais, permitindo ao grupo realizar um estudo aprofundado e abrangente, com potencial para gerar insights valiosos tanto para os integrantes quanto para a área de aplicativos financeiros.
+
+## Bibliografia
+
+> App escolhido
+> 
+> Tesouro Direto. Disponível em: <https://www.tesourodireto.com.br>. Acesso em 28 de outubro de 2024
+>
+> Economia DF
+> 
+> Bilheteria Digital
+
+
 
 ## Histórico de Versões
 
