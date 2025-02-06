@@ -345,4 +345,4 @@ _Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2024_
 | `1.4` | 17/12/2024  | Ajustando fonte e autor |  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd) |
 | `1.5` | 17/12/2024  | Alteração requisitada pelo professor | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Victor Schmidt](https://github.com/moonshinerd) |
 | `1.6` | 16/01/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)|
-| `1.7` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) |   | 
+| `1.7` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)  | 
