@@ -83,4 +83,4 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 15/11/2024  | Estruturação Inicial | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.1` | 12/12/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)| 
-| `1.2` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) |   | 
+| `1.2` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)  | 
