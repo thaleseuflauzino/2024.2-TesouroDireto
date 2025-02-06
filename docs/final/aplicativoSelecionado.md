@@ -2,7 +2,7 @@
 
 ## Introdução
 
-No início da disciplina, os integrantes apresentaram [aplicativos candidatos]() e justificaram suas escolhas. Posteriormente, cada membro defendeu seu aplicativo sugerido, uma revisão foi realizada com base em critérios específicos para se chegar a um consenso. Este documento resume as motivações dessa escolha.
+No início da disciplina, os integrantes apresentaram [aplicativos candidatos](../Planejamento-do-projeto/lista-apps-avaliados.md) e justificaram suas escolhas. Posteriormente, cada membro defendeu seu aplicativo sugerido, uma revisão foi realizada com base em critérios específicos para se chegar a um consenso. Este documento resume as motivações dessa escolha.
 
 ## Critérios para escolha
 
@@ -36,15 +36,14 @@ A escolha do Tesouro Direto como aplicativo para o projeto foi estratégica, lev
 
 ## Bibliografia
 
-> App escolhido
+> Bilheteria Digital - Aplicativo Selecionado. Disponível em: <https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/entrega-final/app-selecionado/>. Acesso em 04 de fevereiro de 2025
 > 
+> Economia DF - Aplicativo Escolhido. Disponível em: <https://requisitos-de-software.github.io/2023.2-Economia-DF/entrega%20final/app_escolhido/>. Acesso em 04 de fevereiro de 2025
+>
+> Tesouro Direto - App escolhido. Disponível em: <https://requisitos-de-software.github.io/2024.2-TesouroDireto/Planejamento-do-projeto/app-escolhido/>. Acesso em 05 de fevereiro de 2025
+>
 > Tesouro Direto. Disponível em: <https://www.tesourodireto.com.br>. Acesso em 28 de outubro de 2024
 >
-> Economia DF
-> 
-> Bilheteria Digital
-
-
 
 ## Histórico de Versões
 
