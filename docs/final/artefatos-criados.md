@@ -41,30 +41,39 @@ Tabela 1 - Artefatos da etapa 1
 <td style="text-align:center"><a href="https://github.com/ViictorHugoo">Victor Rodrigues</a> e <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/">Cronograma</a></td>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/Planejamento-do-projeto/cronograma-planejado/">Cronograma Planejado</a> <br> <a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/Planejamento-do-projeto/cronograma-executado/">Cronograma Executado</a></td>
 <td style="text-align:center">Um cronograma planejado e executado com todas as atividades do projeto.</td>
-<td style="text-align:center"><a href="https://github.com/arthurmlv">Arthur de Melo</a>, <a href="https://github.com/G16C">Gabriel Campello</a>, <a href="https://github.com/manuziny">Geovanna Maciel</a> e <a href="https://github.com/nando3d3">Sidney Fernando</a></td>
-<td style="text-align:center"><a href="https://github.com/dougAlvs">Douglas Alves</a>, <a href="https://github.com/G16C">Gabriel Campello</a> e <a href="https://github.com/nando3d3">Sidney Fernando</a></td>
+<td style="text-align:center"><a href="https://github.com/juliatakaki">Júlia Takaki</a> <br> <a href="https://github.com/MariaCHelena">Maria Helena</a> <br> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br>  <a href="https://github.com/moonshinerd">Víctor Schmidt</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
+<td style="text-align:center"><a href="https://github.com/juliatakaki">Júlia Takaki</a> <br> <a href="https://github.com/MariaCHelena">Maria Helena</a> <br> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br>  <a href="https://github.com/moonshinerd">Víctor Schmidt</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/planejamento/metodologia/">Metodologia</a></td>
-<td style="text-align:center">Metodologia escolhida para o projeto.</td>
-<td style="text-align:center"><a href="https://github.com/arthurmlv">Arthur de Melo</a></td>
-<td style="text-align:center"><a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/Planejamento-do-projeto/heatmap/">Heatmap</a></td>
+<td style="text-align:center">Horário que os membros se encontram disponiveis para se reunir</td>
+<td style="text-align:center"> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a> </td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br> <a href="https://github.com/moonshinerd">Víctor Schmidt</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
 </tr>
 <tr>
-<td style="text-align:center"><strong>Pré-Rastreabilidade</strong></td>
-</tr>
-<tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/pre-rastreabilidade/rich_picture/">Rich Picture</a></td>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/Planejamento-do-projeto/rich-picture/">Rich Picture</a></td>
 <td style="text-align:center">Ferramenta visual para expressar ideias e analisar problemas.</td>
-<td style="text-align:center"><a href="https://github.com/dougAlvs">Douglas Alves</a> e <a href="https://github.com/nando3d3">Sidney Fernando</a></td>
-<td style="text-align:center"><a href="https://github.com/dougAlvs">Douglas Alves</a> e <a href="https://github.com/mathonaut">Matheus Henrique</a></td>
+<td style="text-align:center"><a href="https://github.com/juliatakaki">Júlia Takaki</a> <br> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br> <a href="https://github.com/moonshinerd">Víctor Schmidt</a> </td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/Planejamento-do-projeto/lista-apps-avaliados/">Lista de Apps Avaliados</a></td>
+<td style="text-align:center">Lista de Aplicativos considerados para o projeto.</td>
+<td style="text-align:center"><a href="https://github.com/juliatakaki">Júlia Takaki</a> <br> <a href="https://github.com/MariaCHelena">Maria Helena</a> <br> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br>  <a href="https://github.com/moonshinerd">Víctor Schmidt</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br>  <a href="https://github.com/moonshinerd">Víctor Schmidt</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/Planejamento-do-projeto/app-escolhido/">App Escolhido</a></td>
+<td style="text-align:center">Definição do aplicativo escolhido e motivação.</td>
+<td style="text-align:center"><a href="https://github.com/juliatakaki">Júlia Takaki</a>  <br> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br>  <a href="https://github.com/moonshinerd">Víctor Schmidt</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/mathonaut'>Matheus Henrique</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Autor: <a href='https://github.com/moonhinerd'>Víctor Schmidt.</a></font>
 
 </center>
 
@@ -91,75 +100,87 @@ Tabela 2 - Artefatos da etapa 2
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/perfil_de_usuario/">Perfil de Usuário</a></td>
-<td style="text-align:center">Perfil genérico definido aos usuário do aplicativo.</td>
-<td style="text-align:center"><a href="https://github.com/G16C">Gabriel Campello</a>, <a href="https://github.com/mathonaut">Matheus Henrique</a> e <a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
-<td style="text-align:center"><a href="https://github.com/manuziny">Geovanna Maciel</a>, <a href="https://github.com/mathonaut">Matheus Henrique</a> e <a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/definicao-perfil_de_usuario/perfil-usuario/">Perfil de Usuário</a></td>
+<td style="text-align:center">Perfil genérico definido aos usuários do aplicativo.</td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
+<td style="text-align:center"><a href="https://github.com/juliatakaki">Júlia Takaki</a> <br> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/personas/">Personas</a></td>
-<td style="text-align:center">Personagens fictícias criadas para representar os usuários do aplicativo.</td>
-<td style="text-align:center"><a href="https://github.com/manuziny">Geovanna Maciel</a>, <a href="https://github.com/mathonaut">Matheus Henrique</a> e <a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
-<td style="text-align:center"><a href="https://github.com/dougAlvs">Douglas Alves</a>, <a href="https://github.com/manuziny">Geovanna Maciel</a>,  <a href="https://github.com/mathonaut">Matheus Henrique</a> e <a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/definicao-perfil_de_usuario/questionario/">Questionário</a></td>
+<td style="text-align:center">Questionário aplicado a usuários do aplicativo.</td>
+<td style="text-align:center"><a href="https://github.com/juliatakaki">Júlia Takaki</a> <br> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
+<td style="text-align:center"><a href="https://github.com/juliatakaki">Júlia Takaki</a> <br> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/personas/">Personas</a></td>
+<td style="text-align:center">Personagens fictícias feitas para se parecer com os usuários do aplicativo.</td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
 </tr>
 <tr>
 <td style="text-align:center"><strong>Técnicas</strong></td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/introspeccao/">Introspecção</a></td>
-<td style="text-align:center">A introspecção é uma técnica de elicitação de requisitos.</td>
-<td style="text-align:center"><a href="https://github.com/arthurmlv">Arthur de Melo</a> e <a href="https://github.com/G16C">Gabriel Campello</a></td>
-<td style="text-align:center"><a href="https://github.com/arthurmlv">Arthur de Melo</a>, <a href="https://github.com/G16C">Gabriel Campello</a>, <a href="https://github.com/mathonaut">Matheus Henrique</a>, <a href="https://github.com/RafaelCLG0">Rafael Ferreira</a> e <a href="https://github.com/nando3d3">Sidney Fernando</a></td>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/introspeccao">Introspecção</a></td>
+<td style="text-align:center">A introspecção é uma das técnica de elicitação de requisitos.</td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br>  <a href="https://github.com/moonshinerd">Víctor Schmidt</a></td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br>  <a href="https://github.com/moonshinerd">Víctor Schmidt</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/questionario/">Questionário</a></td>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/grupo-de-foco/">Grupo de Foco</a></td>
+<td style="text-align:center">Técnica de elicitação de requisitos feita com usuários.</td>
+<td style="text-align:center"><a href="https://github.com/MariaCHelena">Maria Helena</a> <br> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br>  <a href="https://github.com/moonshinerd">Víctor Schmidt</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/brainstorm/">Brainstorming</a></td>
 <td style="text-align:center">Técnica de elicitação de requisitos.</td>
-<td style="text-align:center"><a href="https://github.com/arthurmlv">Arthur de Melo</a>, <a href="https://github.com/dougAlvs">Douglas Alves</a>, <a href="https://github.com/RafaelCLG0">Rafael Ferreira</a> e <a href="https://github.com/nando3d3">Sidney Fernando</a></td>
-<td style="text-align:center"><a href="https://github.com/dougAlvs">Douglas Alves</a>, <a href="https://github.com/RafaelCLG0">Rafael Ferreira</a> e <a href="https://github.com/nando3d3">Sidney Fernando</a></td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br>  <a href="https://github.com/moonshinerd">Víctor Schmidt</a></td>
+<td style="text-align:center"><a href="https://github.com/MariaCHelena">Maria Helena</a> <br> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br>  <a href="https://github.com/moonshinerd">Víctor Schmidt</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/brainstorming/">Brainstorming</a></td>
-<td style="text-align:center">Técnica de elicitação de requisitos.</td>
-<td style="text-align:center"><a href="https://github.com/arthurmlv">Arthur de Melo</a>, <a href="https://github.com/G16C">Gabriel Campello</a>, <a href="https://github.com/manuziny">Geovanna Maciel</a> e <a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
-<td style="text-align:center"><a href="https://github.com/dougAlvs">Douglas Alves</a> e <a href="https://github.com/manuziny">Geovanna Maciel</a></td>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/glossario/">Glossário</a></td>
+<td style="text-align:center">Um dicionário de palavras importantes para o projeto.</td>
+<td style="text-align:center"><a href="https://github.com/juliatakaki">Júlia Takaki</a> <br> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br>  <a href="https://github.com/moonshinerd">Víctor Schmidt</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/tecnicas/observacao/">Observação</a></td>
-<td style="text-align:center">Técnica de elicitação de requisitos.</td>
-<td style="text-align:center"><a href="https://github.com/arthurmlv">Arthur de Melo</a> e <a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
-<td style="text-align:center"><a href="https://github.com/dougAlvs">Douglas Alves</a>, <a href="https://github.com/G16C">Gabriel Campello</a>, <a href="https://github.com/manuziny">Geovanna Maciel</a> e <a href="https://github.com/nando3d3">Sidney Fernando</a></td>
-</tr>
-<tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/requisitos_elicitados/">Requisitos Elicitados</a></td>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/requisitos/">Requisitos Elicitados</a></td>
 <td style="text-align:center">Requisitos elicitados em uma tabela geral.</td>
-<td style="text-align:center"><a href="https://github.com/arthurmlv">Arthur de Melo</a>, <a href="https://github.com/mathonaut">Matheus Henrique</a> e <a href="https://github.com/nando3d3">Sidney Fernando</a></td>
-<td style="text-align:center"><a href="https://github.com/dougAlvs">Douglas Alves</a>, <a href="https://github.com/mathonaut">Matheus Henrique</a> e <a href="https://github.com/nando3d3">Sidney Fernando</a></td>
+<td style="text-align:center"><a href="https://github.com/MariaCHelena">Maria Helena</a> <br> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br>  <a href="https://github.com/moonshinerd">Víctor Schmidt</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
+<td style="text-align:center"> <a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a> <br>  <a href="https://github.com/moonshinerd">Víctor Schmidt</a> <br> <a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
 </tr>
 <tr>
 <td style="text-align:center"><strong>Priorização</strong></td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/priorizacao/100/">$100</a></td>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/priorizacao/100%24/">$100</a></td>
 <td style="text-align:center">Técnica de priorização de requisitos.</td>
-<td style="text-align:center"><a href="https://github.com/arthurmlv">Arthur de Melo</a></td>
-<td style="text-align:center"><a href="https://github.com/manuziny">Geovanna Maciel</a> e <a href="https://github.com/nando3d3">Sidney Fernando</a></td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></td>
+<td style="text-align:center"><a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/priorizacao/firstThingsfirst/">First Things First</a></td>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/priorizacao/inorout/">In ou Out</a></td>
 <td style="text-align:center">Técnica de priorização de requisitos.</td>
-<td style="text-align:center"><a href="https://github.com/arthurmlv">Arthur de Melo</a>, <a href="https://github.com/mathonaut">Matheus Henrique</a>, <a href="https://github.com/RafaelCLG0">Rafael Ferreira</a> e <a href="https://github.com/nando3d3">Sidney Fernando</a></td>
-<td style="text-align:center"><a href="https://github.com/dougAlvs">Douglas Alves</a>, <a href="https://github.com/mathonaut">Matheus Henrique</a> e <a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></td>
+<td style="text-align:center"><a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/elicitacao/priorizacao/threeLvlScale/">Three Level Scale</a></td>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/priorizacao/threelevelscale/">Three Level Scale</a></td>
 <td style="text-align:center">Técnica de priorização de requisitos.</td>
-<td style="text-align:center"><a href="https://github.com/arthurmlv">Arthur de Melo</a>, <a href="https://github.com/dougAlvs">Douglas Alves</a> e <a href="https://github.com/RafaelCLG0">Rafael Ferreira</a></td>
-<td style="text-align:center"><a href="https://github.com/dougAlvs">Douglas Alves</a>, <a href="https://github.com/G16C">Gabriel Campello</a> e <a href="https://github.com/manuziny">Geovanna Maciel</a></td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></td>
+<td style="text-align:center"><a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/priorizacao/cronograma/">Cronograma de Priorização</a></td>
+<td style="text-align:center">Planejamento das técnica de priorização de requisitos.</td>
+<td style="text-align:center"><a href="https://github.com/thaleseuflauzino">Thales Euflauzino</a></td>
+<td style="text-align:center"><a href="https://github.com/ViictorHugoo">Victor Rodrigues</a></td>
 </tr>
 </tbody>
 </table>
 
-<font>Fonte: <a href='https://github.com/mathonaut'>Matheus Henrique</a> e <a href='https://github.com/RafaelCLG0'>Rafael Ferreira</a>.</font>
+<font>Autor: <a href='https://github.com/moonshinerd'>Víctor Schmidt</a>.</font>
 
 </center>
 
