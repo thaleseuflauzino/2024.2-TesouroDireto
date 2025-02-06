@@ -1,4 +1,4 @@
-site_name: ""
+site_name: "Grupo 5 - Tesouro Direto"
 repo_url: https://github.com/Requisitos-de-Software/2024.2-Grupo05
       
 extra_css:
@@ -154,7 +154,10 @@ nav:
     - Backward-From:  pos-rastreabilidade/backward-from.md
     - Forward-From:  pos-rastreabilidade/forward-from.md
   - Entrega Final: 
+    - Execução do Projeto: final/execucao.md
     - Aplicativo Selecionado: final/aplicativoSelecionado.md
+    - Planejamento dos Recursos e Entregas: final/recursosEntregas.md
+
 theme:
   logo: assets/header-logo-tesourodireto.png
   name: material
