@@ -85,4 +85,4 @@ Após uma análise dos conceitos relacionados ao domínio dos investimentos e t�
 | `1.0`  | 21/11/2024 | Criação do documento.              | [Júlia Takaki](https://github.com/juliatakaki) |[Thales Euflauzino](https://github.com/thaleseuflauzino)|
 | `1.1`  | 21/11/2024 | Ajustes fonte para autor e na bibliografia | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.2` | 12/12/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)| 
-| `1.3` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) |   | 
+| `1.3` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)  | 
