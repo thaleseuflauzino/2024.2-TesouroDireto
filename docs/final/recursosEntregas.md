@@ -368,17 +368,17 @@ As tabelas de 4 a 5 apresentam os cronogramas planejados e executados da Entrega
     <tbody>
       <tr>
         <td>Definições de personas e perfis de usuário</td>
-        <td>Victor Rodrigues</td>
-        <td>Thales Euflauzino</td>
+        <td>Victor Rodrigues e Thales Euflauzino</td>
+        <td>Thales Euflauzino e Júlia Takaki</td>
         <td>19/11</td>
-        <td>20/11</td>
+        <td>23/11</td>
       </tr>
       <tr>
         <td>Definição das técnicas de elicitação de priorização que serão utilizadas no projeto</td>
-        <td>Maria Helena</td>
-        <td>Júlia Takaki</td>
-        <td>15/11</td>
-        <td>16/11</td>
+        <td>Victor Rodrigues e Victor Schmidt</td>
+        <td>Thales Euflauzino</td>
+        <td>12/11</td>
+        <td>12/11</td>
       </tr>
       <tr>
         <td>Introspecção para a elicitação dos requisitos</td>
@@ -389,22 +389,22 @@ As tabelas de 4 a 5 apresentam os cronogramas planejados e executados da Entrega
       </tr>
       <tr>
         <td>Criação dos questionários</td>
-        <td>Júlia Takaki</td>
-        <td>Thales Euflauzino</td>
+        <td>Júlia Takaki, Thales Euflauzino e Victor Rodrigues</td>
+        <td>Thales Euflauzino e Júlia Takaki</td>
         <td>18/11</td>
         <td>20/11</td>
       </tr>
       <tr>
         <td>Grupo de Foco para elicitação de requisitos</td>
         <td>Thales Euflauzino, Maria Helena e Victor Schmidt</td>
-        <td>Thales Euflauzino</td>
-        <td>20/11</td>
-        <td>20/11</td>
+        <td>Thales Euflauzino, Victor Schmidt e Victor Rodrigues</td>
+        <td>19/11</td>
+        <td>21/11</td>
       </tr>
       <tr>
         <td>Brainstorming</td>
-        <td>Víctor Schmidt</td>
-        <td>Thales Euflauzino e Maria Helena</td>
+        <td>Víctor Schmidt, Thales Euflauzino e Victor Rodrigues</td>
+        <td>Thales Euflauzino</td>
         <td>18/11</td>
         <td>20/11</td>
       </tr>
@@ -433,8 +433,8 @@ As tabelas de 4 a 5 apresentam os cronogramas planejados e executados da Entrega
       <td>Revisão pós apresentação</td>
         <td>Maria Helena</td>
         <td>Victor Schmidt</td>
-        <td> - </td>
-        <td> - </td>
+        <td> 12/12 </td>
+        <td> 12/12 </td>
       </tr>
     </tbody>
   </table>
@@ -527,31 +527,31 @@ As tabelas de 6 a 7 apresentam os cronogramas planejados e executados da Entrega
     <tbody>
       <tr>
         <td>Modelagem de Requisitos: Cenários</td>
-        <td>Victor Rodrigues e Maria Helena</td>
-        <td>Thales Euflauzino</td>
+        <td>Victor Rodrigues, Thales Euflauzino e Victor Schmidt</td>
+        <td>Thales Euflauzino, Victor Schmidt e Victor Rodrigues</td>
         <td>01/12</td>
-        <td>03/12</td>
+        <td>01/12</td>
       </tr>
       <tr>
         <td>Modelagem de Requisitos: Léxicos</td>
-        <td>Thales Euflauzino</td>
-        <td>Maria Helena</td>
+        <td>Thales Euflauzino e Victor Schmidt</td>
+        <td>Thales Euflauzino e Victor Schmidt</td>
         <td>28/11</td>
-        <td>30/11</td>
+        <td>28/11</td>
       </tr>
       <tr>
         <td>Modelagem de Requisitos: Use Cases</td>
-        <td>Victor Schmidt e Victor Rodrigues</td>
-        <td>Júlia Takaki</td>
+        <td>Thales Euflauzino, Victor Schmidt e Victor Rodrigues</td>
+        <td>Victor Rodrigues, Thales Euflauzino e Victor Schmidt</td>
         <td>06/12</td>
         <td>07/12</td>
       </tr>
       <tr>
         <td>Modelagem de Requisitos: Especificação Suplementar</td>
-        <td>Júlia Takaki e Maria Helena</td>
-        <td>Victor Schmidt</td>
-        <td>06/12</td>
+        <td>Victor Rodrigues, Thales Euflauzino e Victor Schmidt</td>
+        <td>Thales Euflauzino e Victor Schmidt</td>
         <td>07/12</td>
+        <td>10/12</td>
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
@@ -651,22 +651,22 @@ As tabelas de 8 a 9 apresentam os cronogramas planejados e executados da Entrega
     <tbody>
       <tr>
         <td>Modelagem de Requisitos - Ágil: Histórias de Usuário</td>
-        <td>Victor Rodrigues e Maria Helena</td>
-        <td>Victor Schmidt</td>
+        <td>Victor Rodrigues, Maria Helena, Júlia Takaki, Thales Euflauzino e Víctor Schmidt</td>
+        <td>Victor Schmidt e Victor Rodrigues</td>
         <td>13/12</td>
         <td>17/12</td>
       </tr>
       <tr>
         <td>Modelagem de Requisitos - Ágil: Backlogs</td>
-        <td>Victor Schmidt e Thales Euflauzino</td>
-        <td>Maria Helena e Victor Rodrigues</td>
+        <td>Victor Rodrigues, Maria Helena, Júlia Takaki, Thales Euflauzino e Víctor Schmidt</td>
+        <td>Victor Rodrigues, Maria Helena, Thales Euflauzino e Víctor Schmidt</td>
         <td>11/12</td>
         <td>14/12</td>
       </tr>
       <tr>
         <td>Modelagem de Requisitos - Ágil: NFR Framework</td>
-        <td> Júlia Takaki e Victor Rodrigues</td>
-        <td>Victor Schmidt e Thales Euflauzino</td>
+        <td>Victor Rodrigues, Maria Helena, Júlia Takaki, Thales Euflauzino e Víctor Schmidt</td>
+        <td>Victor Rodrigues, Thales Euflauzino e Víctor Schmidt</td>
         <td>11/12</td>
         <td>17/12</td>
       </tr>
@@ -681,8 +681,8 @@ As tabelas de 8 a 9 apresentam os cronogramas planejados e executados da Entrega
       <td>Revisão pós apresentação</td>
         <td>Maria Helena</td>
         <td>Júlia Takaki</td>
-        <td> - </td>
-        <td> - </td>
+        <td> 16/01 </td>
+        <td> 16/01 </td>
       </tr>
     </tbody>
   </table>
@@ -768,36 +768,36 @@ As tabelas de 10 a 11 apresentam os cronogramas planejados e executados da Entre
     <tbody>
       <tr>
         <td>Verificação dos Requisitos</td>
-        <td>Maria Helena e Júlia Takaki</td>
-        <td>Victor Rodrigues</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Victor Rodrigues, Júlia Takaki, Thales Euflauzino e Víctor Schmidt</td>
+        <td>Victor Rodrigues, Júlia Takaki, Thales Euflauzino e Víctor Schmidt</td>
+        <td>26/01</td>
+        <td>02/02</td>
       </tr>
       <tr>
         <td>Validação dos Requisitos</td>
-        <td>Thales Euflauzino e Victor Schmidt</td>
-        <td>Maria Helena</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Victor Rodrigues, Júlia Takaki, Thales Euflauzino e Víctor Schmidt</td>
+        <td>Victor Rodrigues, Júlia Takaki, Thales Euflauzino e Víctor Schmidt</td>
+        <td>26/01</td>
+        <td>02/02</td>
       </tr>
       <tr>
         <td>Inspeção de todos os artefatos</td>
-        <td>Victor Rodrigues</td>
-        <td>Thales Euflauzino</td>
-        <td>-</td>
-        <td>-</td>
+        <td>Victor Rodrigues, Júlia Takaki, Thales Euflauzino e Víctor Schmidt</td>
+        <td>TVictor Rodrigues, Júlia Takaki, Thales Euflauzino e Víctor Schmidt</td>
+        <td>26/01</td>
+        <td>02/02</td>
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
         <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
         <td>Júlia Takaki</td>
-        <td>-</td>
-        <td>-</td>
+        <td>02/02</td>
+        <td>02/02</td>
       </tr>
       <tr>
       <td>Revisão pós apresentação</td>
-        <td>Victor Schmidt</td>
-        <td>Julia Takaki</td>
+        <td>Thales Euflauzino</td>
+        <td> - </td>
         <td> - </td>
         <td> - </td>
       </tr>
@@ -1017,8 +1017,14 @@ As tabelas de 14 a 15 apresentam os cronogramas planejados e executados da Entre
 ## Bibliografia
 
 
+>Tesouro Direto - Cronograma Executado. Disponível em: <https://requisitos-de-software.github.io/2024.2-TesouroDireto/Planejamento-do-projeto/cronograma-executado/>. Acesso em 05 de fevereiro de 2025
+>
+>Tesouro Direto - Cronograma Planejado. Disponível em: <https://requisitos-de-software.github.io/2024.2-TesouroDireto/Planejamento-do-projeto/cronograma-planejado/>. Acesso em 05 de fevereiro de 2025
+>
+
 ## Histórico de Versões
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 04/02/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
+| `1.1` | 05/02/2025 | Correção de Data e Bibliografia  | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
