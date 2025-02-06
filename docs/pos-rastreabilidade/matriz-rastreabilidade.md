@@ -89,4 +89,4 @@ _Autor: [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino
 |`1.0`|14/01/2025| Criação e ajuste do Documento |[Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino)|
 |`1.1`|16/01/2025| Hyperlinks |[Victor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |
 |`1.2`|16/01/2025| Adicionando a rastreabilidade para as técnicas de elicitação |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)|
-| `1.3` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) |   | 
+| `1.3` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)  | 
