@@ -6,7 +6,7 @@ No início da disciplina, os integrantes apresentaram [aplicativos candidatos](.
 
 ## Critérios para escolha
 
-- Aplicativo não foi utlizidado em projetos anteriores na matéria; 
+- Aplicativo não foi utilizado em projetos anteriores na matéria; 
 - Comunidade open source ou do governo;
 - Facilidade de contato com o público alvo;
 - Complexidade do aplicativo;
@@ -49,4 +49,4 @@ A escolha do Tesouro Direto como aplicativo para o projeto foi estratégica, lev
 
 | Versão  | Data | Descrição | Autor(es) | Revisor(es) |
 | -------- | ------ | ------ | ---------- | ---------- |
-| `1.0` | 04/02/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
+| `1.0` | 04/02/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
