@@ -66,6 +66,14 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
       <td><img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/logo-google%20forms.png?raw=true" width="100" height="100"></td>
       <td><b>Google Forms:</b> Criação do questionário para avaliação do usuário [13].</td>
     </tr>
+    <tr>
+      <td><img src="https://github.com/Requisitos-de-Software/2023.2-ConecteSUS/blob/main/docs/imagens/figma-logo.png?raw=true" width="100" height="100"></td>
+      <td><b>Figma:</b> Criação do protótipo de alta fidelidade [14].</td>
+    </tr>
+    <tr>
+      <td><img src="https://store-images.s-microsoft.com/image/apps.7736.f1e439b9-777e-47dd-b695-f05d19eb7b38.8ee3e6f6-c400-4919-811d-59b0cd18fa41.e5bd6ef7-31e5-4ca5-a5c6-79be979af666.png" width="100" height="100"></td>
+      <td><b>LucidChart:</b> Criação do diagrama de caso de uso[15].</td>
+    </tr>
   </tbody>
 </table>
 
@@ -99,6 +107,10 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
 > [12] This person does not exist. Disponível em: [https://this-person-does-not-exist.com/en](https://this-person-does-not-exist.com/en). Acesso em: 21 de nov. de 2024.
 >
 > [13] Google Forms. Disponível em: [https://www.google.com/intl/pt-BR/forms/about/](https://www.google.com/intl/pt-BR/forms/about/). Acesso em: 23 de nov. de 2024.
+>
+> [14] Figma. Disponível em: [https://www.figma.com/](https://www.figma.com/). Acesso em: 06 de jan. de 2025.
+>
+> [15] LucidChart. Disponível em: [https://www.lucidchart.com/pages/pt](https://www.lucidchart.com/pages/pt). Acesso em: 06 de jan. de 2025.
 
 ## Histórico de Versões
 
@@ -109,3 +121,4 @@ Este documento apresenta as ferramentas que estamos utilizando para facilitar ta
 | `1.2` | 19/11/2024  | Adição de ferramenta | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Júlia Takaki](https://github.com/juliatakaki) |
 | `1.3` | 21/11/2024  | Adição de ferramenta | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo) |
 | `1.4` | 23/11/2024  | Adição de ferramenta | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.5` | 06/02/2025  | Adição de ferramenta | [Thales Euflauzino](https://github.com/thaleseuflauzino) | |
