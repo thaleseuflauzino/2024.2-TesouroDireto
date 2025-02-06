@@ -103,7 +103,7 @@ A tabela 1 representa a matriz de rastreabilidade.
 
 Neste documento, abordamos a rastreabilidade dos requisitos elicitados para o sistema de investimentos em títulos públicos, conforme os artefatos de análise e desenvolvimento do projeto. A metodologia aplicada visa identificar os vínculos entre os requisitos funcionais e não funcionais, estabelecendo conexões claras entre as funcionalidades a serem implementadas e os requisitos de qualidade que o sistema deve atender.
 
-Os requisitos foram categorizados como elementos de desenvolvimento do sistema, refletindo as necessidades e expectativas do usuário final, bem como as restrições e melhorias contínuas desejadas. Essa classificação contribui para a clareza do projeto e para o alinhamento entre a equipe de desenvolvimento e os objetivos do sistema.
+Todos os requisitos foram categorizados como elementos de **Desenvolvimento**, conforme o slide número 19 da <a id="REF1" href="#anchor_1">aula 26</a> da disciplina requisitos de software, refletindo as necessidades e expectativas do usuário final, bem como as restrições e melhorias contínuas desejadas. Essa classificação contribui para a clareza do projeto e para o alinhamento entre a equipe de desenvolvimento e os objetivos do sistema.
 
 Com base nessa abordagem, foi criada a **Tabela 2**, que apresenta todos os elos de rastreabilidade entre os requisitos e os artefatos do sistema. Um total de 45 elos foi mapeado, considerando as interações entre as funcionalidades, as interfaces e os aspectos não funcionais do sistema. Cada integrante do time contribuiu para o mapeamento de elos, com a supervisão de [Júlia Takaki](https://github.com/juliatakaki) e [Victor Rodrigues](https://github.com/ViictorHugoo).
 

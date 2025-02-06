@@ -12,13 +12,32 @@ O Softgoal Interdependency Graph (SIG) é uma ferramenta de visualização centr
 
 ### Tipos de Softgoal
 
-Para compreender o SIG, é essencial entender os tipos de softgoal. Um NFR Softgoal é definido como uma meta qualitativa cuja satisfação não é precisa ou completamente mensurável. Eles podem ser refinados em diferentes formas:
+Para compreender o SIG, é essencial entender os tipos de softgoal. Um NFR Softgoal é definido como uma meta qualitativa cuja satisfação não é precisa ou completamente mensurável. Eles podem ser refinados em diferentes formas. A Figura 1 ilustra os diferentes tipos de softgoals<a id="anchor_1" href="#REF1"><sup>1</sup></a>:
 
 - Softgoals Operacionalizados: Representam transformações de metas abstratas em elementos concretos e funcionais no sistema.
 - Softgoals de Afirmação: Servem como registros argumentativos em linguagem natural, adicionando justificativas ou evidências ao modelo.
 Interdependências
-- As interdependências entre softgoals no SIG são organizadas em dois principais conceitos: decomposições e contribuições.
+- As interdependências entre softgoals no SIG são organizadas em dois principais conceitos: decomposições e contribuições. 
 
+
+
+<font size="3"><p style="text-align: center"><b>Figura 1</b> - Tipos de Softgoal</p></font>
+
+<center>
+![TIPOS](../assets/tipos.png)
+</center>
+
+<font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)<a id="anchor_1" href="#REF1"><sup>1</sup></a></p></font>
+
+## Interdependências  
+As interdependências representam as relações entre softgoals, que podem ser classificadas em decomposições e contribuições. A Figura 2 exemplifica isso.
+<font size="3"><p style="text-align: center"><b>Figura 2</b> - Tipos de Interdependências</p></font>
+
+<center>
+![interdependencias](../assets/interdependencias.png)
+</center>
+
+<font size="3"><p style="text-align: center"> Fonte: (SILVA, 2019)<a id="anchor_1" href="#REF1"><sup>1</sup></a></p></font>
 
 #### Decomposições
 
@@ -302,6 +321,10 @@ _Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2024_
 
 </center>
 
+## Referências Bibliográficas
+
+> <a id="REF1" href="#anchor_1">1.</a> SILVA, Reinaldo Antônio. NFR4ES: Um Catálogo de Requisitos Não-Funcionais para Sistemas Embarcados. Centro de Informática UFPE, Recife, 2019. Disponível em: <https://repositorio.ufpe.br/handle/123456789/34150>. Acesso em: 04 de fevereiro de 2025.
+
 ## Bibliografia
 
 >PAIM, F. R. S., CASTRO, J. F. B. Enhancing Data Warehouse Design with the NFR Framework. Centro de Informática UFPE, Recife, 2019. Disponível em: http://wer.inf.puc-rio.br/WERpapers/artigos/artigos_WER02/paim.pdf. Acesso em: 13/12/2024.
@@ -322,3 +345,4 @@ _Autor: [Victor Rodrigues](https://github.com/ViictorHugoo), 2024_
 | `1.4` | 17/12/2024  | Ajustando fonte e autor |  [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Schmidt](https://github.com/moonshinerd) |
 | `1.5` | 17/12/2024  | Alteração requisitada pelo professor | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Victor Schmidt](https://github.com/moonshinerd) |
 | `1.6` | 16/01/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)|
+| `1.7` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)  | 

@@ -20,6 +20,10 @@ A Matriz de Rastreabilidade de Requisitos é construída a partir da análise de
 
 ## Matriz de Rastreabilidade 
 
+A Tabela 1, apresentada a seguir é a Matriz de Rastreabilidade que foi elaborada seguindo a metodologia acima.
+
+**Tabela 1 - Matriz de Rastreabilidade**
+
 | Código | Tipo | Descrição | Pré-rastreabilidade | Implementado | Artefatos | Elos |
 | ------ | ---- | --------- | ------------------- | ------------ | --------- | ---- | 
 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RF01">RF01<a/> | RF | O sistema deve permitir que o usuário visualize a lista de títulos públicos disponíveis com suas características principais: nome do título, rentabilidade, valor mínimo e vencimento. | [IT1](../elicitacao/grupo5/introspeccao.md/#anchor_IT1), [GLO01](../elicitacao/grupo5/glossario.md/#anchor_GLO01) | Sim | [Caso de Uso](../modelagem-pt1/casos-de-uso.md), [Léxicos](../modelagem-pt1/lexicos.md), [Backlog](../modelagem-pt2/backlog.md), [História de Usuário](../modelagem-pt2/userstories.md) | <a href="../backward-from/#elo1">ELOB01<a/>, <a href="../forward-from/#ELOF01">ELOF01<a/> |
@@ -68,6 +72,9 @@ A Matriz de Rastreabilidade de Requisitos é construída a partir da análise de
 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF10">RNF10<a/> | RNF | O sistema deverá garantir a segurança nas transações de títulos públicos. | [GLO02](../elicitacao/grupo5/glossario.md/#anchor_GLO02) | Sim | [Especificação Suplementar](../../modelagem-pt1/especificacao-suplementar/), [Backlog](../modelagem-pt2/backlog.md), [História de Usuário](../modelagem-pt2/userstories.md) | <a href="../backward-from/#elo44">ELOB44<a/>, <a href="../forward-from/#ELONF10">ELONF10<a/> |
 | <a href="../../elicitacao/grupo5/requisitos/#anchor_RNF11">RNF11<a/> | RNF | Os títulos do tesouro nacional deverão estar sempre atualizados com relação a inflação e a taxa de juros. | [GLO03](../elicitacao/grupo5/glossario.md/#anchor_GLO03) | Sim | [Especificação Suplementar](../../modelagem-pt1/especificacao-suplementar/), [Backlog](../modelagem-pt2/backlog.md), [História de Usuário](../modelagem-pt2/userstories.md) | <a href="../backward-from/#elo45">ELOB45<a/>, <a href="../forward-from/#ELONF11">ELONF11<a/> |
 
+_Autor: [Victor Rodrigues](https://github.com/ViictorHugoo) e [Thales Euflauzino](https://github.com/thaleseuflauzino), 2025_
+
+
 ## Bibliografia
 
 >  Requirements Engineering Fundamentals. Disponível em: [aqui](../assets/Requisitos%20-%20Aula%20026.pdf). Acesso em: 14 jan. 2025.
@@ -82,3 +89,4 @@ A Matriz de Rastreabilidade de Requisitos é construída a partir da análise de
 |`1.0`|14/01/2025| Criação e ajuste do Documento |[Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino)|
 |`1.1`|16/01/2025| Hyperlinks |[Victor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |
 |`1.2`|16/01/2025| Adicionando a rastreabilidade para as técnicas de elicitação |[Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd)|
+| `1.3` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)  | 

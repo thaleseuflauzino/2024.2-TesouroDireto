@@ -4,7 +4,7 @@
 
 O brainstorming é uma técnica colaborativa amplamente utilizada para a geração de ideias, permitindo explorar uma diversidade de perspectivas de forma rápida e eficiente. Segundo [Barbosa et al. (2021)](#REF1), essa técnica se destaca por sua capacidade de levantar necessidades e desejos dos usuários, resultando em uma lista priorizada que pode alimentar diretamente a especificação funcional e a documentação de design ([Barbosa et al., 2012](#REF1)). Além disso, [Vianna et al. (2012)](#REF2) destacam que o brainstorming é uma etapa crucial no processo de ideação, promovendo a criatividade e permitindo a combinação de diferentes perfis e expertises para soluções mais ricas e assertivas.
 
-No contexto deste projeto, o brainstorming foi aplicado para explorar e avaliar os requisitos do aplicativo **Tesouro Direto**, considerando a perspectiva dos usuários e as funcionalidades existentes, com o objetivo de identificar melhorias e novas possibilidades.
+No contexto deste projeto, o brainstorming foi aplicado para explorar e avaliar os requisitos do aplicativo **Tesouro Direto**, considerando a perspectiva dos usuários e as funcionalidades existentes, com o objetivo de identificar melhorias e novas possibilidades. Foi realizado seguindo o cronograma apresentado na Tabela 1.
 
 ## Objetivo
 
@@ -46,7 +46,9 @@ O roteiro abaixo descreve as etapas da sessão de brainstorming que será realiz
 
 Essa pergunta busca incentivar os participantes a explorar tanto os requisitos funcionais quanto os não funcionais, com foco na experiência do usuário e na eficiência do sistema.
 
-### Cronograma
+<center>
+
+### Tabela 1 - Cronograma
 
 | Etapa                     | Descrição                                                                                             | Tempo Estimado |
 |------------------------------------------|---------------------------------------------------------------------------|----------------|
@@ -56,6 +58,10 @@ Essa pergunta busca incentivar os participantes a explorar tanto os requisitos f
 | **12:25 até 12:40**         | **Discussão e Refinamento**: agrupamento das ideias em categorias e identificação de requisitos.     | 15 minutos     |
 | **12:40 até 12:50**         | **Priorização de Requisitos**: participantes priorizam utilizando a técnica dos 100 dólares os requisitos.                       | 10 minutos     |
 | **12:50 até 13:00**         | **Encerramento**: resumo dos requisitos priorizados e próximos passos.                              | 10 minutos     |
+
+_Autor: [Thales Euflauzino](https://github.com/thaleseuflauzino), 2024_
+
+</center> 
 
 ### Descrição das Etapas
 
@@ -138,8 +144,11 @@ Os valores atribuídos por cada participante na priorização das ideias, utiliz
     - Média de valor gasto: R$ 9,28
 
 ## Requisitos Funcionais
+
+As tabelas 2 e 3, apresentadas a seguir, descrevem os requisitos funcionais e também os não-funcionais que foram elicitados.
+
 <center>
-**Tabela 1** - Requisitos Funcionais
+**Tabela 2** - Requisitos Funcionais
 
 | **Tipo** | **Descrição**                                                                                     | **ID** | **Elaborado (Sim/Não)** | **Priorização (Média)** |
 |----------|---------------------------------------------------------------------------------------------------|--------|--------------------------|-------------------------|
@@ -163,7 +172,7 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd), 2024_
 ## Requisitos Não Funcionais
 
 <center>
-**Tabela 2** - Requisitos Não Funcionais
+**Tabela 3** - Requisitos Não Funcionais
 
 | **Tipo** | **Descrição**                                                                                      | **ID**  | **Elaborado (Sim/Não)** | **Priorização (Média)** |
 |----------|----------------------------------------------------------------------------------------------------|---------|--------------------------|-------------------------|
@@ -187,6 +196,7 @@ O termo de consentimento assinado pelos participantes assegura a autorização p
 
 Para mais detalhes, o termo completo está disponível [aqui](../../../assets/Termo_de_Consentimento_Brainstorm.pdf).
 
+No vídeo 1, apresentado abaixo, está presente a gravação da realização do brainstorm.
 <center>
   
 [**Vídeo 1:** Brainstorm - Elicitação de Requisitos](https://youtu.be/V-SFDbbOe6o)
@@ -218,3 +228,4 @@ _Autor: [Víctor Schmidt](https://github.com/moonshinerd)_
 | `1.3` | 20/11/2024 | Adicionando Vídeo  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena)|
 | `1.4` | 20/11/2024 | Mais alguns ajustes  | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) e [Maria Helena](https://github.com/MariaCHelena)|
 | `1.5` | 12/12/2024  | Ajustes para pos-rastreabilidade | [Thales Euflauzino](https://github.com/thaleseuflauzino) |[Víctor Schmidt](https://github.com/moonshinerd)| 
+| `1.6` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)  | 

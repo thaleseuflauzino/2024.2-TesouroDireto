@@ -16,7 +16,7 @@ A construção das personas seguiu uma metodologia estruturada em três etapas p
 
 ## Elenco
 
-As tabelas de 1 a 5 apresentam o elenco de personas.
+As tabelas de 1 a 5 apresentam o elenco de personas. E abaixo de cada tabela, há as figuras (também de 1 a 5), onde apresenta a foto da persona.
 
 <p id= "persona1" style="text-align: center"><b>Tabela 1</b> - Persona Primária 1.</p>
 
@@ -132,3 +132,4 @@ As tabelas de 1 a 5 apresentam o elenco de personas.
 | ------ | ---------- | --------- | --------- | --------------------- |
 | `1.0` | 19/11/2024  | Estruturação Inicial | [Víctor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino)|
 | `1.1` | 20/11/2024  | Inclusão de Personas | [Víctor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.2` | 04/02/2025  | Ajustes pós verificação | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Victor Rodrigues](https://github.com/ViictorHugoo)  | 
