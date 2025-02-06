@@ -637,23 +637,23 @@ Na tabela 1 é apresentado o planejamento geral do projeto, com as entregas de t
     <tbody>
       <tr>
         <td>Complementos e Revisões do Projeto Final</td>
-        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
-        <td>Victor Rodrigues, Maria Helena e Júlia Takaki</td>
-        <td>-</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino e Júlia Takaki</td>
+        <td>Victor Rodrigues e Júlia Takaki</td>
+        <td> 04/02/2025 </td>
         <td>-</td>
         <td>-</td>
       </tr>
       <tr>
         <td>Desenvolvimento de relatório das revisões e ajustes dos artefatos</td>
-        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino e Júlia Takaki</td>
         <td>Victor Schmidt e Thales Euflauzino</td>
-        <td>-</td>
+        <td> 04/02/2025 </td>
         <td>-</td>
         <td>-</td>
       </tr>
       <tr>
         <td>Gravação da Apresentação</td>
-        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino, Maria Helena e Júlia Takaki</td>
+        <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino e Júlia Takaki</td>
         <td>Júlia Takaki</td>
         <td>-</td>
         <td>-</td>
