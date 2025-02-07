@@ -15,6 +15,8 @@ Uma das principais facilidades que tive na disciplina foi a organização do tra
 
 #### Víctor Schmidt
 
+Durante o projeto, percebi que minha maior facilidade foi trabalhar com técnicas de elicitação de requisitos e modelagem, como a introspecção, brainstorm e cenários. Contribuir para a construção desses artefatos me ajudou a consolidar conhecimentos e entender melhor como traduzir as necessidades dos usuários em requisitos claros e bem estruturados. Além disso, a experiência em revisão de documentos e a organização dos artefatos facilitaram bastante o fluxo de trabalho e a comunicação entre os membros do grupo.
+
 #### Victor Rodrigues
 
 #### Júlia Takaki
@@ -27,6 +29,8 @@ Minha maior dificuldade ao longo do projeto foi conciliar e administrar o tempo.
 
 #### Víctor Schmidt
 
+Uma das principais dificuldades foi equilibrar as demandas do projeto com outras atividades acadêmicas e profissionais. A necessidade de revisar e validar diversos artefatos exigiu um esforço extra para garantir a qualidade e coerência das informações. Além disso, algumas etapas da modelagem, como a criação e validação dos casos de uso, demandaram um tempo maior do que o esperado, exigindo ajustes no cronograma e um alinhamento constante com a equipe para manter a produtividade sem comprometer a qualidade do trabalho.
+
 #### Victor Rodrigues
 
 #### Júlia Takaki
@@ -35,5 +39,6 @@ Minha maior dificuldade ao longo do projeto foi conciliar e administrar o tempo.
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |07/12/2025| Criação do documento | [Thales Euflauzino](https://github.com/thaleseuflauzino) | |
-| `1.1`  |07/12/2025| Adição do relato pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) | |
+| `1.0`  |07/12/2025| Criação do documento | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.1`  |07/12/2025| Adição do relato pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.2`  |07/12/2025| Adição do relato pessoal | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
