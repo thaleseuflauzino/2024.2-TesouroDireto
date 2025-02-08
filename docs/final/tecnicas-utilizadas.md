@@ -1,6 +1,7 @@
 # Técnicas Utilizadas
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 ## Introdução
 
 Este artefato corresponde à entrega final da disciplina de Interação Humano-Computador e, portanto, apresentará de forma detalhada todas as técnicas aplicadas na elaboração dos artefatos ao longo do curso.
@@ -9,6 +10,8 @@ Este artefato corresponde à entrega final da disciplina de Interação Humano-C
 
 A tabela 1 a seguir explicita as técnicas utilizadas, bem como a quais artefatos elas estão relacionadas.
 =======
+=======
+>>>>>>> 5828e61e41774e7de531ebff39cddd0b60d96d24
 ## Introdução  
 
 Este documento corresponde à entrega final da disciplina de Interação Humano-Computador, detalhando as técnicas empregadas na elaboração dos artefatos ao longo do curso.  
@@ -16,12 +19,16 @@ Este documento corresponde à entrega final da disciplina de Interação Humano-
 ## Técnicas  
 
 A Tabela 1 apresenta as técnicas utilizadas e seus respectivos responsáveis.
+<<<<<<< HEAD
 >>>>>>> 203ee93a2a99ffc327c417fe6c20e8ab986f312f
+=======
+>>>>>>> 5828e61e41774e7de531ebff39cddd0b60d96d24
 
 <center>
 
 Tabela 1 - Técnicas Utilizadas
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 |Técnica utilizada|Artefato(s) relacionado(s)|
 |-----------------|--------------------|
@@ -37,6 +44,8 @@ Tabela 1 - Técnicas Utilizadas
 
 Fonte: [Arthur de Melo](https://github.com/arthurmlv)
 =======
+=======
+>>>>>>> 5828e61e41774e7de531ebff39cddd0b60d96d24
 |Técnica utilizada|Executores da Técnica no Projeto|Artefato(s) relacionado(s)|
 |-----------------|:-----------:|--------------------|
 |Inspeção de Fagan| [Júlia Takaki](https://github.com/juliatakaki) <br> [Maria Helena](https://github.com/MariaCHelena) <br> [Thales Euflauzino](https://github.com/thaleseuflauzino) <br> [Víctor Schmidt](https://github.com/moonshinerd) <br> [Victor Rodrigues](https://github.com/ViictorHugoo)| [Verificações do Grupo](../../verificacao/grupo5/entrega1/planej2-e1)<br> [Verificações do Grupo 2](../../verificacao/grupo6/entrega1/planej2-e1) |
@@ -50,7 +59,10 @@ Fonte: [Arthur de Melo](https://github.com/arthurmlv)
 
 
 Fonte: [Víctor Schmidt](https://github.com/moonshinerd)
+<<<<<<< HEAD
 >>>>>>> 203ee93a2a99ffc327c417fe6c20e8ab986f312f
+=======
+>>>>>>> 5828e61e41774e7de531ebff39cddd0b60d96d24
 
 </center>
 
@@ -63,7 +75,11 @@ Fonte: [Víctor Schmidt](https://github.com/moonshinerd)
 | Versão | Data       | Descrição          | Autor(es)                                        | Revisor(es)                                    |
 | ------ | ---------- | ------------------ | ------------------------------------------------ | ---------------------------------------------- |
 <<<<<<< HEAD
+<<<<<<< HEAD
 | `1.0`  | 05/07/2023 | Criação da página. | [Arthur de Melo](https://github.com/arthurmlv) | [Geovanna Maciel](https://github.com/manuziny)  |
 =======
 | `1.0`  | 06/02/2025 | Criação da página. | [Víctor Schmidt](https://github.com/moonshinerd) |  [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 >>>>>>> 203ee93a2a99ffc327c417fe6c20e8ab986f312f
+=======
+| `1.0`  | 06/02/2025 | Criação da página. | [Víctor Schmidt](https://github.com/moonshinerd) |  [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+>>>>>>> 5828e61e41774e7de531ebff39cddd0b60d96d24
