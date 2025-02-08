@@ -19,6 +19,8 @@ Durante o projeto, percebi que minha maior facilidade foi trabalhar com técnica
 
 #### Victor Rodrigues
 
+Tive facilidade na organização do trabalho em equipe, pois já conhecia o método do professor e tinha afinidade com os membros do grupo. Além disso, como já havia trabalhado com requisitos anteriormente, tive clareza na sua definição, o que facilitou a aplicação dos conceitos na prática. Contribuir para a modelagem e revisão de documentos também ajudou a melhorar o entendimento dos conceitos da matéria e a comunicação da equipe.
+
 #### Júlia Takaki
 
 ## Dificuldades
@@ -32,6 +34,8 @@ Minha maior dificuldade ao longo do projeto foi conciliar e administrar o tempo.
 Uma das principais dificuldades foi equilibrar as demandas do projeto com outras atividades acadêmicas e profissionais. A necessidade de revisar e validar diversos artefatos exigiu um esforço extra para garantir a qualidade e coerência das informações. Além disso, algumas etapas da modelagem, como a criação e validação dos casos de uso, demandaram um tempo maior do que o esperado, exigindo ajustes no cronograma e um alinhamento constante com a equipe para manter a produtividade sem comprometer a qualidade do trabalho.
 
 #### Victor Rodrigues
+
+Minha maior dificuldade foi conciliar o tempo entre estágio, atividades extracurriculares e as demandas do projeto, especialmente com as exigências presenciais do professor. Os horários do grupo raramente coincidiam, dificultando o trabalho em equipe. Dividimos tarefas para otimizar o tempo, mas, conforme o projeto crescia, as revisões dos artefatos exigiam cada vez mais tempo, tornando o processo ainda mais desafiador.
 
 #### Júlia Takaki
 
