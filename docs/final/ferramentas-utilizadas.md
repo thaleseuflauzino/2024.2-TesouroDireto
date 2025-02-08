@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Uma forma eficaz de organizar e visualizar o uso das ferramentas nos projetos é por meio de uma tabela resumida. Esse formato proporciona uma visão clara das etapas do projeto do [Tesouro Direto](https://requisitos-de-software.github.io/2024.2-TesouroDireto) e indica as ferramentas aplicadas em cada uma delas. Dessa maneira, torna-se mais fácil compreender quais recursos foram empregados ao longo do desenvolvimento, melhorando a comunicação entre os membros da equipe e contribuindo para uma gestão mais eficiente. A Tabela 1 apresenta um resumo das ferramentas utilizadas no projeto.
+Uma forma eficaz de organizar e visualizar o uso das ferramentas nos projetos é por meio de uma tabela resumida, apresentada abaixo. Esse formato proporciona uma visão clara das etapas do projeto do [Tesouro Direto](https://requisitos-de-software.github.io/2024.2-TesouroDireto) e indica as ferramentas aplicadas em cada uma delas. Dessa maneira, torna-se mais fácil compreender quais recursos foram empregados ao longo do desenvolvimento, melhorando a comunicação entre os membros da equipe e contribuindo para uma gestão mais eficiente. A Tabela 1 apresenta um resumo das ferramentas utilizadas no projeto.
 
 ## Tabela Sintetizada das Ferramentas
 
@@ -35,6 +35,6 @@ As ferramentas desempenharam um papel fundamental no desenvolvimento do trabalho
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição             | Autor(es)                                                                                           | Revisor(es)                                    |
-| ------ | ---------- | --------------------- | --------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
+| Versão | Data | Descrição | Autor | Revisor(es) |
+| ------ | ---- | --------- | ----- | ----------- |
 | `1.0`  | 08/02/2025 | Criação do documento. | [Júlia Takaki](https://github.com/juliatakaki)|
