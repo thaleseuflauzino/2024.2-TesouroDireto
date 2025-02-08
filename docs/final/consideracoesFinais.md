@@ -35,7 +35,6 @@ Uma das principais dificuldades foi equilibrar as demandas do projeto com outras
 #### Victor Rodrigues
 
 #### Júlia Takaki
-Você tem razão! A estrutura estava confusa. Aqui está uma nova versão mais clara e fluida:
 
 A frequência das entregas foi um dos pontos que mais me impactou, pois, em alguns momentos, gerou uma sensação de pressão, dificultando a administração do tempo e a busca pela qualidade em cada tarefa. Além disso, enfrentei desafios relacionados à padronização. No início, tive dificuldades para alinhar os artefatos aos padrões do grupo, o que resultou em algumas inconsistências. Também percebi a importância de padronizar corretamente as referências, incluindo página, capítulo e autor, o que se mostrou essencial para garantir a clareza e a confiabilidade das informações.
 
