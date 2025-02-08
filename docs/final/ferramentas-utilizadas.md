@@ -21,7 +21,7 @@ Uma forma eficaz de organizar e visualizar o uso das ferramentas nos projetos é
 | [SimilarWeb](https://requisitos-de-software.github.io/2024.2-TesouroDireto/Planejamento-do-projeto/ferramentas/) | Análise dos dados para criação do [Perfil do Usuário](https://requisitos-de-software.github.io/2024.2-TesouroDireto/elicitacao/grupo5/perfil-usuario/). | Etapa 2 |
 | [Youtube](https://requisitos-de-software.github.io/2024.2-TesouroDireto/docs/Planejamento-do-projeto/ferramentas) | Hospedagem de vídeos produzidos. | Todas |
 | [This Person Doesn't Exist](https://requisitos-de-software.github.io/2024.2-TesouroDireto/docs/Planejamento-do-projeto/ferramentas) | Criação de imagens falsas para as [personas](../elicitacao/grupo5/personas.md). | Etapa 2 |
-| [Google Forms](https://requisitos-de-software.github.io/2024.2-TesouroDireto/docs/Planejamento-do-projeto/ferramentas) | [Criação do questionário](../elicitacao/grupo5/definicao-perfil_de_usuario/questionario.md) para avaliação do usuário. | Etapa 2 |
+| [Google Forms](https://requisitos-de-software.github.io/2024.2-TesouroDireto/docs/Planejamento-do-projeto/ferramentas) | Criação do [Questionário](../elicitacao/grupo5/definicao-perfil_de_usuario/questionario.md) para avaliação do usuário. | Etapa 2 |
 | [Figma](https://requisitos-de-software.github.io/2024.2-TesouroDireto/Planejamento-do-projeto/ferramentas/) | Produção do protótipo de alta fidelidade. | Etapa 5 |
 
 <font size="3"><p style="text-align: center">Fonte: [Júlia Takaki](https://github.com/juliatakaki).</p></font>
