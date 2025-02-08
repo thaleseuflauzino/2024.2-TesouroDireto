@@ -46,3 +46,4 @@ Minha maior dificuldade foi conciliar o tempo entre estágio, atividades extracu
 | `1.0`  |07/12/2025| Criação do documento | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.1`  |07/12/2025| Adição do relato pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.2`  |07/12/2025| Adição do relato pessoal | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.3`  |08/12/2025| Adição do relato pessoal | [Victor Rodrigues](https://github.com/ViictorHugoo) | |
