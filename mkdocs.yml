@@ -157,6 +157,10 @@ nav:
     - Execução do Projeto: final/execucao.md
     - Aplicativo Selecionado: final/aplicativoSelecionado.md
     - Planejamento dos Recursos e Entregas: final/recursosEntregas.md
+    - Técnicas Utilizadas: final/tecnicas-utilizadas.md
+    - Ferramentas Utilizadas: final/ferramentas-utilizadas.md
+    - Artefatos Criados: final/artefatos-criados.md
+    - Facilidades e Dificuldades: final/consideracoesFinais.md
 
 theme:
   logo: assets/header-logo-tesourodireto.png
