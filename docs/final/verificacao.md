@@ -54,7 +54,7 @@ Planejamento da Verificação:
     <td><a href="https://github.com/MariaCHelena">Maria Helena</a> e <a href="https://github.com/moonshinerd">Víctor Schmidt</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -137,7 +137,7 @@ Planejamento da Verificação:
     <td><a href="https://github.com/MariaCHelena">Maria Helena</a> e <a href="https://github.com/juliatakaki">Júlia Takaki</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -159,7 +159,7 @@ Planejamento da Verificação:
     <td><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/">Grupo</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -181,7 +181,7 @@ Planejamento da Verificação:
     <td><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/">Grupo</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 </center>
@@ -228,7 +228,7 @@ Planejamento da Verificação:
     <td><a href="https://github.com/Requisitos-de-Software/2024.2-MeuINSS">Grupo</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -299,7 +299,7 @@ Planejamento da Verificação:
     <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> e <a href="https://github.com/julia-fortunato">Julia Fortunato</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -321,7 +321,7 @@ Planejamento da Verificação:
     <td><a href="https://github.com/Requisitos-de-Software/2024.2-MeuINSS">Grupo</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -343,7 +343,7 @@ Planejamento da Verificação:
     <td><a href="https://github.com/an4catarina">Ana Catarina</a> e <a href="(https://github.com/nickgehjk">Nicolas Bonfim</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 </center>
@@ -360,6 +360,7 @@ Planejamento da Verificação:
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                      | Autor(es)                                                                                         | Revisor(es)                                    |
-| ------ | ---------- | ------------------------------ | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| `1.0`    | 06/02/2025 | Criação da página     | [Júlia Takaki](https://github.com/juliatakaki) | |
+| Versão | Data       | Descrição              | Autor(es)                                      | Revisor(es)                                              |
+| ------ | ---------- | ---------------------- | ---------------------------------------------- | -------------------------------------------------------- |
+| `1.0`  | 06/02/2025 | Criação da página      | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.1`  | 10/02/2025 | Corrigindo formatações | [Júlia Takaki](https://github.com/juliatakaki) |  |

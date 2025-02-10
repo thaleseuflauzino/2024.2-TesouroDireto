@@ -44,9 +44,6 @@ Na Tabela 1, são apresentados os participantes da reunião juntamente com os in
 
 ## Compromissos
 
-<!-- compromissos que foram definidos para os integrantes, a data de entrega e os revisores, para facilitar o trabalho, pode pedir
-para o chat GPT formar a tabela em HTML -->
-
 - Todos se comprometerão a entregar os artefatos dentro do prazo de entrega.
 
 ### Link para o protótipo no Figma
@@ -62,4 +59,4 @@ para o chat GPT formar a tabela em HTML -->
 
 | Versão | Data | Descrição | Autor(es) | Revisor(es) |
 | ------ | ---- | --------- | --------- | ----------- |
-|`1.0`|23/1/2025| Estruturação inicial e preenchimento| [Júlia Takaki](https://github.com/juliatakaki) |  |
+|`1.0`|23/1/2025| Estruturação inicial e preenchimento| [Júlia Takaki](https://github.com/juliatakaki) |  [Thales Euflauzino](https://github.com/thaleseuflauzino) |
