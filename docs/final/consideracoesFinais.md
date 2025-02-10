@@ -19,6 +19,8 @@ Durante o projeto, percebi que minha maior facilidade foi trabalhar com técnica
 
 #### Victor Rodrigues
 
+Tive facilidade na organização do trabalho em equipe, pois já conhecia o método do professor e tinha afinidade com os membros do grupo. Além disso, como já havia trabalhado com requisitos anteriormente, tive clareza na sua definição, o que facilitou a aplicação dos conceitos na prática. Contribuir para a modelagem e revisão de documentos também ajudou a melhorar o entendimento dos conceitos da matéria e a comunicação da equipe.
+
 #### Júlia Takaki
 
 ## Dificuldades
@@ -33,6 +35,8 @@ Uma das principais dificuldades foi equilibrar as demandas do projeto com outras
 
 #### Victor Rodrigues
 
+Minha maior dificuldade foi conciliar o tempo entre estágio, atividades extracurriculares e as demandas do projeto, especialmente com as exigências presenciais do professor. Os horários do grupo raramente coincidiam, dificultando o trabalho em equipe. Dividimos tarefas para otimizar o tempo, mas, conforme o projeto crescia, as revisões dos artefatos exigiam cada vez mais tempo, tornando o processo ainda mais desafiador.
+
 #### Júlia Takaki
 
 ## Histórico de Versões
@@ -42,3 +46,4 @@ Uma das principais dificuldades foi equilibrar as demandas do projeto com outras
 | `1.0`  |07/12/2025| Criação do documento | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.1`  |07/12/2025| Adição do relato pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.2`  |07/12/2025| Adição do relato pessoal | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.3`  |08/12/2025| Adição do relato pessoal | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
