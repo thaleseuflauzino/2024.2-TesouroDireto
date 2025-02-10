@@ -8,7 +8,7 @@ Uma forma eficaz de organizar e visualizar o uso das ferramentas nos projetos é
 
 <font size="3"><p style="text-align: center"><b>Tabela 1</b> - Ferramentas Utilizadas no Projeto</p></font>
 
-|Ferramenta | Finalidade | Etapa Relacionada |
+| Ferramenta | Finalidade | Etapa Relacionada |
 | :-------: | :--------: | :---------------: |
 | [GitHub](https://requisitos-de-software.github.io/2024.2-TesouroDireto/docs/Planejamento-do-projeto/ferramentas) | Organizar, versionar e documentar artefatos produzidos para o projeto. | Todas |
 | [Canva](https://requisitos-de-software.github.io/2024.2-TesouroDireto/docs/Planejamento-do-projeto/ferramentas) | Montar apresentações e diagramas e produzir o [Rich Picture](../Planejamento-do-projeto/rich-picture.md). | Etapa 1 | 
