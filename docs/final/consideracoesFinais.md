@@ -45,5 +45,5 @@ A frequência das entregas foi um dos pontos que mais me impactou, pois, em algu
 | `1.0`  |07/02/2025| Criação do documento | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.1`  |07/02/2025| Adição do relato pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
 | `1.2`  |07/02/2025| Adição do relato pessoal | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-| `1.3`  |08/02/2025| Correção de datas | [Júlia Takaki](https://github.com/juliatakaki) |
-| `1.4`  |08/02/2025| Adição do relato pessoal | [Júlia Takaki](https://github.com/juliatakaki) |
+| `1.3`  |08/02/2025| Correção de datas | [Júlia Takaki](https://github.com/juliatakaki) |  [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.4`  |08/02/2025| Adição do relato pessoal | [Júlia Takaki](https://github.com/juliatakaki) |  [Thales Euflauzino](https://github.com/thaleseuflauzino) |
