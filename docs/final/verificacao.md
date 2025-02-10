@@ -105,6 +105,7 @@ Planejamento da Verificação:
     <td><a href="../verificacao/grupo5/entrega2/r-questionario">Questionário</a></td>
     <td><a href="https://github.com/juliatakaki">Júlia Takaki</a></td>
   </tr>
+</table>
 <font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
@@ -266,6 +267,7 @@ Planejamento da Verificação:
     <td><a href="../verificacao/grupo6/entrega2/questionario">Questionário</a></td>
     <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
   </tr>
+</table>
 <font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
