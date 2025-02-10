@@ -26,4 +26,4 @@ A Tabela 1 (apresentada a seguir) tem o intuito de apresentar uma tabela sinteti
 
 | Versão | Data | Descrição | Autor | Revisor(es) |
 | ------ | ---- | --------- | ----- | ----------- |
-| `1.0`  | 08/02/2025 | Criação do documento. | [Júlia Takaki](https://github.com/juliatakaki)|
+| `1.0`  | 08/02/2025 | Criação do documento. | [Júlia Takaki](https://github.com/juliatakaki)|  [Thales Euflauzino](https://github.com/thaleseuflauzino) |
