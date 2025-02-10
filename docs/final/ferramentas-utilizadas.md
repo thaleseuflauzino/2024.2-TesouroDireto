@@ -25,7 +25,7 @@ Uma forma eficaz de organizar e visualizar o uso das ferramentas nos projetos é
 | [Google Forms](https://requisitos-de-software.github.io/2024.2-TesouroDireto/docs/Planejamento-do-projeto/ferramentas) | Criação do [Questionário](../elicitacao/grupo5/definicao-perfil_de_usuario/questionario.md) para avaliação do usuário. | Etapa 2 |
 | [Figma](https://requisitos-de-software.github.io/2024.2-TesouroDireto/Planejamento-do-projeto/ferramentas/) | Produção do protótipo de alta fidelidade. | Etapa 5 |
 
-<font size="3"><p style="text-align: center">Fonte: [Júlia Takaki](https://github.com/juliatakaki).</p></font>
+<font size="3"><p style="text-align: center">Autor: [Júlia Takaki](https://github.com/juliatakaki).</p></font>
 
 ## Conclusão
 
@@ -33,7 +33,7 @@ As ferramentas desempenharam um papel fundamental no desenvolvimento do trabalho
 
 ## Bibliografia
 
-> CARVALHO, Ingrid. Ferramentas ultilizadas durante o projeto. Repositório do Grupo Millenium Papelaria e Presentes da disciplina de Interação Humano Computador da Universidade de Brasília, 2022. Disponível em: <<https://interacao-humano-computador.github.io/2022.1-Millenium-Papelaria/Conclusao/tabelaArtefatos/>>. Acesso em: 08 de fevereiro de 2025.
+> Bilheteria Digital. Ferramentas Utilizadas. Disponível em: <<https://requisitos-de-software.github.io/2023.1-BilheteriaDigital/entrega-final/ferramentas-utilizadas/>>. Acesso em: 06 de fevereiro de 2025.
 
 ## Histórico de Versões
 
