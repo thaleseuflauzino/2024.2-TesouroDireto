@@ -54,7 +54,7 @@ Planejamento da Verificação:
     <td><a href="https://github.com/MariaCHelena">Maria Helena</a> e <a href="https://github.com/moonshinerd">Víctor Schmidt</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -105,7 +105,7 @@ Planejamento da Verificação:
     <td><a href="../verificacao/grupo5/entrega2/r-questionario">Questionário</a></td>
     <td><a href="https://github.com/juliatakaki">Júlia Takaki</a></td>
   </tr>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -136,7 +136,7 @@ Planejamento da Verificação:
     <td><a href="https://github.com/MariaCHelena">Maria Helena</a> e <a href="https://github.com/juliatakaki">Júlia Takaki</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -158,7 +158,7 @@ Planejamento da Verificação:
     <td><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/">Grupo</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -180,7 +180,7 @@ Planejamento da Verificação:
     <td><a href="https://requisitos-de-software.github.io/2024.2-TesouroDireto/">Grupo</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 </center>
@@ -227,7 +227,7 @@ Planejamento da Verificação:
     <td><a href="https://github.com/Requisitos-de-Software/2024.2-MeuINSS">Grupo</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -266,7 +266,7 @@ Planejamento da Verificação:
     <td><a href="../verificacao/grupo6/entrega2/questionario">Questionário</a></td>
     <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
   </tr>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -297,7 +297,7 @@ Planejamento da Verificação:
     <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a>, <a href="https://github.com/mauricio-araujoo">Maurício Ferreira</a> e <a href="https://github.com/julia-fortunato">Julia Fortunato</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -319,7 +319,7 @@ Planejamento da Verificação:
     <td><a href="https://github.com/Requisitos-de-Software/2024.2-MeuINSS">Grupo</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -341,7 +341,7 @@ Planejamento da Verificação:
     <td><a href="https://github.com/an4catarina">Ana Catarina</a> e <a href="(https://github.com/nickgehjk">Nicolas Bonfim</a></td>
   </tr>
 </table>
-<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 </center>
