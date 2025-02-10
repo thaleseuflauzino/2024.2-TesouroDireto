@@ -1028,4 +1028,4 @@ As tabelas de 14 a 15 apresentam os cronogramas planejados e executados da Entre
 | -------- | ------ | ------ | ---------- | ---------- |
 | `1.0` | 04/02/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.1` | 05/02/2025 | Correção de Data e Bibliografia  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
-| `1.1` | 08/02/2025 | Correção e Adição de Data  | [Victor Rodrigues](https://github.com/ViictorHugoo) |  |
+| `1.1` | 08/02/2025 | Correção e Adição de Data  | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino)  |
