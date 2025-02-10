@@ -51,4 +51,4 @@ Embora essa tenha sido uma estratégia apropriada para obter validação informa
 
 | Versão | Data       | Descrição                      | Autor(es)                                                                                         | Revisor(es)                                    |
 | ------ | ---------- | ------------------------------ | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| `1.0`    | 06/02/2025 | Criação da página     | [Júlia Takaki](https://github.com/juliatakaki) | |
+| `1.0`    | 06/02/2025 | Criação da página     | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
