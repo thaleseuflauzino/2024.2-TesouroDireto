@@ -1003,8 +1003,8 @@ As tabelas de 14 a 15 apresentam os cronogramas planejados e executados da Entre
         <td>Gravação da Apresentação</td>
         <td>Victor Rodrigues, Victor Schmidt, Thales Euflauzino e Júlia Takaki</td>
         <td>Júlia Takaki</td>
-        <td>-</td>
-        <td>-</td>
+        <td>10/02/2025</td>
+        <td>10/02/2025</td>
       </tr>
     </tbody>
   </table>
