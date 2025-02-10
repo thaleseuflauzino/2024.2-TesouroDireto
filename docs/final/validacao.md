@@ -22,7 +22,7 @@ Além disso, a página do artefato detalha o método de avaliação adotado, inc
 | [Victor Rodrigues](https://github.com/ViictorHugoo) |Kauan Dias| 31/01/2025 |
 | [Júlia Takaki](https://github.com/juliatakaki)| Renan Pariz| 02/02/2025 |
 
-Fonte: [Júlia Takaki](https://github.com/juliatakaki).
+Autor: [Júlia Takaki](https://github.com/juliatakaki).
 
 <font size="3"><p style="text-align: center"><b>Video 1:</b> Entrevista de Validação </p></font>
 
