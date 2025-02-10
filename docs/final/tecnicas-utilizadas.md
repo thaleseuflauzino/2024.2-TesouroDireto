@@ -2,7 +2,7 @@
 
 ## Introdução  
 
-Este documento corresponde à entrega final da disciplina de Interação Humano-Computador, detalhando as técnicas empregadas na elaboração dos artefatos ao longo do curso.  
+Este documento corresponde à entrega final da disciplina de Requisitos de Software, detalhando as técnicas empregadas na elaboração dos artefatos ao longo do curso.  
 
 ## Técnicas  
 
@@ -24,7 +24,7 @@ Tabela 1 - Técnicas Utilizadas
 |Técnicas de Priorização| [Maria Helena](https://github.com/MariaCHelena) <br> [Thales Euflauzino](https://github.com/thaleseuflauzino) <br> [Víctor Schmidt](https://github.com/moonshinerd) <br> [Victor Rodrigues](https://github.com/ViictorHugoo) | [Brainstorming](../../elicitacao/grupo5/brainstorm) <br> [Introspecção](../../elicitacao/grupo5/introspeccao) <br> [100$](../../elicitacao/grupo5/priorizacao/100$) <br> [In or Out](../elicitacao/grupo5/priorizacao/inorout.md) <br> [Three Level Scale](../../elicitacao/grupo5/priorizacao/threelevelscale) |
 
 
-Fonte: [Víctor Schmidt](https://github.com/moonshinerd)
+Autor: [Víctor Schmidt](https://github.com/moonshinerd)
 
 </center>
 

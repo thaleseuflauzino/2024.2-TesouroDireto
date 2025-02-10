@@ -22,6 +22,7 @@ Durante o projeto, percebi que minha maior facilidade foi trabalhar com técnica
 Tive facilidade na organização do trabalho em equipe, pois já conhecia o método do professor e tinha afinidade com os membros do grupo. Além disso, como já havia trabalhado com requisitos anteriormente, tive clareza na sua definição, o que facilitou a aplicação dos conceitos na prática. Contribuir para a modelagem e revisão de documentos também ajudou a melhorar o entendimento dos conceitos da matéria e a comunicação da equipe.
 
 #### Júlia Takaki
+O que mais me ajudou ao longo do projeto foi a energia do grupo. Trabalhar com pessoas realmente comprometidas fez toda a diferença, porque transformou o processo em algo mais leve e até motivador. Saber que todos estavam se esforçando me deu aquele empurrãozinho para seguir junto, aprender mais e dar o meu melhor.
 
 ## Dificuldades
 
@@ -39,11 +40,16 @@ Minha maior dificuldade foi conciliar o tempo entre estágio, atividades extracu
 
 #### Júlia Takaki
 
+A frequência das entregas foi um dos pontos que mais me impactou, pois, em alguns momentos, gerou uma sensação de pressão, dificultando a administração do tempo e a busca pela qualidade em cada tarefa. Além disso, enfrentei desafios relacionados à padronização. No início, tive dificuldades para alinhar os artefatos aos padrões do grupo, o que resultou em algumas inconsistências. Também percebi a importância de padronizar corretamente as referências, incluindo página, capítulo e autor, o que se mostrou essencial para garantir a clareza e a confiabilidade das informações.
+
 ## Histórico de Versões
 
 | Versão | Data | Descrição | Autor | Revisor |
 | :----: | ---- | --------- | ----- | ------- |
-| `1.0`  |07/12/2025| Criação do documento | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.1`  |07/12/2025| Adição do relato pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
-| `1.2`  |07/12/2025| Adição do relato pessoal | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.0`  |07/02/2025| Criação do documento | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.1`  |07/02/2025| Adição do relato pessoal | [Thales Euflauzino](https://github.com/thaleseuflauzino) | [Víctor Schmidt](https://github.com/moonshinerd) |
+| `1.2`  |07/02/2025| Adição do relato pessoal | [Víctor Schmidt](https://github.com/moonshinerd) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
 | `1.3`  |08/12/2025| Adição do relato pessoal | [Victor Rodrigues](https://github.com/ViictorHugoo) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.3`  |08/02/2025| Correção de datas | [Júlia Takaki](https://github.com/juliatakaki) |  [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.5`  |08/02/2025| Adição do relato pessoal | [Júlia Takaki](https://github.com/juliatakaki) |  [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+
