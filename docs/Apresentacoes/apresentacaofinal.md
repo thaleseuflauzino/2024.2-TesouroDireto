@@ -22,4 +22,4 @@ _Autor: [Víctor Rodrigues](https://github.com/ViictorRodrigues)_
 
 Versão  | Data | Descrição | Autor(es) | Revisor(es)
 -------- | ------ | ------ | ---------- | ----------
-`1.0` | 10/02/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/moonshinerd) | |
+`1.0` | 10/02/2025 | Criação do documento  | [Victor Rodrigues](https://github.com/ViictorHugoo) |[Thales Euflauzino](https://github.com/thaleseuflauzino) |
