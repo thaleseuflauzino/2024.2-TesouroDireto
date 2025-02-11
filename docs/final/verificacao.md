@@ -105,7 +105,8 @@ Planejamento da Verificação:
     <td><a href="../verificacao/grupo5/entrega2/r-questionario">Questionário</a></td>
     <td><a href="https://github.com/juliatakaki">Júlia Takaki</a></td>
   </tr>
-<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+</table>
+<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -266,7 +267,8 @@ Planejamento da Verificação:
     <td><a href="../verificacao/grupo6/entrega2/questionario">Questionário</a></td>
     <td><a href="https://github.com/CristianoMoraiss">Cristiano Morais</a></td>
   </tr>
-<font>Autor: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
+</table>
+<font>Fonte: <a href='https://github.com/juliatakaki'>Júlia Takaki</a></font>
 </details>
 
 <details>
@@ -358,6 +360,7 @@ Planejamento da Verificação:
 
 ## Histórico de Versões
 
-| Versão | Data       | Descrição                      | Autor(es)                                                                                         | Revisor(es)                                    |
-| ------ | ---------- | ------------------------------ | ------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| `1.0`    | 06/02/2025 | Criação da página     | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| Versão | Data       | Descrição              | Autor(es)                                      | Revisor(es)                                              |
+| ------ | ---------- | ---------------------- | ---------------------------------------------- | -------------------------------------------------------- |
+| `1.0`  | 06/02/2025 | Criação da página      | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
+| `1.1`  | 10/02/2025 | Corrigindo formatações | [Júlia Takaki](https://github.com/juliatakaki) | [Thales Euflauzino](https://github.com/thaleseuflauzino) |
